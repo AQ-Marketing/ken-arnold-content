@@ -1,0 +1,172 @@
+{
+  "path": "/service-area/amherst/annual-preventative-inspection/",
+  "title": "Annual Inspection Amherst MA",
+  "status": "publish",
+  "seo": {
+    "title": "Annual Inspection Amherst MA | Ken Arnold Home Inspection",
+    "description": "Annual and Preventative Home Inspection in Amherst, Hampshire County, MA by Ken Arnold (MA Lic. #587). Full-scope inspection for current owners — oriented ",
+    "canonical": "https://kahomeinspectionsllc.com/services/annual-preventative-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Amherst, MA",
+          "url": "/service-area/amherst/"
+        },
+        {
+          "label": "Annual & Preventative Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Amherst, Hampshire County",
+      "heading": "Annual & Preventative Home Inspection in Amherst, MA",
+      "meta": "From $600–$750 · ~3 hours on-site",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Amherst Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Annual inspections on Amherst rentals catch porch and stair deterioration, smoke/CO compliance lapses, and overloaded panels before the city or a tenant does. On North Amherst farmhouses, we track sill rot progression and chimney condition. East Amherst owners get a check on aging cast-iron drains, asbestos pipe wrap condition, and boiler combustion before another heating season.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing annual &amp; preventative home inspection services across the Pioneer Valley since 2004 — including hundreds of Amherst-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/services/annual-preventative-inspection/\">Annual &amp; Preventative Home Inspection</a>. For broader context on Amherst's housing stock, see the <a href=\"/service-area/amherst/\">Amherst town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Why bother if I'm not buying or selling?",
+          "a": "Most homeowners only see their major systems when something fails. An annual or 3–5 year preventative inspection reverses that — you find the worn shingles, the failing supply pipes, the chimney crown crack, the early termite mud tubes, before they become an emergency repair or insurance claim. The cost of an inspection is almost always less than what one missed issue would have cost to repair urgently."
+        },
+        {
+          "q": "How is this different from a buyer inspection?",
+          "a": "The scope is the same — every major system gets evaluated under the ASHI Standards of Practice — but the orientation is different. A buyer inspection is decision-focused (what should I negotiate, repair, or walk away from). A preventative inspection is planning-focused (what do I budget for over the next 1, 3, and 5 years). The report's organization reflects that."
+        },
+        {
+          "q": "How often should I have this done?",
+          "a": "On older Pioneer Valley homes (pre-1980) we recommend every 3–5 years, plus after any major weather event (wind storms, ice dam season, a wet spring). Newer homes can stretch to every 5–7 years. Always inspect before listing — well before — so you have time to address findings without closing pressure."
+        },
+        {
+          "q": "What about insurance inspections?",
+          "a": "Some insurers require a 4-point or full inspection for older homes. We can perform either, structured to whatever the carrier asks for. Tell us the carrier's requirements when you schedule and we'll match them."
+        },
+        {
+          "q": "Do you offer a maintenance schedule with the report?",
+          "a": "Yes. The report's executive summary lays out near-term (this year), medium-term (1–3 years), and long-term (3–10 years) maintenance items, organized so you can plan capital spending and avoid the worst surprises."
+        },
+        {
+          "q": "Can I bundle specialty testing with a preventative inspection?",
+          "a": "Yes — and it's often the most efficient time to do it. <a href=\"/testing-and-specialty/radon-testing/\">Radon levels</a> can change after basement renovations or HVAC changes; <a href=\"/testing-and-specialty/termite-wdi/\">termite activity</a> often appears between buyer inspections; and <a href=\"/testing-and-specialty/thermal-imaging/\">thermal imaging</a> finds moisture and missing insulation invisible to the eye. Add any combination to the same visit."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Amherst",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Amherst",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/amherst/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Amherst",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/amherst/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Amherst",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/amherst/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Amherst",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/amherst/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Amherst",
+      "cards": [
+        {
+          "title": "Radon Testing in Amherst",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/amherst/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Amherst",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/amherst/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Amherst",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/amherst/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Amherst",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/amherst/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Ken Arnold Home Inspection LLC",
+  "shortName": "Ken Arnold Home Inspection",
+  "tagline": "Pioneer Valley's Trusted Inspector",
+  "url": "https://kahomeinspectionsllc.com",
+
+  "phone": "(413) 522-8004",
+  "phoneTel": "+14135228004",
+  "email": "ken@kahomeinspectionsllc.com",
+
+  "address": {
+    "street": "35 Keets Rd",
+    "locality": "Deerfield",
+    "region": "MA",
+    "postalCode": "01342",
+    "country": "US"
+  },
+
+  "geo": {
+    "latitude": 42.5429,
+    "longitude": -72.6079
+  },
+
+  "hours": {
+    "monFri": { "opens": "07:00", "closes": "18:00" },
+    "sat": { "opens": "08:00", "closes": "16:00" },
+    "sun": null
+  },
+
+  "license": {
+    "number": "587",
+    "state": "MA",
+    "issuingBody": "Massachusetts Division of Professional Licensure",
+    "yearLicensed": 2004
+  },
+
+  "founded": 2004,
+
+  "logo": {
+    "file": "logo.png",
+    "fileDark": "logo-light.png"
+  },
+
+  "fonts": {
+    "googleCss": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700;900&family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap"
+  },
+
+  "social": {
+    "google": null
+  },
+
+  "areas": [
+    "Deerfield, MA", "South Deerfield, MA", "Amherst, MA", "Northampton, MA",
+    "Greenfield, MA", "Hadley, MA", "Holyoke, MA", "Chicopee, MA",
+    "Westfield, MA", "Easthampton, MA", "Sunderland, MA", "Whately, MA",
+    "Hatfield, MA", "Gill, MA", "Northfield, MA"
+  ],
+
+  "counties": ["Franklin County, MA", "Hampshire County, MA", "Hampden County, MA"],
+
+  "regions": ["Pioneer Valley", "Connecticut River Valley", "Western Massachusetts"],
+
+  "towns": [
+    { "slug": "deerfield", "name": "Deerfield", "county": "Franklin" },
+    { "slug": "south-deerfield", "name": "South Deerfield", "county": "Franklin" },
+    { "slug": "amherst", "name": "Amherst", "county": "Hampshire" },
+    { "slug": "northampton", "name": "Northampton", "county": "Hampshire" },
+    { "slug": "greenfield", "name": "Greenfield", "county": "Franklin" },
+    { "slug": "hadley", "name": "Hadley", "county": "Hampshire" },
+    { "slug": "holyoke", "name": "Holyoke", "county": "Hampden" },
+    { "slug": "chicopee", "name": "Chicopee", "county": "Hampden" },
+    { "slug": "westfield", "name": "Westfield", "county": "Hampden" },
+    { "slug": "easthampton", "name": "Easthampton", "county": "Hampshire" },
+    { "slug": "sunderland", "name": "Sunderland", "county": "Franklin" },
+    { "slug": "whately", "name": "Whately", "county": "Franklin" },
+    { "slug": "hatfield", "name": "Hatfield", "county": "Hampshire" },
+    { "slug": "gill", "name": "Gill", "county": "Franklin" },
+    { "slug": "northfield", "name": "Northfield", "county": "Franklin" }
+  ],
+
+  "bookingUrl": "https://link.aqm360.com/widget/bookings/scheduleanappointmentcallwithus-230ad544-8f6f-4125-9d14-f1b202f0becc-7fdb3832-39a9-4c80-a146-60233fb444a1-aaa07f1f-456b-4ccc-81e4-adb0ad437aa3-0b2d0529-cb48-461f-b8b5-712b398e91eb-fcbf65a8-70d2-4009-b786-ac4166822f0b-0f63997e-5577-46ae-9f21-00d7deb09698-e6c21248-3365-4355-9454-17fdbd70ec1e-8b95828a-650c-41a7-9b5b-453855dce734-8dda7b22-1142-4021-8dfc-111b3ef84155-f97c6afe-ae0a-48f4-a6cb-868f7ec9020c-5c4b1d30-8e32-4a3d-9142-617df2faa33d-15d6fb8b-f278-4503-98e4-f435ca7bb65e-1cb0ec42-d374-4a1a-b923-59c59dcc4791-c04f60e7-15a7-4cfc-a977-30d02f1c83fe-feaf4c84-b36d-497f-b405-f33cd6e86a47-723c0987-f3dd-44bb-9a3c-04fe8c5fbd6e",
+
+  "nav": [
+    { "href": "/about/", "label": "About", "panel": "about", "id": "nav-about" },
+    { "href": "/services/", "label": "Services", "panel": "services", "id": "nav-services" },
+    { "href": "/testing-and-specialty/", "label": "Specialty", "panel": "specialty", "id": "nav-specialty" },
+    { "href": "/service-area/", "label": "Areas", "panel": "areas", "id": "nav-areas" },
+    { "href": "/pricing/", "label": "Pricing" },
+    { "href": "/faqs/", "label": "FAQs" },
+    { "href": "/contact/", "label": "Contact" }
+  ],
+
+  "footer": {
+    "company": {
+      "heading": "Company",
+      "links": [
+        { "label": "About Us", "href": "/about/" },
+        { "label": "Client Reviews", "href": "/reviews/" },
+        { "label": "Sample Reports", "href": "/sample-reports/" },
+        { "label": "Pricing & Scheduling", "href": "/pricing/" },
+        { "label": "FAQs", "href": "/faqs/" },
+        { "label": "Blog & Resources", "href": "/blog/" },
+        { "label": "Contact", "href": "/contact/" }
+      ]
+    },
+    "inspections": {
+      "heading": "Inspections",
+      "links": [
+        { "label": "Buyer Inspections", "href": "/services/buyer-home-inspection/" },
+        { "label": "New Construction", "href": "/services/new-construction-inspection/" },
+        { "label": "Pre-Listing Inspections", "href": "/services/pre-listing-inspection/" },
+        { "label": "Condo & Townhouse", "href": "/services/condo-townhouse-inspection/" },
+        { "label": "Multi-Family", "href": "/services/multi-family-inspection/" },
+        { "label": "Annual & Preventative", "href": "/services/annual-preventative-inspection/" },
+        { "label": "Radon Testing", "href": "/testing-and-specialty/radon-testing/" },
+        { "label": "Mold Inspections", "href": "/testing-and-specialty/mold-inspection/" },
+        { "label": "Septic Inspections", "href": "/testing-and-specialty/septic-inspection/" },
+        { "label": "Thermal Imaging", "href": "/testing-and-specialty/thermal-imaging/" }
+      ]
+    },
+    "legal": [
+      { "label": "Privacy Policy", "href": "/privacy/" },
+      { "label": "Terms & Conditions", "href": "/terms/" },
+      { "label": "Accessibility", "href": "/accessibility/" }
+    ],
+    "social": {
+      "facebook": "#",
+      "instagram": "#"
+    }
+  }
+}

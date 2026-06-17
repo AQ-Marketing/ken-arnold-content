@@ -1,0 +1,172 @@
+{
+  "path": "/testing-and-specialty/thermal-imaging/",
+  "title": "Thermal Imaging Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Thermal Imaging Inspection MA | Ken Arnold Home Inspection",
+    "description": "Infrared thermal imaging on every Pioneer Valley home inspection — finds hidden moisture, missing insulation, and overheated electrical circuits. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/thermal-imaging/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty",
+          "url": "/testing-and-specialty/"
+        },
+        {
+          "label": "Thermal Imaging Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Thermal Imaging Inspection in Massachusetts",
+      "subheading": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+      "image": "thermal-imaging-home-inspection-massachusetts.webp",
+      "badges": [
+        {
+          "text": "Thermal images embedded in the inspection report"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Schedule This Test",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_article",
+      "v": 1,
+      "col_ratio": "60fr_35fr",
+      "body": "<p>Thermal imaging is one of the most effective inspection tools available — and one of the most underused in standard inspections. A calibrated infrared camera reveals problems that are completely invisible to the eye: hidden water leaks, missing insulation, overheated electrical connections, HVAC distribution issues, and air leakage at every penetration in the building envelope.</p> <p>Thermal imaging is included on most inspections — and standalone thermal scans are available for owners diagnosing ongoing comfort, energy, or moisture issues.</p> <h2 id=\"what-thermal-imaging-finds\">What Thermal Imaging Finds</h2> <h3 id=\"hidden-moisture\">Hidden moisture</h3> <p>Wet drywall, leaking pipes inside walls, roof leaks, foundation seepage, and shower-pan failures all show up as cool spots on thermal because evaporation cools the surface. This is the #1 use case for thermal in home inspections.</p> <h3 id=\"missing-insulation\">Missing insulation</h3> <p>A wall cavity with no insulation behaves dramatically differently than its neighbors. In winter, missing-insulation areas show cold; in summer, hot. The boundaries of the defect are visible on infrared with a clarity that no other tool provides — often revealing entire wall sections, ceiling areas, or room headers that were missed during construction.</p> <h3 id=\"electrical-hot-spots\">Electrical hot spots</h3> <p>Overloaded breakers, loose connections, undersized wiring, and failing components run hotter than they should. A thermal scan of the panel and major junction points catches these before they become safety issues.</p> <h3 id=\"hvac-performance\">HVAC performance</h3> <p>Uneven supply-register temperatures point to duct leakage, blocked returns, or distribution imbalances. Cold supply lines into otherwise warm ductwork mean cooling is working but it’s not getting where it needs to.</p> <h3 id=\"air-leakage-and-ice-dam-risk\">Air leakage and ice-dam risk</h3> <p>At penetrations — recessed lights, plumbing chases, top plates, attic hatches — infrared reveals the air-leak paths that drive ice damming in winter and energy loss year-round.</p> <h2 id=\"when-thermal-imaging-helps-most\">When Thermal Imaging Helps Most</h2> <ul> <li><strong>Buyer inspections</strong> in winter — heating-season temperature differentials make every defect more visible</li> <li><strong>New construction</strong> — particularly pre-drywall — to catch missing insulation before it’s hidden forever</li> <li><strong>Pre-listing inspections</strong> — find issues a buyer’s inspector with thermal will find anyway, on your own timeline</li> <li><strong>Investigating active issues</strong> — known water stain, ongoing comfort complaint, intermittent breaker trip, ice damming history</li> <li><strong>Older homes with mixed insulation history</strong> — finding the cold rooms before they become the cold seasons</li> </ul> <h2 id=\"equipment\">Equipment</h2> <p>A calibrated FLIR-class professional thermal camera with documented annual calibration. Images are temperature-mapped, date-stamped, and embedded directly in the inspection report alongside standard photos.</p> <h2 id=\"schedule\">Schedule</h2> <p>Most thermal scans are added to a <a href=\"/services/buyer-home-inspection/\">buyer home inspection</a>, <a href=\"/services/new-construction-inspection/\">new construction inspection</a>, or <a href=\"/services/pre-listing-inspection/\">pre-listing inspection</a>. Standalone visits are available for owners diagnosing specific issues. <a href=\"/schedule/\">Schedule online</a>.</p>",
+      "aside": "<div class=\"rounded-lg border border-brand-200 bg-brand-50 p-6\"> <h2 class=\"!mt-0 text-lg font-bold text-brand-900\">At a Glance</h2> <ul class=\"mt-4 space-y-3\"> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Results</span> <span class=\"text-sm font-bold text-brand-900 text-right\">Thermal images embedded in the inspection report</span> </li> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Inspector</span> <span class=\"text-sm font-bold text-brand-900\">Licensed Home Inspector</span> </li> <li class=\"flex justify-between items-center gap-4\"> <span class=\"text-sm text-brand-600 font-medium\">License</span> <span class=\"text-sm font-bold text-brand-900\">MA #587</span> </li> </ul> <div class=\"mt-6 flex flex-col gap-3\"> <a href=\"/schedule/\" class=\"btn-primary w-full text-center text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Schedule This Test</a> <a href=\"tel:+14135228004\" class=\"w-full text-center rounded-md border border-brand-300 px-4 py-2.5 text-xs sm:text-sm font-semibold uppercase tracking-wide text-brand-700 hover:border-accent-400 hover:text-accent-600 transition no-underline\">Call (413) 522-8004</a> </div> </div> <!-- Bundle nudge --> <div class=\"mt-4 rounded-lg border border-accent-200 bg-accent-50 p-5\"> <p class=\"text-sm font-semibold text-accent-700\">Bundle &amp; Save a Trip</p> <p class=\"text-xs text-accent-600 mt-1\">Add this test to a home inspection and coordinate everything in one visit. Call to confirm availability and bundle pricing.</p> </div>"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Other Testing Services",
+      "heading": "More Specialty Tests",
+      "subheading": "All Bundleable into One Visit",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "note": "Bundle with home inspection — package pricing",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Pair With a Core Inspection",
+      "heading": "Bundle This Test into",
+      "subheading": "a Complete Inspection",
+      "intro": "Specialty testing is most valuable when paired with a full visual inspection. Choose the right inspection type, then add this test to the same appointment.",
+      "bg": "white",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "New Construction Inspection",
+          "body": "Pre-drywall, final-walk, and 11-month warranty inspections for new builds.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Inspection"
+        },
+        {
+          "title": "Pre-Listing Inspection",
+          "body": "See what the buyer's inspector will find — before they do.",
+          "href": "/services/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Inspection"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Test",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "What does thermal imaging actually show?",
+          "a": "An infrared camera measures surface temperature differences. That sounds modest, but it's exactly what reveals: missing insulation in walls and ceilings (cold spots in winter), water intrusion behind finished surfaces (cool wet spots), overheated electrical breakers and connections (hot spots), HVAC distribution issues (uneven supply temperatures), and air leakage at penetrations and weatherstripping. None of these are visible to the eye; all of them are obvious on infrared."
+        },
+        {
+          "q": "Is this the same as 'energy audit' thermal imaging?",
+          "a": "Same equipment, different focus. An energy audit uses thermal imaging to evaluate envelope performance and identify weatherization upgrades. A home-inspection thermal scan uses it to find safety, structural, and functional defects — water leaks, electrical hot spots, missing insulation that's likely to cause ice damming. Both are useful; they answer different questions."
+        },
+        {
+          "q": "When does it need to be a separate appointment?",
+          "a": "Almost never. Thermal imaging is a quick add-on to any home inspection — typically 30–45 minutes of additional time on-site. It's most effective in heating season (Nov–March) when interior/exterior temperature differentials are highest, but cooling-season scans are useful too, particularly for HVAC and water-leak detection."
+        },
+        {
+          "q": "Do new construction homes need thermal imaging?",
+          "a": "Yes — possibly more than older homes. Modern envelopes are tightly built and depend on continuous insulation and air-sealing for performance. Missed insulation in a wall cavity, a poorly sealed window, or a HVAC duct in an unconditioned space all show up immediately on thermal. Catching them before drywall (during a pre-drywall walkthrough) is dramatically cheaper than fixing them later."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Thermal Imaging Inspection",
+      "subheading": "Bundle With Any Home Inspection",
+      "body": "Thermal imaging inspection is available across the Pioneer Valley — standalone or bundled into the same visit as a home inspection. MA License #587.",
+      "image": "specialty-thermal-cta-attic-insulation-ice-dam-eaves.webp",
+      "cta_label": "Schedule This Test",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

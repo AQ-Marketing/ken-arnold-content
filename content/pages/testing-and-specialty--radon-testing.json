@@ -1,0 +1,170 @@
+{
+  "path": "/testing-and-specialty/radon-testing/",
+  "title": "Radon Testing MA",
+  "status": "publish",
+  "seo": {
+    "title": "Radon Testing MA | Ken Arnold Home Inspection",
+    "description": "EPA-certified radon testing in Western MA. 48-hour continuous monitor or short-term canister. Bundle with home inspection. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/radon-testing/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty",
+          "url": "/testing-and-specialty/"
+        },
+        {
+          "label": "Radon Testing in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Radon Testing in Massachusetts",
+      "subheading": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+      "image": "radon-testing-massachusetts.webp",
+      "badges": [
+        {
+          "text": "Results within 48 hours of monitor pickup"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Schedule This Test",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_article",
+      "v": 1,
+      "col_ratio": "60fr_35fr",
+      "body": "<p>Radon is a colorless, odorless radioactive gas that occurs naturally in the soil and seeps into homes through foundations, slab cracks, and sump pits. The <a href=\"https://www.epa.gov/radon/health-risk-radon\">EPA classifies radon as the leading cause of lung cancer among non-smokers</a>, and Massachusetts has documented elevated radon levels across the Pioneer Valley.</p> <p>For real-estate transactions in Western Mass, radon testing is one of the highest-value add-ons available. It’s inexpensive, takes 48 hours, and surfaces a hazard that’s otherwise completely invisible.</p> <h2 id=\"why-radon-matters-specifically-in-the-pioneer-valley\">Why Radon Matters Specifically in the Pioneer Valley</h2> <p class=\"text-brand-800\">The Pioneer Valley sits on a geology that produces above-average radon emissions — specifically the granite and pegmatite formations that define much of Franklin and Hampshire Counties. Massachusetts DPH data shows elevated zip codes throughout our service area, with particularly high concentrations in:</p> <ul> <li><strong>Greenfield</strong> and the surrounding Franklin County hill towns</li> <li><strong>Holyoke</strong> and the Holyoke Range / Mount Tom corridor</li> <li><strong>Sunderland</strong>, <strong>Leverett</strong>, and the Mount Toby area</li> <li>The <strong>Pelham Hills</strong> and parts of east Amherst</li> </ul> <p>Even within these zones, levels vary house-to-house — the only way to know your home is to test it.</p> <h2 id=\"how-we-test\">How We Test</h2> <p>A professional continuous-monitoring device is placed on the lowest livable level of the home for a minimum of 48 hours, meeting EPA and state protocol for real-estate transactions.<strong>professional continuous-monitoring device</strong></p> <ol> <li>The monitor is set up at the start of the inspection (or in a separate visit).</li> <li>Closed-house conditions are maintained for at least 12 hours before and during the test.</li> <li>The monitor records hourly readings — picking up not just the average but the variability.</li> <li>After at least 48 hours, the device is retrieved and results are typically emailed within 24 hours.</li> </ol> <p>The continuous-monitor approach is the standard for real-estate transactions in Massachusetts because the hourly data makes test tampering (e.g., opening windows mid-test) easy to detect.</p> <h2 id=\"what-the-results-mean\">What the Results Mean</h2> <table><thead><tr><th>Reading</th><th>What it means</th></tr></thead><tbody><tr><td>Below 2.0 pCi/L</td><td>No mitigation needed. Optional re-testing in 2 years.</td></tr><tr><td>2.0–3.9 pCi/L</td><td>Below EPA action level, but consider mitigation if levels are toward the upper end.</td></tr><tr><td>4.0 pCi/L or higher</td><td>EPA recommends mitigation. Negotiate with seller or install pre-occupancy.</td></tr><tr><td>10+ pCi/L</td><td>Common in the Pioneer Valley, particularly in basement-level living spaces. Mitigation strongly recommended; re-test after mitigation.</td></tr></tbody></table> <h2 id=\"schedule\">Schedule</h2> <p><a href=\"/schedule/\">Schedule online</a> — radon testing is most often booked alongside a <a href=\"/services/buyer-home-inspection/\">buyer home inspection</a>, <a href=\"/services/pre-listing-inspection/\">pre-listing inspection</a>, or <a href=\"/services/new-construction-inspection/\">new construction inspection</a>, but standalone visits are also available.</p>",
+      "aside": "<div class=\"rounded-lg border border-brand-200 bg-brand-50 p-6\"> <h2 class=\"!mt-0 text-lg font-bold text-brand-900\">At a Glance</h2> <ul class=\"mt-4 space-y-3\"> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Results</span> <span class=\"text-sm font-bold text-brand-900 text-right\">Results within 48 hours of monitor pickup</span> </li> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Inspector</span> <span class=\"text-sm font-bold text-brand-900\">Licensed Home Inspector</span> </li> <li class=\"flex justify-between items-center gap-4\"> <span class=\"text-sm text-brand-600 font-medium\">License</span> <span class=\"text-sm font-bold text-brand-900\">MA #587</span> </li> </ul> <div class=\"mt-6 flex flex-col gap-3\"> <a href=\"/schedule/\" class=\"btn-primary w-full text-center text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Schedule This Test</a> <a href=\"tel:+14135228004\" class=\"w-full text-center rounded-md border border-brand-300 px-4 py-2.5 text-xs sm:text-sm font-semibold uppercase tracking-wide text-brand-700 hover:border-accent-400 hover:text-accent-600 transition no-underline\">Call (413) 522-8004</a> </div> </div> <!-- Bundle nudge --> <div class=\"mt-4 rounded-lg border border-accent-200 bg-accent-50 p-5\"> <p class=\"text-sm font-semibold text-accent-700\">Bundle &amp; Save a Trip</p> <p class=\"text-xs text-accent-600 mt-1\">Add this test to a home inspection and coordinate everything in one visit. Call to confirm availability and bundle pricing.</p> </div>"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Other Testing Services",
+      "heading": "More Specialty Tests",
+      "subheading": "All Bundleable into One Visit",
+      "cards": [
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "note": "Bundle with home inspection",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Pair With a Core Inspection",
+      "heading": "Bundle This Test into",
+      "subheading": "a Complete Inspection",
+      "intro": "Specialty testing is most valuable when paired with a full visual inspection. Choose the right inspection type, then add this test to the same appointment.",
+      "bg": "white",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "New Construction Inspection",
+          "body": "Pre-drywall, final-walk, and 11-month warranty inspections for new builds.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Inspection"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Test",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "What radon level is concerning in Massachusetts?",
+          "a": "The EPA action level is 4.0 pCi/L. The Massachusetts Department of Public Health recommends mitigation at 4.0 pCi/L or higher, and considering it between 2.0 and 4.0. Many Pioneer Valley homes test in the 4–10 range; test results above 10 pCi/L are not unusual in Greenfield, Holyoke, and the Mount Toby area of Sunderland."
+        },
+        {
+          "q": "How does the test work?",
+          "a": "We place a continuous-monitoring device on the lowest livable level of the home — typically the basement or first floor — for at least 48 hours under closed-house conditions (windows closed except for normal entry/exit). The monitor records hourly readings and provides a final average plus a graph of how levels varied over time."
+        },
+        {
+          "q": "What if my test comes back high?",
+          "a": "Mitigation is straightforward. Most Pioneer Valley homes can be mitigated for $1,200–$2,500 with a sub-slab depressurization system installed by a licensed mitigator. Post-mitigation re-testing typically brings levels well below 2.0 pCi/L. We can refer you to mitigation contractors if needed; we don't take referral fees."
+        },
+        {
+          "q": "Can I test the home myself?",
+          "a": "Short-term DIY canisters work for general awareness but they're not generally accepted in real-estate transactions. For a purchase, use a continuous-monitoring test performed by a licensed inspector — that's what almost every Massachusetts buyer's representative will accept."
+        },
+        {
+          "q": "Should I test a new construction home?",
+          "a": "Absolutely. New construction in the Pioneer Valley regularly tests above the EPA action level despite tighter envelopes — modern homes are simply more airtight, which means lower air-exchange rates and higher indoor radon concentration. Mitigation is dramatically cheaper if installed during construction; testing before closing is critical."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Radon Testing",
+      "subheading": "Bundle With Any Home Inspection",
+      "body": "Radon testing is available across the Pioneer Valley — standalone or bundled with any home inspection. Contact us to schedule or ask about adding it to an upcoming inspection.",
+      "image": "specialty-radon-cta-finished-basement-bedroom.webp",
+      "cta_label": "Schedule This Test",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

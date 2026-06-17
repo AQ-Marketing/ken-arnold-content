@@ -1,0 +1,213 @@
+{
+  "path": "/service-area/amherst/",
+  "title": "Amherst Home Inspector MA",
+  "status": "publish",
+  "seo": {
+    "title": "Amherst Home Inspector MA | Ken Arnold Home Inspection",
+    "description": "Licensed home inspector serving Amherst, Hampshire County, MA. Amherst",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/amherst/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Amherst, MA"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Hampshire County · MA License #587",
+      "heading": "Home Inspector in Amherst, MA",
+      "subheading": "Amherst's housing stock spans 200+ years — from Federal-period homes near the town common to dense student-rental triple-deckers and new construction in East Amherst.",
+      "image": "town-amherst-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule in Amherst",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Local Knowledge",
+      "heading": "Inspecting in Amherst",
+      "subheading": "What the Housing Stock Tells Us",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "Amherst inspections require a different lens depending on the neighborhood. Around the UMass and Amherst College corridors, multi-family rental properties dominate — we routinely flag issues with shared utilities, undersized electrical service, deferred roof maintenance, and chronic moisture from poorly graded landscaping. North Amherst farmhouses and the older homes off Pleasant Street often sit on fieldstone or rubble foundations with knob-and-tube remnants in attics. East Amherst and Cushman are heavy on 1960s–80s split-levels and ranches where original cast-iron drain stacks, asbestos-wrap heating pipes, and original double-pane windows are common findings. Ken's been inspecting in Amherst since 2004 and knows the local building department, the soil profile, and the seasonal radon cycle around the Pelham Hills."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Multi-family rentals near UMass"
+        },
+        {
+          "text": "North Amherst farmhouses"
+        },
+        {
+          "text": "East Amherst splits & ranches"
+        }
+      ],
+      "image": "town-amherst-overview-umass-corridor-street.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "dark",
+      "eyebrow": "Inspection Services",
+      "heading": "Inspection Services in Amherst",
+      "subheading": "Full ASHI Scope. Fast Digital Report.",
+      "intro": "Every standard home inspection includes the full ASHI scope — roof, structure, exterior, electrical, plumbing, HVAC, insulation, interior, and built-in appliances — documented with photographs and delivered as a comprehensive digital report.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/amherst/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection in Amherst"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/amherst/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection in Amherst"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/amherst/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection in Amherst"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/amherst/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection in Amherst"
+        },
+        {
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/service-area/amherst/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Home Inspection in Amherst"
+        },
+        {
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "href": "/service-area/amherst/annual-preventative-inspection/",
+          "aria": "Learn more about Annual & Preventative Home Inspection in Amherst"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Specialty Testing",
+      "heading": "Specialty Testing in Amherst",
+      "subheading": "Bundle Into the Same Visit",
+      "intro": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving a second appointment and a separate trip charge.",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/amherst/radon-testing/",
+          "aria": "Learn more about Radon Testing in Amherst"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/amherst/well-water-testing/",
+          "aria": "Learn more about Well Water Testing in Amherst"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/amherst/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection in Amherst"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/amherst/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection in Amherst"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/service-area/amherst/mold-inspection/",
+          "aria": "Learn more about Mold Inspection in Amherst"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/service-area/amherst/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection in Amherst"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "in Amherst",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. After 22 years of Amherst-area work, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That recognition is what separates a useful inspection report from a checklist-driven one. Every inspection is performed personally by Ken (MA License #587) — never subcontracted, never rushed."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Every inspection personally performed by Ken — MA License #587"
+        },
+        {
+          "text": "No subcontractors, no staff inspectors, no franchise"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report delivered promptly"
+        },
+        {
+          "text": "22 years inspecting homes across Hampshire County"
+        }
+      ],
+      "image": "town-amherst-trust-north-amherst-farmhouse.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Your Amherst Inspection",
+      "subheading": "Comprehensive Digital Report — Delivered Promptly",
+      "body": "Ken Arnold has been inspecting homes in Amherst and the surrounding Pioneer Valley for over 22 years. Independent, owner-operated, MA License #587. Call today or schedule online.",
+      "image": "town-amherst-cta-east-amherst-split-level.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

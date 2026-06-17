@@ -1,0 +1,212 @@
+{
+  "path": "/service-area/",
+  "title": "Service Area — Pioneer Valley",
+  "status": "publish",
+  "seo": {
+    "title": "Service Area — Pioneer Valley | Ken Arnold Home Inspection",
+    "description": "Ken Arnold Home Inspection covers the Pioneer Valley — Deerfield, Amherst, Northampton, Greenfield, Holyoke, and surrounding Western MA towns. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide_index",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Home Inspection Service Area",
+      "subheading": "Pioneer Valley & Western Massachusetts",
+      "sub_style": "text-accent-500",
+      "intro": "Ken Arnold Home Inspection LLC is based in Deerfield and serves the Pioneer Valley, Connecticut River Valley, and surrounding parts of Western Massachusetts — primarily Franklin, Hampshire, and Hampden Counties. Each town has a housing-stock profile built from 22 years of local inspections.",
+      "image": "servicearea-index-hero-pioneer-valley-map-context.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "town_card_grid",
+      "v": 1,
+      "eyebrow": "Primary Markets",
+      "heading": "Most-Inspected Towns",
+      "subheading": "Dedicated Profiles for Each",
+      "intro": "These three towns make up the majority of Ken's work. Each has dedicated service-by-service pages with city-specific guidance and housing-stock context.",
+      "bg": "white",
+      "grid_class": "grid md:grid-cols-3 gap-6",
+      "card_heading_size": "xl",
+      "cta_label": "View Town Profile",
+      "cards": [
+        {
+          "county": "Franklin County",
+          "title": "Deerfield, MA",
+          "body": "Deerfield is Ken's home base — 35 Keets Rd is a five-minute drive from Old Deerfield's historic district.",
+          "href": "/service-area/deerfield/"
+        },
+        {
+          "county": "Hampshire County",
+          "title": "Amherst, MA",
+          "body": "Amherst's housing stock spans 200+ years — from Federal-period homes near the town common to dense student-rental triple-deckers and new construction in East Amherst.",
+          "href": "/service-area/amherst/"
+        },
+        {
+          "county": "Hampshire County",
+          "title": "Northampton, MA",
+          "body": "Northampton has more pre-1900 housing stock than almost any other town we cover — Victorian, Queen Anne, and Italianate homes dominate the Smith College and Elm Street neighborhoods.",
+          "href": "/service-area/northampton/"
+        }
+      ]
+    },
+    {
+      "type": "town_card_grid",
+      "v": 1,
+      "eyebrow": "Full Coverage Area",
+      "heading": "All Towns We Serve",
+      "subheading": "Each with Local Housing-Stock Context",
+      "intro": "After 22 years in the field, Ken has learned that what's a \"normal\" finding in Holyoke isn't normal in Sunderland. Each town profile explains what to expect for that specific housing stock.",
+      "bg": "brand-50",
+      "grid_class": "grid sm:grid-cols-2 lg:grid-cols-3 gap-5",
+      "card_heading_size": "base",
+      "line_clamp": true,
+      "cards": [
+        {
+          "county": "Franklin County",
+          "title": "Greenfield, MA",
+          "body": "Greenfield's housing stock is a mix of Federal and Greek Revival downtown homes, dense post-war neighborhoods, and rural properties on the town's outskirts.",
+          "href": "/service-area/greenfield/"
+        },
+        {
+          "county": "Hampshire County",
+          "title": "Hadley, MA",
+          "body": "Hadley spans working farmland, mid-century ranches along Route 9, and newer subdivisions south of UMass — and almost every property here is on private well and septic.",
+          "href": "/service-area/hadley/"
+        },
+        {
+          "county": "Hampden County",
+          "title": "Holyoke, MA",
+          "body": "Holyoke is dense, vertical, and built on canals — three- and four-story tenements, brick mill conversions, and Victorian homes in the Highlands all need very different inspection approaches.",
+          "href": "/service-area/holyoke/"
+        },
+        {
+          "county": "Hampden County",
+          "title": "Chicopee, MA",
+          "body": "Chicopee is dominated by post-war single-families, Cape Cods, and ranches — a housing stock now 60–80 years old where deferred maintenance is the inspector's main story.",
+          "href": "/service-area/chicopee/"
+        },
+        {
+          "county": "Hampden County",
+          "title": "Westfield, MA",
+          "body": "Westfield's mix of farmland, established neighborhoods near Stanley Park, and newer subdivisions to the north means almost every property type lands on our schedule.",
+          "href": "/service-area/westfield/"
+        },
+        {
+          "county": "Hampshire County",
+          "title": "Easthampton, MA",
+          "body": "Easthampton has reinvented itself around the old Eastworks and Mill 180 — and its housing stock now includes mill-conversion condos alongside the older village homes.",
+          "href": "/service-area/easthampton/"
+        },
+        {
+          "county": "Franklin County",
+          "title": "Sunderland, MA",
+          "body": "Sunderland is largely rural — farms, fields, and homes set back on long driveways — which means well water, septic, and outbuildings are part of almost every inspection.",
+          "href": "/service-area/sunderland/"
+        },
+        {
+          "county": "Franklin County",
+          "title": "South Deerfield, MA",
+          "body": "South Deerfield is the commercial heart of the town of Deerfield — and its housing is dominated by mid-century ranches, raised ranches, and 1990s subdivisions rather than Old Deerfield's colonials.",
+          "href": "/service-area/south-deerfield/"
+        },
+        {
+          "county": "Franklin County",
+          "title": "Whately, MA",
+          "body": "Whately is small, rural, and almost entirely on private well and septic — every inspection here includes water testing and a careful look at the septic system.",
+          "href": "/service-area/whately/"
+        },
+        {
+          "county": "Hampshire County",
+          "title": "Hatfield, MA",
+          "body": "Hatfield's flat farmland and Connecticut River frontage shape its housing — older village homes on Main Street, mid-century ranches on the periphery, and a high-water-table soil profile that drives basement-moisture findings.",
+          "href": "/service-area/hatfield/"
+        },
+        {
+          "county": "Franklin County",
+          "title": "Gill, MA",
+          "body": "Gill is rural, sparsely settled, and almost entirely on private well and septic — and many homes here are 200+ years old with the foundation and framing issues that come with that history.",
+          "href": "/service-area/gill/"
+        },
+        {
+          "county": "Franklin County",
+          "title": "Northfield, MA",
+          "body": "Northfield's village center has some of the most architecturally intact 19th-century housing in Franklin County — and the surrounding rural homes are almost universally on private well and septic.",
+          "href": "/service-area/northfield/"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "22 Years in the Field",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "Across Every Town We Cover",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. A 1920s worker's cottage in Chicopee has a different inventory of likely problems than a Federal-period colonial in Old Deerfield — which has different issues than a Holyoke triple-decker or a 1970s split in Westfield."
+        },
+        {
+          "html": "After 22 years of inspecting homes across Franklin, Hampshire, and Hampden Counties, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That pattern recognition is what separates a useful inspection report from a checklist-driven one."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Based in Deerfield — central to the Pioneer Valley"
+        },
+        {
+          "text": "Franklin, Hampshire & Hampden Counties covered"
+        },
+        {
+          "text": "22+ years of local housing-stock experience"
+        },
+        {
+          "text": "Fast digital reports — always inside your due-diligence window"
+        }
+      ],
+      "footnote": "If your property is within roughly 45 minutes of Deerfield, we can almost certainly cover it — including parts of South County, the Mohawk Trail corridor, and the Pioneer Valley hilltowns. <a href=\"/contact/\" class=\"text-accent-600 font-medium underline\">Reach out</a> if you don't see your town listed.",
+      "image": "servicearea-index-trust-22-years-pioneer-valley-experience.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Serving the Pioneer Valley",
+      "subheading": "Since 2004",
+      "body": "Ken Arnold Home Inspection LLC has been covering Western Massachusetts for over 22 years — same licensed inspector, fast digital reports, no franchise model. Schedule online or call to confirm coverage for your property.",
+      "image": "servicearea-index-cta-franklin-county-rolling-landscape.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "path": "/service-area/amherst/mold-inspection/",
+  "title": "Mold Inspection Amherst MA",
+  "status": "publish",
+  "seo": {
+    "title": "Mold Inspection Amherst MA | Ken Arnold Home Inspection",
+    "description": "Mold Inspection in Amherst, Hampshire County, MA by Ken Arnold (MA Lic. #587). Visual mold evaluation with moisture-source identification, optional air sam",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/mold-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Amherst, MA",
+          "url": "/service-area/amherst/"
+        },
+        {
+          "label": "Mold Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Amherst, Hampshire County",
+      "heading": "Mold Inspection in Amherst, MA",
+      "meta": "Standalone: $225 (visual) / $375 with air sampling · As add-on: $175 visual / $325 with sampling — bundled · Visual report delivered promptly; lab results 5–7 business days",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Amherst Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Mold patterns in Amherst track the housing type. Triple-deckers near campus show bathroom and kitchen moisture from heavy occupancy and undersized exhaust. North Amherst farmhouses have fieldstone-basement humidity that migrates into first-floor framing. East Amherst splits and ranches show attic mold from bath fans dumped into soffits and ice-dam moisture along eaves with shallow insulation.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing mold inspection services across the Pioneer Valley since 2004 — including hundreds of Amherst-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/testing-and-specialty/mold-inspection/\">Mold Inspection</a>. For broader context on Amherst's housing stock, see the <a href=\"/service-area/amherst/\">Amherst town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Do I need a mold inspection?",
+          "a": "Mold inspection isn't part of a standard home inspection. It's worth adding when (a) you can see visible suspect growth, (b) you're buying a property with a moisture history (basement flooding, roof leaks, unconditioned crawlspace), (c) you have known sensitivities, or (d) the property is a basement-level condo, mill conversion, or crawlspace property where moisture is endemic."
+        },
+        {
+          "q": "What's the difference between visual evaluation and air sampling?",
+          "a": "Visual evaluation identifies obvious growth, documents the extent, and — most importantly — finds the moisture source that's enabling it. That moisture source is what actually needs to be fixed. Air sampling sends spore counts to a certified lab for comparison against outdoor baseline; it tells you whether airborne concentrations are elevated. Air sampling without addressing the moisture source is generally a waste of money."
+        },
+        {
+          "q": "Can you remediate mold?",
+          "a": "No — Ken doesn't perform remediation, and that's a deliberate boundary. An independent inspection without a financial interest in the remediation is exactly what you want. We refer to qualified IICRC-certified remediators when needed; we don't take referral fees."
+        },
+        {
+          "q": "What's typical in the Pioneer Valley?",
+          "a": "Basement and crawlspace surface mold is extremely common in older Western Mass homes — fieldstone foundations, low-grade waterproofing, and seasonal humidity create perfect conditions. The good news is most of it is cosmetic surface growth that responds to humidity control (dehumidification, drainage, conditioned crawlspace) rather than full demolition-grade remediation."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Amherst",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Amherst",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/amherst/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Amherst",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/amherst/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Amherst",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/amherst/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Amherst",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/amherst/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Amherst",
+      "cards": [
+        {
+          "title": "Radon Testing in Amherst",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/amherst/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Amherst",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/amherst/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Amherst",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/amherst/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Amherst",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/amherst/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

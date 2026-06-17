@@ -1,0 +1,302 @@
+{
+  "path": "/services/annual-preventative-inspection/",
+  "title": "Annual Home Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Annual Home Inspection MA | Ken Arnold Home Inspection",
+    "description": "Maintenance-focused home inspection for current owners. Catch deferred issues before they become emergencies. MA Lic. #587. Fast digital report.",
+    "canonical": "https://kahomeinspectionsllc.com/services/annual-preventative-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services",
+          "url": "/services/"
+        },
+        {
+          "label": "Annual & Preventative Home Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Annual & Preventative Home Inspection in Massachusetts",
+      "subheading": "A Periodic Check-Up — Before Small Issues Become Emergency Repairs",
+      "intro": "A home is the largest asset most people own, and its major systems all wear at different rates. An annual or preventative inspection is a periodic check-up — the same systematic evaluation a buyer would receive, oriented toward maintenance planning rather than purchase. Plan ahead, budget over time, and avoid the worst surprises.",
+      "image": "annual-preventative-home-inspection-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Why It Matters",
+      "heading": "What You Don't See",
+      "subheading": "Eventually Becomes an Emergency",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Most homeowners only see their major systems when something fails — a flooded basement, a furnace that won't restart in February, a roof leak after an ice-dam season. By that point, what could have been a $400 maintenance item has become a $4,000 emergency repair, and your insurance carrier may not cover it."
+        },
+        {
+          "html": "After 22 years of inspecting Pioneer Valley properties, Ken Arnold has seen the same preventable failures repeat across thousands of homes: a chimney crown that cracked five winters ago, a hot-water tank a year past its expected life, unmaintained gutters that started rotting fascia, an oil tank approaching a leak. A periodic inspection — every 3–5 years on older homes — catches these in the budgeting window before they become costly emergencies."
+        }
+      ],
+      "image": "annual-overview-homeowner-walkthrough-basement.webp"
+    },
+    {
+      "type": "journey_cards",
+      "v": 1,
+      "eyebrow": "Your Preventative Inspection, Step by Step",
+      "heading": "From Booking",
+      "subheading": "To a 10-Year Maintenance Plan",
+      "h2_mt": "mt-4",
+      "intro": "An annual or preventative inspection follows the same on-site process as a buyer inspection — but the report is calibrated to long-term planning, not closing pressure.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Schedule When It's Convenient",
+          "body": "No closing-deadline pressure. Pick a date that works for your schedule — most homeowners book 2–4 weeks out. Pre-listing or post-weather-event inspections are scheduled with priority."
+        },
+        {
+          "number": "02",
+          "title": "Walk the Property With Ken",
+          "body": "Plan for 2.5–3 hours on-site. You're encouraged to attend so Ken can show you where the shut-offs are, point out the items approaching end-of-life, and explain what's happening with each system in plain language."
+        },
+        {
+          "number": "03",
+          "title": "On-Site Findings Briefing",
+          "body": "Before Ken leaves, he'll walk you through the priority items: what needs attention this season, what to budget for next year, and what's still well within its expected service life. You'll know what to plan for before the report is even delivered."
+        },
+        {
+          "number": "04",
+          "title": "Comprehensive Maintenance-Planning Report",
+          "body": "Your photo-documented digital report — typically 40–80 pages — is delivered promptly after the inspection. Findings are organized by timeline (immediate / this year / 1–3 years / 3–10 years / monitor) so you can plan capital spending without surprises."
+        }
+      ]
+    },
+    {
+      "type": "dark_card_grid",
+      "v": 1,
+      "eyebrow": "Inspection Services",
+      "heading": "Every Property Is Different.",
+      "subheading": "So Is Every Inspection.",
+      "h2_mt": "mt-4",
+      "compact": true,
+      "intro": "Ken Arnold Home Inspection LLC offers a full range of residential inspection services across Massachusetts — each scoped to the property type, your role in the transaction, and what's at stake.",
+      "cards": [
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"> <path d=\"M543.8 287.6c17 0 32-14 32-32.1c1-9-3-17-11-24L512 185V64c0-17.7-14.3-32-32-32H448c-17.7 0-32 14.3-32 32v36.7L309.5 7c-6-5-14-7-21-7s-15 1-22 8L10 231.5c-7 7-10 15-10 24c0 18 14 32.1 32 32.1h32v69.7c-.1 .9-.1 1.8-.1 2.8V472c0 22.1 17.9 40 40 40h16c1.2 0 2.4-.1 3.6-.2c1.5 .1 3 .2 4.5 .2H160h24c22.1 0 40-17.9 40-40V448 384c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v64 24c0 22.1 17.9 40 40 40h24 32.5c1.4 0 2.8 0 4.2-.1c1.1 .1 2.2 .1 3.3 .1h16c22.1 0 40-17.9 40-40V455.8c.3-2.6 .5-5.3 .5-8.1l-.7-160.2h32z\"></path> </svg>",
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "link_label": "Learn More",
+          "link_href": "/services/buyer-home-inspection/",
+          "link_aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 448 512\" fill=\"#f9ab3d\"> <path d=\"M0 80V229.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0L418.7 317.3c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7H48C21.5 32 0 53.5 0 80zm112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z\"></path> </svg>",
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "link_label": "Learn More",
+          "link_href": "/services/pre-listing-inspection/",
+          "link_aria": "Learn more about Pre-Listing Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M78.6 5C69.1-2.4 55.6-1.5 47 7L7 47c-8.5 8.5-9.4 22-2.1 31.6l80 104c4.5 5.9 11.6 9.4 19 9.4h54.1l109 109c-14.7 29-10 65.4 14.3 89.6l112 112c12.5 12.5 32.8 12.5 45.3 0l64-64c12.5-12.5 12.5-32.8 0-45.3l-112-112c-24.2-24.2-60.6-29-89.6-14.3l-109-109V104c0-7.5-3.5-14.5-9.4-19L78.6 5zM19.9 396.1C7.2 408.8 0 426.1 0 444.1C0 481.6 30.4 512 67.9 512c18 0 35.3-7.2 48-19.9L233.7 374.3c-7.8-20.9-9-43.6-3.6-65.1l-61.7-61.7L19.9 396.1zM512 144c0-10.5-1.1-20.7-3.2-30.5c-2.4-11.2-16.1-14.1-24.2-6l-63.9 63.9c-3 3-7.1 4.7-11.3 4.7H352c-8.8 0-16-7.2-16-16V102.6c0-4.2 1.7-8.3 4.7-11.3l63.9-63.9c8.1-8.1 5.2-21.8-6-24.2C388.7 1.1 378.5 0 368 0C288.5 0 224 64.5 224 144l0 .8 85.3 85.3c36-9.1 75.8 .5 104 28.7L429 274.5c49-22.8 83-72.8 83-130.5zM56 432a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z\"></path> </svg>",
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "link_label": "Learn More",
+          "link_href": "/services/new-construction-inspection/",
+          "link_aria": "Learn more about New Construction Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M0 32C0 14.3 14.3 0 32 0H480c17.7 0 32 14.3 32 32s-14.3 32-32 32V448c17.7 0 32 14.3 32 32s-14.3 32-32 32H304V464c0-26.5-21.5-48-48-48s-48 21.5-48 48v48H32c-17.7 0-32-14.3-32-32s14.3-32 32-32V64C14.3 64 0 49.7 0 32zm96 80v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H112c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H240zm112 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zM112 240c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H112zm128 0c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H240zm144 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16z\"></path> </svg>",
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "link_label": "Learn More",
+          "link_href": "/services/condo-townhouse-inspection/",
+          "link_aria": "Learn more about Condo & Townhouse Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 384 512\" fill=\"#f9ab3d\"> <path d=\"M64 48c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16h80V400c0-26.5 21.5-48 48-48s48 21.5 48 48v64h80c8.8 0 16-7.2 16-16V64c0-8.8-7.2-16-16-16H64zM0 64C0 28.7 28.7 0 64 0H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm88 40c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V104zM232 88h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V104c0-8.8 7.2-16 16-16zM88 232c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V232zm144-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V232c0-8.8 7.2-16 16-16z\"></path> </svg>",
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "link_label": "Learn More",
+          "link_href": "/services/multi-family-inspection/",
+          "link_aria": "Learn more about Multi-Family Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Independent &amp;amp; Maintenance-Focused",
+      "heading": "An Inspection Calibrated",
+      "subheading": "to Your Property, Not a Closing",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Ken Arnold has no contractor referral relationships, no repair work to upsell, and no incentive to inflate findings. The report tells you what's actually wearing, what's reaching end of life, and what can wait — so you can plan, prioritize, and avoid emergencies. It also doubles as a maintenance map you'll reference for years."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Massachusetts License #587 — 22 years of active inspections"
+        },
+        {
+          "text": "Same ASHI scope as a buyer inspection — every major system"
+        },
+        {
+          "text": "Findings organized by timeline: immediate, this year, 1–3 yrs, 3–10 yrs"
+        },
+        {
+          "text": "No referral fees or repair partnerships — independent recommendations only"
+        },
+        {
+          "text": "Report doubles as a long-term maintenance and capital-planning document"
+        },
+        {
+          "text": "Insurance-required 4-point inspections available for older homes"
+        }
+      ],
+      "cta_label": "About Ken Arnold",
+      "cta_href": "/about/",
+      "image": "annual-trust-maintenance-checklist-home.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Bundle &amp; Save a Trip",
+      "heading": "Specialty Testing",
+      "subheading": "Added to the Same Visit",
+      "intro": "The most consequential risks — radon, water quality, wood-destroying insects, hidden moisture — aren't visible on a standard inspection. Add specialty testing to your appointment and address everything in one visit.",
+      "cols": "4",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "From Owners Who Plan Ahead",
+      "heading": "What Clients Say",
+      "h2_mt": "mt-4",
+      "bg": "white",
+      "intro": "Long-term homeowners, recent buyers approaching their first anniversary, and pre-listing sellers — here's what they say about Ken's preventative inspections.",
+      "items": [
+        {
+          "quote": "\"We had Ken back five years after our buyer inspection. He caught a chimney crown crack and a water heater on borrowed time — both fixed before they became problems.\"",
+          "name": "Margaret K.",
+          "role": "Owner, 1920s Colonial in South Deerfield"
+        },
+        {
+          "quote": "\"We were thinking about listing in two years. Ken's report told us exactly what to budget for so we'd be ready, and what was a waste of money. Saved us thousands.\"",
+          "name": "David & Anne L.",
+          "role": "Pre-listing planning, Hadley"
+        },
+        {
+          "quote": "\"Bought the house three years ago. The annual inspection found small things from year one that had grown — and a couple I never would have noticed. Worth it every time.\"",
+          "name": "Patrick R.",
+          "role": "Owner, Northampton"
+        }
+      ],
+      "cta_label": "Read More Client Reviews",
+      "cta_href": "/reviews/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Inspection",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "Why bother if I'm not buying or selling?",
+          "a": "Most homeowners only see their major systems when something fails. An annual or 3–5 year preventative inspection reverses that — you find the worn shingles, the failing supply pipes, the chimney crown crack, the early termite mud tubes, before they become an emergency repair or insurance claim. The cost of an inspection is almost always less than what one missed issue would have cost to repair urgently."
+        },
+        {
+          "q": "How is this different from a buyer inspection?",
+          "a": "The scope is the same — every major system gets evaluated under the ASHI Standards of Practice — but the orientation is different. A buyer inspection is decision-focused (what should I negotiate, repair, or walk away from). A preventative inspection is planning-focused (what do I budget for over the next 1, 3, and 5 years). The report's organization reflects that."
+        },
+        {
+          "q": "How often should I have this done?",
+          "a": "On older Pioneer Valley homes (pre-1980) we recommend every 3–5 years, plus after any major weather event (wind storms, ice dam season, a wet spring). Newer homes can stretch to every 5–7 years. Always inspect before listing — well before — so you have time to address findings without closing pressure."
+        },
+        {
+          "q": "What about insurance inspections?",
+          "a": "Some insurers require a 4-point or full inspection for older homes. We can perform either, structured to whatever the carrier asks for. Tell us the carrier's requirements when you schedule and we'll match them."
+        },
+        {
+          "q": "Do you offer a maintenance schedule with the report?",
+          "a": "Yes. The report's executive summary lays out near-term (this year), medium-term (1–3 years), and long-term (3–10 years) maintenance items, organized so you can plan capital spending and avoid the worst surprises."
+        },
+        {
+          "q": "Can I bundle specialty testing with a preventative inspection?",
+          "a": "Yes — and it's often the most efficient time to do it. <a href=\"/testing-and-specialty/radon-testing/\">Radon levels</a> can change after basement renovations or HVAC changes; <a href=\"/testing-and-specialty/termite-wdi/\">termite activity</a> often appears between buyer inspections; and <a href=\"/testing-and-specialty/thermal-imaging/\">thermal imaging</a> finds moisture and missing insulation invisible to the eye. Add any combination to the same visit."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Plan Ahead Instead",
+      "subheading": "of Reacting to Emergencies",
+      "body": "Schedule a preventative inspection today and walk away with a 10-year maintenance roadmap for your home. Detailed digital report, no referral conflicts, 22 years of Pioneer Valley experience. MA License #587.",
+      "image": "annual-cta-older-pioneer-valley-home-exterior.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

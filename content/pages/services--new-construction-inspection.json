@@ -1,0 +1,302 @@
+{
+  "path": "/services/new-construction-inspection/",
+  "title": "New Construction Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "New Construction Inspection MA | Ken Arnold Home Inspection",
+    "description": "Even a brand-new home needs a second set of eyes. New construction inspection by a licensed MA inspector (MA Lic. #587). Phase, pre-drywall and final walk.",
+    "canonical": "https://kahomeinspectionsllc.com/services/new-construction-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services",
+          "url": "/services/"
+        },
+        {
+          "label": "New Construction Home Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "New Construction Home Inspection in Massachusetts",
+      "subheading": "Pre-Drywall, Final Walk, or 11-Month Warranty — Independent at Every Phase",
+      "image": "new-construction-home-inspection-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Why It Matters",
+      "heading": "New Doesn't Mean",
+      "subheading": "Problem-Free",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Builders are under schedule pressure. Subcontractors work fast and move on. Municipal inspectors check code compliance at specific milestones — they don't evaluate whether every system was installed correctly or whether every detail will perform over time. A passed final inspection means the home meets minimum code. It doesn't mean it was built right."
+        },
+        {
+          "html": "Ken Arnold has conducted new construction inspections across the Pioneer Valley since 2004. The findings are consistent: missing kickout flashing, undersized return-air ducts, plumbing crossover, missed fireblocking, attic ventilation gaps, electrical violations, and finish-quality issues the builder's punch list never captures. A new construction inspection with Ken is independent — he has no relationship with the builder, takes no referral fees, and has no interest in the outcome other than giving you an accurate picture of what you're buying. Many buyers in the region also add <a href=\"/testing-and-specialty/radon-testing/\" class=\"text-accent-600 font-medium underline\">radon testing</a> at new construction — the best time to test, and the easiest time to require mitigation as a condition of purchase."
+        }
+      ],
+      "image": "new-construction-overview-framed-home-interior.webp"
+    },
+    {
+      "type": "journey_cards",
+      "v": 1,
+      "eyebrow": "Your New Construction Inspection, Step by Step",
+      "heading": "Before the Warranty Clock",
+      "subheading": "Starts Running",
+      "h2_mt": "mt-4",
+      "intro": "There are three meaningful inspection points on a new build. Ken can perform one, two, or all three — depending on where you are in the process.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Pre-Drywall Inspection",
+          "body": "Once framing, rough electrical, rough plumbing, and HVAC are in — but before insulation and drywall — Ken photographs every wall cavity and ceiling bay. This is the only chance to see what's behind the walls before they're closed permanently. Findings at this stage are dramatically cheaper to fix than post-close discoveries."
+        },
+        {
+          "number": "02",
+          "title": "Final-Walk Inspection",
+          "body": "A pre-closing inspection of the finished home — same scope as a buyer inspection. Catches finish-quality issues, systems that were installed but never fully connected, exterior caulking gaps, mislabeled breakers, and anything else the builder's punch list overlooked. Documented with photographs before closing."
+        },
+        {
+          "number": "03",
+          "title": "11-Month Warranty Inspection",
+          "body": "Most production builders offer a one-year workmanship warranty. An inspection at 11 months — just before that warranty expires — surfaces problems that have emerged during the first heating-and-cooling cycle and full year of use. Items documented at this point are still on the builder's bill."
+        },
+        {
+          "number": "04",
+          "title": "Detailed Digital Report",
+          "body": "Your photo-documented report is organized by system, with findings framed for your specific phase: what to require the builder to address before closing, or what to present to the warranty department before your coverage expires. Delivered promptly so you can act before your deadline."
+        }
+      ]
+    },
+    {
+      "type": "dark_card_grid",
+      "v": 1,
+      "eyebrow": "Inspection Services",
+      "heading": "Every Property Is Different.",
+      "subheading": "So Is Every Inspection.",
+      "h2_mt": "mt-4",
+      "compact": true,
+      "intro": "Ken Arnold Home Inspection LLC offers a full range of residential inspection services across Massachusetts — each scoped to the property type, your role in the transaction, and what's at stake.",
+      "cards": [
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"> <path d=\"M543.8 287.6c17 0 32-14 32-32.1c1-9-3-17-11-24L512 185V64c0-17.7-14.3-32-32-32H448c-17.7 0-32 14.3-32 32v36.7L309.5 7c-6-5-14-7-21-7s-15 1-22 8L10 231.5c-7 7-10 15-10 24c0 18 14 32.1 32 32.1h32v69.7c-.1 .9-.1 1.8-.1 2.8V472c0 22.1 17.9 40 40 40h16c1.2 0 2.4-.1 3.6-.2c1.5 .1 3 .2 4.5 .2H160h24c22.1 0 40-17.9 40-40V448 384c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v64 24c0 22.1 17.9 40 40 40h24 32.5c1.4 0 2.8 0 4.2-.1c1.1 .1 2.2 .1 3.3 .1h16c22.1 0 40-17.9 40-40V455.8c.3-2.6 .5-5.3 .5-8.1l-.7-160.2h32z\"></path> </svg>",
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "link_label": "Learn More",
+          "link_href": "/services/buyer-home-inspection/",
+          "link_aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 448 512\" fill=\"#f9ab3d\"> <path d=\"M0 80V229.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0L418.7 317.3c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7H48C21.5 32 0 53.5 0 80zm112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z\"></path> </svg>",
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "link_label": "Learn More",
+          "link_href": "/services/pre-listing-inspection/",
+          "link_aria": "Learn more about Pre-Listing Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M0 32C0 14.3 14.3 0 32 0H480c17.7 0 32 14.3 32 32s-14.3 32-32 32V448c17.7 0 32 14.3 32 32s-14.3 32-32 32H304V464c0-26.5-21.5-48-48-48s-48 21.5-48 48v48H32c-17.7 0-32-14.3-32-32s14.3-32 32-32V64C14.3 64 0 49.7 0 32zm96 80v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H112c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H240zm112 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zM112 240c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H112zm128 0c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H240zm144 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16z\"></path> </svg>",
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "link_label": "Learn More",
+          "link_href": "/services/condo-townhouse-inspection/",
+          "link_aria": "Learn more about Condo & Townhouse Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 384 512\" fill=\"#f9ab3d\"> <path d=\"M64 48c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16h80V400c0-26.5 21.5-48 48-48s48 21.5 48 48v64h80c8.8 0 16-7.2 16-16V64c0-8.8-7.2-16-16-16H64zM0 64C0 28.7 28.7 0 64 0H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm88 40c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V104zM232 88h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V104c0-8.8 7.2-16 16-16zM88 232c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V232zm144-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V232c0-8.8 7.2-16 16-16z\"></path> </svg>",
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "link_label": "Learn More",
+          "link_href": "/services/multi-family-inspection/",
+          "link_aria": "Learn more about Multi-Family Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.5 33.3-6.5s4.5-25.9-6.5-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z\"></path> </svg>",
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "link_label": "Learn More",
+          "link_href": "/services/annual-preventative-inspection/",
+          "link_aria": "Learn more about Annual & Preventative Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Your Inspector, Your Advocate",
+      "heading": "Independent. Not on the Builder's",
+      "subheading": "Preferred Vendor List.",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "A new construction inspection is only useful if the inspector owes no favors to the builder. Ken Arnold is not on any builder's preferred-vendor list, takes no referral fees, and has no interest in protecting the builder's reputation. His only obligation is giving you an accurate picture of what was built — at whatever phase you're at — so you can protect yourself during the transaction, at closing, and during your warranty period."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Massachusetts License #587 — 22 years of new construction inspections"
+        },
+        {
+          "text": "Pre-drywall, final-walk, and 11-month warranty inspections — any phase"
+        },
+        {
+          "text": "No builder relationships, no referral programs, no conflicts of interest"
+        },
+        {
+          "text": "Findings framed for your phase: pre-close correction or warranty claim"
+        },
+        {
+          "text": "Photo report delivered before your deadline — organized by phase"
+        }
+      ],
+      "cta_label": "About Ken Arnold",
+      "cta_href": "/about/",
+      "image": "new-construction-trust-pre-drywall-detail.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Bundle & Save a Trip",
+      "heading": "Specialty Testing",
+      "subheading": "Added to the Same Visit",
+      "intro": "The most consequential risks — radon, water quality, wood-destroying insects, hidden moisture — aren't visible on a standard inspection. Add specialty testing to your appointment and address everything in one visit.",
+      "cols": "4",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "From New Construction Buyers",
+      "heading": "What Clients Say",
+      "h2_mt": "mt-4",
+      "bg": "white",
+      "intro": "Buyers in Deerfield, Northampton, Hadley, and across the Pioneer Valley who had independent inspections on new builds.",
+      "items": [
+        {
+          "quote": "\"The pre-drywall inspection was eye-opening. Ken found three plumbing rough-ins that weren't sloped correctly and a section of framing with missing fire blocking. The builder fixed everything before the walls closed. I'd never have known otherwise.\"",
+          "name": "Brian & Stephanie L.",
+          "role": "New Construction Buyers, Deerfield"
+        },
+        {
+          "quote": "\"I thought a new house would sail through inspection. Ken found 23 items at the final walk — including a bathroom exhaust fan that was vented into the attic instead of outside. Not a single one was on the builder's punch list.\"",
+          "name": "Melissa K.",
+          "role": "New Construction Buyer, Northampton"
+        },
+        {
+          "quote": "\"The 11-month inspection paid for itself immediately. Ken found settlement cracks in the foundation wall and an HVAC duct that had come loose at a joint. Both were fixed under warranty. Without the inspection I'd have discovered them years later, out of pocket.\"",
+          "name": "Andrew T.",
+          "role": "Homeowner, Hadley"
+        }
+      ],
+      "cta_label": "Read More Client Reviews",
+      "cta_href": "/reviews/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Inspection",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "Isn't a new home already inspected by the town?",
+          "a": "Town inspectors check building-code compliance at specific milestones — they don't perform the kind of system-by-system evaluation a private home inspector does. A passed final inspection means the home meets minimum code; it doesn't mean every system was installed correctly or that every detail is going to age well."
+        },
+        {
+          "q": "What's the best time to inspect a new build?",
+          "a": "Three timing options. (1) A pre-drywall walkthrough — once framing, rough plumbing, electrical, and mechanicals are in but before insulation and drywall — lets you see things that will be hidden forever afterward. (2) A final-walk inspection just before closing catches finish-quality issues. (3) An 11-month inspection — just before the standard one-year builder warranty expires — surfaces anything that has emerged since move-in while the builder is still on the hook."
+        },
+        {
+          "q": "Will the builder push back on bringing in a private inspector?",
+          "a": "Most reputable builders welcome it — a clean third-party report is good for them too. If a builder is hostile to independent inspection, that's information worth having before closing. Ken can discuss how to approach builder coordination when you schedule."
+        },
+        {
+          "q": "Do you do all three phase inspections?",
+          "a": "Yes. Many buyers choose pre-drywall plus final-walk; others add the 11-month for full warranty coverage. Each inspection is priced per visit. Bundling two or three phases is available — call to discuss what makes sense for your timeline."
+        },
+        {
+          "q": "Is radon testing recommended on new construction?",
+          "a": "Yes — and doing it at new construction is actually the best time. Many new-construction basements in the Pioneer Valley test high. A mitigation system installed during construction is dramatically cheaper than a retrofit — and if you test before closing, you can require the builder to install it as a condition of purchase."
+        },
+        {
+          "q": "Should I add thermal imaging to a new construction inspection?",
+          "a": "Strongly recommended — particularly at the final-walk or 11-month phase. Modern envelopes depend on continuous insulation and air-sealing to perform, and thermal imaging is the only practical way to verify it. Missed insulation in a wall cavity, a poorly sealed window, a duct in unconditioned space — all show up immediately on infrared and all should be on the builder's punch list rather than yours. Pre-drywall scans can also confirm batt placement before drywall closes the wall."
+        },
+        {
+          "q": "What areas do you serve for new construction inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Deerfield, Northampton, Hadley, Amherst, Greenfield, Sunderland, Whately, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Protect Your New Home Before the Warranty Runs Out",
+      "subheading": "Schedule Your New Construction Inspection Today",
+      "body": "New homes are built under schedule pressure — and that pressure produces findings. Ken Arnold delivers pre-drywall, final-walk, and 11-month warranty inspections across the Pioneer Valley, with detailed digital reports and no builder relationships to protect.",
+      "image": "new-construction-cta-new-build-home-exterior.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

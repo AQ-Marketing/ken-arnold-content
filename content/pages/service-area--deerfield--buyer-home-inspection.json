@@ -1,0 +1,176 @@
+{
+  "path": "/service-area/deerfield/buyer-home-inspection/",
+  "title": "Buyer Inspection Deerfield MA",
+  "status": "publish",
+  "seo": {
+    "title": "Buyer Inspection Deerfield MA | Ken Arnold Home Inspection",
+    "description": "Buyer Home Inspection in Deerfield, Franklin County, MA by Ken Arnold (MA Lic. #587). A thorough, independent inspection of every major system before you c",
+    "canonical": "https://kahomeinspectionsllc.com/services/buyer-home-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Deerfield, MA",
+          "url": "/service-area/deerfield/"
+        },
+        {
+          "label": "Buyer Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Deerfield, Franklin County",
+      "heading": "Buyer Home Inspection in Deerfield, MA",
+      "meta": "· ~3 hours on-site",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Deerfield Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Buying in Deerfield means two very different inspections. Old Deerfield homes need careful evaluation of post-and-beam framing, hand-hewn sills for rot and powderpost beetle damage, fieldstone foundation parging, and original chestnut flooring. South Deerfield's ranches and 1990s subdivisions shift focus to vinyl siding, asphalt-shingle wear, and finished-basement moisture under poly vapor barriers.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing buyer home inspection services across the Pioneer Valley since 2004 — including hundreds of Deerfield-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/services/buyer-home-inspection/\">Buyer Home Inspection</a>. For broader context on Deerfield's housing stock, see the <a href=\"/service-area/deerfield/\">Deerfield town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a buyer home inspection take in Massachusetts?",
+          "a": "For most single-family homes in the Pioneer Valley, plan for 2.5–3 hours on-site. Older New England homes — particularly those with additions, fieldstone foundations, or knob-and-tube wiring — often take closer to four hours. Multi-family properties require additional time. Ken never rushes an inspection to fit a schedule."
+        },
+        {
+          "q": "Should I attend my buyer home inspection?",
+          "a": "Yes — and Ken strongly encourages it. Walking the property alongside the inspector is one of the most valuable parts of the home-buying process. You'll see conditions firsthand, learn where shut-offs and key systems are, ask questions in real time, and leave with a far clearer picture of the property than any written report alone provides."
+        },
+        {
+          "q": "What if the inspection finds serious problems?",
+          "a": "That's exactly what the inspection is for. Ken's report gives you and your agent documented, photo-supported findings to negotiate with — whether that means requesting repairs, asking for a price reduction, or in some cases reconsidering the purchase altogether. Finding problems is a good outcome. Missing them is not."
+        },
+        {
+          "q": "When will I get my inspection report?",
+          "a": "Your photo-documented digital report is delivered promptly after the inspection. Ken's standard is to get it into your hands well inside your due-diligence window — organized by safety priority, with clear descriptions and annotated photographs for every finding."
+        },
+        {
+          "q": "What's not included in a standard buyer inspection?",
+          "a": "Radon testing, well water testing, septic evaluation, termite/WDI inspection, mold sampling, and thermal imaging are specialty services that can be added to the same visit. They're not part of the standard ASHI inspection scope but are highly recommended for properties where those risks apply. Ken can discuss which add-ons make sense for your specific property."
+        },
+        {
+          "q": "Does Ken inspect condos and townhouses?",
+          "a": "Yes. <a href=\"/services/condo-townhouse-inspection/\" class=\"text-accent-300 underline\">Condo and townhouse inspections</a> follow the same ASHI-standard scope for the unit's interior systems and accessible areas. The inspection scope is adjusted based on what the buyer is purchasing versus what the HOA is responsible for maintaining."
+        },
+        {
+          "q": "What areas of Massachusetts do you serve for buyer inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Amherst, Northampton, Greenfield, Deerfield, Hadley, Easthampton, Holyoke, Chicopee, Sunderland, Whately, and many more. Visit the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for a full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Deerfield",
+      "cards": [
+        {
+          "title": "Pre-Listing Home Inspection in Deerfield",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/deerfield/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Deerfield",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/deerfield/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Deerfield",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/deerfield/condo-townhouse-inspection/"
+        },
+        {
+          "title": "Multi-Family Home Inspection in Deerfield",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/service-area/deerfield/multi-family-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Deerfield",
+      "cards": [
+        {
+          "title": "Radon Testing in Deerfield",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/deerfield/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Deerfield",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/deerfield/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Deerfield",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/deerfield/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Deerfield",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/deerfield/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

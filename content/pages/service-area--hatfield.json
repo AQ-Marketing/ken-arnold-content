@@ -1,0 +1,213 @@
+{
+  "path": "/service-area/hatfield/",
+  "title": "Hatfield Home Inspector MA",
+  "status": "publish",
+  "seo": {
+    "title": "Hatfield Home Inspector MA | Ken Arnold Home Inspection",
+    "description": "Licensed home inspector serving Hatfield, Hampshire County, MA. Hatfield",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/hatfield/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Hatfield, MA"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Hampshire County · MA License #587",
+      "heading": "Home Inspector in Hatfield, MA",
+      "subheading": "Hatfield's flat farmland and Connecticut River frontage shape its housing — older village homes on Main Street, mid-century ranches on the periphery, and a high-water-table soil profile that drives basement-moisture findings.",
+      "image": "town-hatfield-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule in Hatfield",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Local Knowledge",
+      "heading": "Inspecting in Hatfield",
+      "subheading": "What the Housing Stock Tells Us",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "Hatfield inspections frequently surface basement moisture issues — the river-bottom soils and high water table mean even well-built homes show some seasonal seepage at foundation cold joints. Older homes along Main Street and Elm Street, many dating to the 18th and early 19th centuries, present the standard New England issue inventory: fieldstone or rubble foundations, hand-hewn sill rot, knob-and-tube remnants, and original cast-iron waste lines. Mid-century ranches and splits in the newer sections of town follow the regional pattern (asbestos siding, original double-pane windows, oil-to-gas conversions). Most properties are on town water but private septic; Title 5 is a frequent add-on. Ken provides combined home and septic visits to keep transactions moving."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "High water table / basement moisture"
+        },
+        {
+          "text": "Main Street historic homes"
+        },
+        {
+          "text": "Town water + private septic"
+        }
+      ],
+      "image": "town-hatfield-overview-tobacco-belt-farmhouse.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "dark",
+      "eyebrow": "Inspection Services",
+      "heading": "Inspection Services in Hatfield",
+      "subheading": "Full ASHI Scope. Fast Digital Report.",
+      "intro": "Every standard home inspection includes the full ASHI scope — roof, structure, exterior, electrical, plumbing, HVAC, insulation, interior, and built-in appliances — documented with photographs and delivered as a comprehensive digital report.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection in Hatfield"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/services/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection in Hatfield"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection in Hatfield"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/services/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection in Hatfield"
+        },
+        {
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/services/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Home Inspection in Hatfield"
+        },
+        {
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "href": "/services/annual-preventative-inspection/",
+          "aria": "Learn more about Annual & Preventative Home Inspection in Hatfield"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Specialty Testing",
+      "heading": "Specialty Testing in Hatfield",
+      "subheading": "Bundle Into the Same Visit",
+      "intro": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving a second appointment and a separate trip charge.",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing in Hatfield"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing in Hatfield"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection in Hatfield"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection in Hatfield"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection in Hatfield"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection in Hatfield"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "in Hatfield",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. After 22 years of Hatfield-area work, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That recognition is what separates a useful inspection report from a checklist-driven one. Every inspection is performed personally by Ken (MA License #587) — never subcontracted, never rushed."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Every inspection personally performed by Ken — MA License #587"
+        },
+        {
+          "text": "No subcontractors, no staff inspectors, no franchise"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report delivered promptly"
+        },
+        {
+          "text": "22 years inspecting homes across Hampshire County"
+        }
+      ],
+      "image": "town-hatfield-trust-old-farmhouse-sill-rot.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Your Hatfield Inspection",
+      "subheading": "Comprehensive Digital Report — Delivered Promptly",
+      "body": "Ken Arnold has been inspecting homes in Hatfield and the surrounding Pioneer Valley for over 22 years. Independent, owner-operated, MA License #587. Call today or schedule online.",
+      "image": "town-hatfield-cta-tobacco-field-farmhouse.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

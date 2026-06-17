@@ -1,0 +1,54 @@
+{
+  "path": "/thank-you/",
+  "title": "Thank You",
+  "status": "publish",
+  "seo": {
+    "title": "Thank You",
+    "description": "Thank you for contacting Ken Arnold Home Inspection. Your request has been received and Ken will follow up within one business day.",
+    "canonical": "https://kahomeinspectionsllc.com/thank-you/",
+    "noindex": true,
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "media_hero",
+      "v": 1,
+      "image": "home-cta-pioneer-valley-colonial-autumn.webp",
+      "image_class": "absolute inset-0 w-full h-full object-cover",
+      "overlay_style": "background-color: rgba(37,42,70,0.92);",
+      "content_class": "relative container-edge container-edge--wide py-16 md:py-24 lg:py-28 text-center",
+      "body": "<span class=\"inline-flex items-center justify-center w-16 h-16 rounded-full bg-accent-500 text-white mb-6\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 6L9 17l-5-5\"></path></svg></span> <h1 class=\"!mt-0 !mb-0 font-serif font-bold leading-[1.2] text-[26px] sm:text-[36px] lg:text-[44px]\"> <span class=\"block text-white\">Thank You — Your Request Is In</span> <span class=\"block mt-2\" style=\"color:#f9ab3d; font-size: 0.58em; font-weight: 500;\">Ken Will Personally Follow Up</span> </h1> <p class=\"max-w-2xl mx-auto mt-6\" style=\"color: rgba(255,255,255,0.85); line-height: 1.7em;\">Thanks for reaching out to Ken Arnold Home Inspection. Your request has been received, and Ken will personally follow up within one business day to confirm the details and get you on the calendar. For closing-deadline rush bookings, please call <a href=\"tel:+14135228004\" style=\"color:#f9ab3d;\">(413) 522-8004</a>.</p> <div class=\"flex flex-col sm:flex-row sm:flex-wrap justify-center gap-3 mt-8\"> <a href=\"/schedule/\" class=\"hero-btn hero-btn--primary\">Schedule Your Inspection</a> <a href=\"tel:+14135228004\" class=\"hero-btn hero-btn--secondary\">Call (413) 522-8004</a> </div> <p class=\"text-xs text-brand-200 mt-8\">Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley</p>"
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "What Happens Next",
+      "heading": "Here’s What to Expect",
+      "section_class": "bg-brand-50 py-12 md:py-16",
+      "header_mb": "mb-10",
+      "eyebrow_class": "inline-block uppercase rounded-full pill-eyebrow",
+      "h2_class": "!mt-0",
+      "grid_class": "grid sm:grid-cols-3 gap-6 max-w-4xl mx-auto",
+      "cards": [
+        {
+          "wrapper_class": "bg-white rounded-lg p-6 text-center",
+          "number": "1",
+          "title": "Ken Reviews Your Request",
+          "text": "Every request comes straight to Ken — no dispatchers, no call centers."
+        },
+        {
+          "wrapper_class": "bg-white rounded-lg p-6 text-center",
+          "number": "2",
+          "title": "A Personal Follow-Up",
+          "text": "He’ll confirm availability, answer questions, and provide clear, upfront pricing."
+        },
+        {
+          "wrapper_class": "bg-white rounded-lg p-6 text-center",
+          "number": "3",
+          "title": "You’re on the Calendar",
+          "text": "Pick a time that works, and Ken handles the rest through inspection day."
+        }
+      ]
+    }
+  ]
+}

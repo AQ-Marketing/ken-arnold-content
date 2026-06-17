@@ -1,0 +1,213 @@
+{
+  "path": "/service-area/sunderland/",
+  "title": "Sunderland Home Inspector MA",
+  "status": "publish",
+  "seo": {
+    "title": "Sunderland Home Inspector MA | Ken Arnold Home Inspection",
+    "description": "Licensed home inspector serving Sunderland, Franklin County, MA. Sunderland is largely rural — farms, fields, and homes set back on long driveways — which ",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/sunderland/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Sunderland, MA"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Franklin County · MA License #587",
+      "heading": "Home Inspector in Sunderland, MA",
+      "subheading": "Sunderland is largely rural — farms, fields, and homes set back on long driveways — which means well water, septic, and outbuildings are part of almost every inspection.",
+      "image": "town-sunderland-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule in Sunderland",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Local Knowledge",
+      "heading": "Inspecting in Sunderland",
+      "subheading": "What the Housing Stock Tells Us",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "Sunderland inspections are well-and-septic territory. Test the well, inspect the septic, evaluate the outbuilding the buyers want to convert into a workshop or accessory apartment — that's the typical scope. The town's farmhouses range from genuine 19th-century timber-frames (with the foundation, framing, and chimney issues you'd expect) to modest mid-century colonials and ranches built when the Sugarloaf-area land was subdivided. Radon levels here trend higher than the regional average, particularly on the slopes of Mount Toby — testing is strongly recommended on every transaction. Buyers relocating from outside the region often underestimate what private water and septic involve; Ken walks every buyer through the systems on-site so they understand what they're inheriting."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Rural well/septic properties"
+        },
+        {
+          "text": "19th-century farmhouses"
+        },
+        {
+          "text": "Mount Toby radon zone"
+        }
+      ],
+      "image": "town-sunderland-overview-mt-toby-farmhouse.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "dark",
+      "eyebrow": "Inspection Services",
+      "heading": "Inspection Services in Sunderland",
+      "subheading": "Full ASHI Scope. Fast Digital Report.",
+      "intro": "Every standard home inspection includes the full ASHI scope — roof, structure, exterior, electrical, plumbing, HVAC, insulation, interior, and built-in appliances — documented with photographs and delivered as a comprehensive digital report.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection in Sunderland"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/services/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection in Sunderland"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection in Sunderland"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/services/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection in Sunderland"
+        },
+        {
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/services/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Home Inspection in Sunderland"
+        },
+        {
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "href": "/services/annual-preventative-inspection/",
+          "aria": "Learn more about Annual & Preventative Home Inspection in Sunderland"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Specialty Testing",
+      "heading": "Specialty Testing in Sunderland",
+      "subheading": "Bundle Into the Same Visit",
+      "intro": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving a second appointment and a separate trip charge.",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing in Sunderland"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing in Sunderland"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection in Sunderland"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection in Sunderland"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection in Sunderland"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection in Sunderland"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "in Sunderland",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. After 22 years of Sunderland-area work, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That recognition is what separates a useful inspection report from a checklist-driven one. Every inspection is performed personally by Ken (MA License #587) — never subcontracted, never rushed."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Every inspection personally performed by Ken — MA License #587"
+        },
+        {
+          "text": "No subcontractors, no staff inspectors, no franchise"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report delivered promptly"
+        },
+        {
+          "text": "22 years inspecting homes across Franklin County"
+        }
+      ],
+      "image": "town-sunderland-trust-rural-outbuilding-detail.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Your Sunderland Inspection",
+      "subheading": "Comprehensive Digital Report — Delivered Promptly",
+      "body": "Ken Arnold has been inspecting homes in Sunderland and the surrounding Pioneer Valley for over 22 years. Independent, owner-operated, MA License #587. Call today or schedule online.",
+      "image": "town-sunderland-cta-rural-driveway-farm.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County &amp; the Pioneer Valley"
+    }
+  ]
+}

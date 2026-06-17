@@ -1,0 +1,114 @@
+{
+  "path": "/sample-reports/",
+  "title": "Sample Inspection Reports MA",
+  "status": "publish",
+  "seo": {
+    "title": "Sample Inspection Reports MA | Ken Arnold Home Inspection",
+    "description": "See what a Ken Arnold inspection report looks like. Sample single-family and condo reports — photo-documented, organized by priority, with digital delivery.",
+    "canonical": "https://kahomeinspectionsllc.com/sample-reports/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide_index",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Sample Reports"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Sample Inspection Reports",
+      "subheading": "See the Deliverable Before You Book",
+      "sub_style": "text-accent-500",
+      "intro": "Two redacted sample reports — single-family and condo — showing exactly what a Ken Arnold inspection report looks like: the structure, the level of photo detail, how findings are prioritized, and the practical recommendations that accompany each item.",
+      "image": "sample-reports-hero-inspection-report-binder.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "feature_cards",
+      "v": 1,
+      "eyebrow": "Download Samples",
+      "heading": "Two Report Formats",
+      "subheading": "Single-Family & Condo",
+      "intro": "Reports are redacted — addresses, owner names, and identifying photos removed. Findings are real.",
+      "section_class": "bg-white py-12 md:py-16 lg:py-20",
+      "header_mb": "mb-12",
+      "grid_class": "grid md:grid-cols-2 gap-8 max-w-4xl mx-auto",
+      "cards": [
+        {
+          "wrapper_class": "bg-brand-50 border border-brand-100 rounded-lg p-8",
+          "html": "<div class=\"w-12 h-12 bg-accent-500 rounded-lg flex items-center justify-center mb-5\"> <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"white\" stroke-width=\"2\"><path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"></path><polyline points=\"14,2 14,8 20,8\"></polyline><line x1=\"16\" y1=\"13\" x2=\"8\" y2=\"13\"></line><line x1=\"16\" y1=\"17\" x2=\"8\" y2=\"17\"></line><polyline points=\"10,9 9,9 8,9\"></polyline></svg> </div> <h3 class=\"!mt-0 text-xl font-serif font-bold text-brand-900\">Single-Family Home</h3> <p class=\"text-brand-700 mt-3 text-sm leading-relaxed\"> A typical buyer-inspection report for a 1980s single-family in the Pioneer Valley. Approximately 60 pages, 200+ photographs, organized by major system. </p> <div class=\"mt-4 text-xs text-brand-500 space-y-1\"> <p>~ 60 pages · 200+ photos</p> <p>Organized by safety priority</p> <p>All major systems covered</p> </div> <a href=\"/sample-reports/single-family-sample.pdf\" class=\"inline-flex items-center gap-2 mt-6 px-5 py-3 bg-accent-500 text-white font-semibold rounded text-sm hover:bg-accent-600 transition-colors no-underline\"> <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4\"></path><polyline points=\"7,10 12,15 17,10\"></polyline><line x1=\"12\" y1=\"15\" x2=\"12\" y2=\"3\"></line></svg> Download PDF </a>"
+        },
+        {
+          "wrapper_class": "bg-brand-50 border border-brand-100 rounded-lg p-8",
+          "html": "<div class=\"w-12 h-12 bg-accent-500 rounded-lg flex items-center justify-center mb-5\"> <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"white\" stroke-width=\"2\"><path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"></path><polyline points=\"14,2 14,8 20,8\"></polyline><line x1=\"16\" y1=\"13\" x2=\"8\" y2=\"13\"></line><line x1=\"16\" y1=\"17\" x2=\"8\" y2=\"17\"></line><polyline points=\"10,9 9,9 8,9\"></polyline></svg> </div> <h3 class=\"!mt-0 text-xl font-serif font-bold text-brand-900\">Condo</h3> <p class=\"text-brand-700 mt-3 text-sm leading-relaxed\"> A condo inspection report for a downtown unit — includes both the unit-specific findings and the common-element observations condo buyers in particular should pay attention to. </p> <div class=\"mt-4 text-xs text-brand-500 space-y-1\"> <p>Unit + common elements</p> <p>Condo-specific findings</p> <p>Organized by safety priority</p> </div> <a href=\"/sample-reports/condo-sample.pdf\" class=\"inline-flex items-center gap-2 mt-6 px-5 py-3 bg-accent-500 text-white font-semibold rounded text-sm hover:bg-accent-600 transition-colors no-underline\"> <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4\"></path><polyline points=\"7,10 12,15 17,10\"></polyline><line x1=\"12\" y1=\"15\" x2=\"12\" y2=\"3\"></line></svg> Download PDF </a>"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Reading Your Report",
+      "heading": "How to Interpret",
+      "subheading": "A Home Inspection Report",
+      "bg": "brand-50",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "A first-time buyer's natural reaction to a home inspection report is sometimes alarm — there's a lot of detail, and the photographs make every imperfection look consequential. A few things to keep in mind:"
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Findings are graded by priority — safety items (missing GFCI, knob-and-tube wiring, asbestos disclosure) at the top, cosmetic items at the bottom."
+        },
+        {
+          "text": "Every property has findings. A 60-page report on a well-maintained home is a thorough report — the page count reflects inspection depth, not property condition."
+        },
+        {
+          "text": "\"Further evaluation recommended\" is a signal to bring in a specialist (electrician, structural engineer, HVAC contractor) — not a defect by itself."
+        },
+        {
+          "text": "After closing, the report becomes a maintenance map — boiler age, roof replacement timeline, shut-off locations. Keep it."
+        }
+      ],
+      "footnote": "Questions about a specific finding or the inspection process? See the <a href=\"/faqs/\" class=\"text-accent-600 font-medium underline\">full FAQ</a> or call Ken directly at <a href=\"tel:+14135228004\" class=\"text-accent-600 font-medium underline\">(413) 522-8004</a>.",
+      "footnote_mt": "mt-6",
+      "image": "sample-reports-overview-annotated-photo-spread.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Ready to Schedule",
+      "subheading": "Your Massachusetts Home Inspection?",
+      "body": "Photo-documented digital reports organized by safety priority. Ken Arnold Home Inspection LLC — independent, owner-operated, 22 years in the Pioneer Valley.",
+      "image": "sample-reports-cta-pioneer-valley-condo-exterior.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

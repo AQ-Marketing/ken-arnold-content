@@ -1,0 +1,213 @@
+{
+  "path": "/service-area/greenfield/",
+  "title": "Greenfield Home Inspector MA",
+  "status": "publish",
+  "seo": {
+    "title": "Greenfield Home Inspector MA | Ken Arnold Home Inspection",
+    "description": "Licensed home inspector serving Greenfield, Franklin County, MA. Greenfield",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/greenfield/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Greenfield, MA"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Franklin County · MA License #587",
+      "heading": "Home Inspector in Greenfield, MA",
+      "subheading": "Greenfield's housing stock is a mix of Federal and Greek Revival downtown homes, dense post-war neighborhoods, and rural properties on the town's outskirts.",
+      "image": "town-greenfield-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule in Greenfield",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Local Knowledge",
+      "heading": "Inspecting in Greenfield",
+      "subheading": "What the Housing Stock Tells Us",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "Greenfield inspections frequently surface the same patterns: 1920s–40s craftsman bungalows and capes with original galvanized supply plumbing (failing from the inside out, often years before homeowners notice), oil-fired boilers approaching end of life, and below-grade oil tanks that need careful documentation. Around Federal Street and Highland Avenue, expect fieldstone foundations with active water intrusion in spring. The east-side neighborhoods built after 1950 generally have full basements, FHA boilers or forced-air systems that are now 25–40 years old, and original aluminum-branch wiring on a 100-amp panel — a combination that needs careful electrical evaluation. Greenfield is also one of the higher radon-risk municipalities in our service area; we recommend testing on every transaction here. Ken provides clear digital reports delivered promptly after every inspection."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Downtown Federal & Greek Revival"
+        },
+        {
+          "text": "Post-war bungalows & capes"
+        },
+        {
+          "text": "High radon-risk zone"
+        }
+      ],
+      "image": "town-greenfield-overview-craftsman-bungalow-detail.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "dark",
+      "eyebrow": "Inspection Services",
+      "heading": "Inspection Services in Greenfield",
+      "subheading": "Full ASHI Scope. Fast Digital Report.",
+      "intro": "Every standard home inspection includes the full ASHI scope — roof, structure, exterior, electrical, plumbing, HVAC, insulation, interior, and built-in appliances — documented with photographs and delivered as a comprehensive digital report.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection in Greenfield"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/services/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection in Greenfield"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection in Greenfield"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/services/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection in Greenfield"
+        },
+        {
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/services/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Home Inspection in Greenfield"
+        },
+        {
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "href": "/services/annual-preventative-inspection/",
+          "aria": "Learn more about Annual & Preventative Home Inspection in Greenfield"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Specialty Testing",
+      "heading": "Specialty Testing in Greenfield",
+      "subheading": "Bundle Into the Same Visit",
+      "intro": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving a second appointment and a separate trip charge.",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing in Greenfield"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing in Greenfield"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection in Greenfield"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection in Greenfield"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection in Greenfield"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection in Greenfield"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "in Greenfield",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. After 22 years of Greenfield-area work, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That recognition is what separates a useful inspection report from a checklist-driven one. Every inspection is performed personally by Ken (MA License #587) — never subcontracted, never rushed."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Every inspection personally performed by Ken — MA License #587"
+        },
+        {
+          "text": "No subcontractors, no staff inspectors, no franchise"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report delivered promptly"
+        },
+        {
+          "text": "22 years inspecting homes across Franklin County"
+        }
+      ],
+      "image": "town-greenfield-trust-radon-prone-basement-context.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Your Greenfield Inspection",
+      "subheading": "Comprehensive Digital Report — Delivered Promptly",
+      "body": "Ken Arnold has been inspecting homes in Greenfield and the surrounding Pioneer Valley for over 22 years. Independent, owner-operated, MA License #587. Call today or schedule online.",
+      "image": "town-greenfield-cta-federal-street-home.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County &amp; the Pioneer Valley"
+    }
+  ]
+}

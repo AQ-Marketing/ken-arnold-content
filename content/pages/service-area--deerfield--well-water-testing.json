@@ -1,0 +1,168 @@
+{
+  "path": "/service-area/deerfield/well-water-testing/",
+  "title": "Well Water Testing Deerfield MA",
+  "status": "publish",
+  "seo": {
+    "title": "Well Water Testing Deerfield MA | Ken Arnold Home Inspection",
+    "description": "Well Water Testing in Deerfield, Franklin County, MA by Ken Arnold (MA Lic. #587). Comprehensive pre-purchase well water testing for rural Pioneer Valley p",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/well-water-testing/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Deerfield, MA",
+          "url": "/service-area/deerfield/"
+        },
+        {
+          "label": "Well Water Testing"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Deerfield, Franklin County",
+      "heading": "Well Water Testing in Deerfield, MA",
+      "meta": "Standalone: $225–$425 · As add-on: Bundle with home inspection — package pricing · 5–10 business days from sample collection",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Deerfield Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Outside Deerfield's village water districts, most homes run on private wells drawing from sand-and-gravel aquifers along the Deerfield and Connecticut rivers. We test the standard bacteria/nitrate/nitrite panel plus arsenic, manganese, and uranium — all documented at elevated levels in Franklin County wells — and flag agricultural runoff risk near tobacco and corn fields.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing well water testing services across the Pioneer Valley since 2004 — including hundreds of Deerfield-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/testing-and-specialty/well-water-testing/\">Well Water Testing</a>. For broader context on Deerfield's housing stock, see the <a href=\"/service-area/deerfield/\">Deerfield town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What does the test cover?",
+          "a": "Standard Massachusetts pre-purchase panels cover: total coliform and E. coli bacteria, nitrate and nitrite, hardness, pH, iron, manganese, sodium, chloride, sulfate, and lead. Many lenders also require arsenic, uranium, and radon-in-water for properties in geologically active areas. Specialty panels are available for VOCs, pesticides, PFAS, and other contaminants of concern."
+        },
+        {
+          "q": "Why is well water testing different in Western Mass?",
+          "a": "The Pioneer Valley's geology — particularly the granite and pegmatite formations across Franklin County and parts of Hampshire County — produces elevated levels of naturally occurring contaminants. Iron and manganese are extremely common; arsenic occurs in pockets across the region; uranium and radon-in-water are documented in specific geological zones. A standard 'safe' result needs to be compared against the regional baseline, not just the federal MCLs."
+        },
+        {
+          "q": "Who collects the sample?",
+          "a": "Ken collects samples on-site during the home inspection (or in a separate visit), following the chain-of-custody protocols required by Massachusetts state-certified labs. Samples are delivered to the lab the same day."
+        },
+        {
+          "q": "What if results come back outside acceptable levels?",
+          "a": "Most contaminants have well-established treatment options: bacteria can be addressed with chlorination and UV disinfection; iron and manganese with media filters; arsenic with reverse osmosis or specific arsenic media; high sodium often points to road-salt infiltration that needs further investigation. We discuss results and refer you to qualified treatment installers."
+        },
+        {
+          "q": "Is well water testing required for FHA or VA loans?",
+          "a": "Yes — and the required panel is more comprehensive than a homeowner's basic test. Ken's pre-purchase well water panel meets or exceeds FHA, VA, and most conventional lender requirements. Confirm with your loan officer to make sure the right tests are ordered."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Deerfield",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Deerfield",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/deerfield/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Deerfield",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/deerfield/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Deerfield",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/deerfield/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Deerfield",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/deerfield/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Deerfield",
+      "cards": [
+        {
+          "title": "Radon Testing in Deerfield",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/deerfield/radon-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Deerfield",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/deerfield/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Deerfield",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/deerfield/termite-wdi/"
+        },
+        {
+          "title": "Mold Inspection in Deerfield",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/service-area/deerfield/mold-inspection/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "path": "/about/",
+  "title": "About Ken Arnold",
+  "status": "publish",
+  "seo": {
+    "title": "About Ken Arnold | Ken Arnold Home Inspection",
+    "description": "Meet Ken Arnold: 22-year MA home inspector (MA Lic. #587), independent owner-operator, ASHI Standards. Based in Deerfield, serving the Pioneer Valley.",
+    "canonical": "https://kahomeinspectionsllc.com/about/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide_index",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "About"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "About Ken Arnold",
+      "subheading": "Pioneer Valley's Independent Home Inspector Since 2004",
+      "sub_style": "text-accent-500",
+      "intro": "Ken Arnold has been a licensed Massachusetts home inspector since 2004, personally conducting thousands of inspections across Franklin, Hampshire, and Hampden Counties — from 18th-century post-and-beam farmhouses in Old Deerfield to contemporary new construction in South Hadley, Westfield, and beyond.",
+      "image": "about-hero-massachusetts-inspector-at-work.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Background",
+      "heading": "Built on Construction.",
+      "subheading": "Applied to Inspection.",
+      "bg": "white",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Before becoming a full-time inspector, Ken built and remodeled homes in Western Massachusetts. That hands-on construction background is what separates a useful inspection report from a checklist-driven one. When something looks wrong on a roof, a foundation, or a 1920s electrical panel, it's not a guess — it's recognition built on decades of working on the systems themselves."
+        },
+        {
+          "html": "Ken founded Ken Arnold Home Inspection LLC in 2004 and has personally conducted thousands of inspections across the Pioneer Valley. He knows the local building stock — the fieldstone foundations in Old Deerfield, the high-water-table soils in Hadley, the Federal Pacific panels still running in Chicopee — and brings that regional context to every report."
+        },
+        {
+          "html": "See the <a href=\"/service-area/\" class=\"text-accent-600 font-medium underline\">full service area</a> for town-by-town details on the housing stock Ken covers most."
+        }
+      ],
+      "image": "about-overview-construction-tools-bench.webp"
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "How Ken Works",
+      "heading": "One Inspector.",
+      "subheading": "Every Inspection.",
+      "bg": "brand-50",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Ken Arnold Home Inspection LLC is a one-inspector firm by design. Every inspection on the schedule is conducted personally by Ken — there are no staff inspectors, no franchise model, no crews splitting the work. The same person who answers your scheduling call walks the property, signs the report, and answers your questions afterward."
+        },
+        {
+          "html": "Inspections are independent. Ken accepts no referral fees from real estate agents, lenders, or contractors, and is not part of any preferred-vendor program. When you hire Ken, the report is calibrated to your interest in understanding what you're buying — not to the interest of anyone trying to keep the deal together."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Massachusetts Home Inspector License #587 — issued 2004, continuously renewed"
+        },
+        {
+          "text": "Inspections performed to or above the ASHI Standards of Practice"
+        },
+        {
+          "text": "Fully insured — general liability + errors & omissions"
+        },
+        {
+          "text": "Continuing-education compliant with all Massachusetts renewal requirements"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report — organized by safety priority"
+        },
+        {
+          "text": "Clients welcome and encouraged on-site for the full inspection"
+        }
+      ],
+      "image": "about-trust-electrical-panel-detail.webp"
+    },
+    {
+      "type": "feature_cards",
+      "v": 1,
+      "eyebrow": "Service Area",
+      "heading": "Based in Deerfield.",
+      "subheading": "Serving the Pioneer Valley.",
+      "intro": "Ken serves the Pioneer Valley, the Connecticut River Valley, and surrounding parts of Western Massachusetts — primarily Franklin, Hampshire, and Hampden Counties. See the <a href=\"/service-area/\" class=\"text-accent-600 font-medium underline\">full service area</a> for town-by-town details and the housing-stock patterns Ken sees most often in each one.",
+      "section_class": "bg-white py-12 md:py-16 lg:py-20",
+      "header_mb": "mb-10",
+      "grid_class": "grid sm:grid-cols-3 gap-6 max-w-3xl mx-auto",
+      "cards": [
+        {
+          "wrapper_class": "bg-brand-50 rounded-lg p-5 text-center",
+          "html": "<p class=\"text-xs uppercase tracking-wider text-accent-700 font-semibold\">Phone</p> <a href=\"tel:+14135228004\" class=\"block mt-2 text-xl font-serif font-bold text-brand-900 no-underline hover:text-accent-600\">(413) 522-8004</a>"
+        },
+        {
+          "wrapper_class": "bg-brand-50 rounded-lg p-5 text-center",
+          "html": "<p class=\"text-xs uppercase tracking-wider text-accent-700 font-semibold\">Office</p> <p class=\"mt-2 text-sm text-brand-700\">35 Keets Rd<br>Deerfield, MA</p>"
+        },
+        {
+          "wrapper_class": "bg-brand-50 rounded-lg p-5 text-center",
+          "html": "<p class=\"text-xs uppercase tracking-wider text-accent-700 font-semibold\">Schedule</p> <a href=\"/schedule/\" class=\"block mt-2 text-sm font-semibold text-accent-600 underline\">Schedule Online</a> <p class=\"text-xs text-brand-500 mt-1\">or call us today</p>"
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Ready to Schedule",
+      "subheading": "Your Massachusetts Home Inspection?",
+      "body": "Whether you're buying, selling, or protecting your investment, Ken Arnold delivers the thorough, independent home inspection services Massachusetts homeowners trust. Call today or schedule online — detailed digital reports and no conflicts of interest.",
+      "image": "about-cta-deerfield-ma-historic-home.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

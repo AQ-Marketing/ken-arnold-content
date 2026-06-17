@@ -1,0 +1,166 @@
+{
+  "path": "/testing-and-specialty/mold-inspection/",
+  "title": "Mold Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Mold Inspection MA | Ken Arnold Home Inspection",
+    "description": "Mold inspection in the Pioneer Valley. Visual evaluation, moisture mapping, and optional air sampling sent to certified labs. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/mold-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty",
+          "url": "/testing-and-specialty/"
+        },
+        {
+          "label": "Mold Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Mold Inspection in Massachusetts",
+      "subheading": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+      "image": "mold-inspection-massachusetts.webp",
+      "badges": [
+        {
+          "text": "Visual report delivered promptly; lab results 5–7 business days"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Schedule This Test",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_article",
+      "v": 1,
+      "col_ratio": "60fr_35fr",
+      "body": "<p>Mold inspection isn’t part of a standard home inspection — but for many Pioneer Valley properties, it’s worth doing. Older basements, fieldstone foundations, mill-conversion condos, and humid crawlspaces all create environments where mold thrives.</p> <p>The approach is moisture-first: identify visible growth, then find the water that’s feeding it. The water source is what actually needs to be solved. Mold visible on surfaces is the symptom; the moisture pathway is the disease.</p> <h2 id=\"whats-inspected\">What’s Inspected</h2> <ul> <li><strong>Visual evaluation</strong> of all accessible interior surfaces — walls, ceilings, floors, basements, crawlspaces, attics — for visible growth or staining</li> <li><strong>Moisture mapping</strong> with a calibrated moisture meter on suspect materials</li> <li><strong>HVAC system review</strong> for visible growth on coils, plenums, ductwork, and supply registers</li> <li><strong>Source identification</strong> — locating roof leaks, plumbing leaks, foundation seepage, inadequate ventilation, condensation issues, or grading problems that are creating the moisture</li> <li><strong>Photo documentation</strong> of all findings</li> <li><strong>Optional air sampling</strong> — interior + exterior baseline plus targeted samples at suspect areas; sent to an AIHA-accredited laboratory</li> </ul> <h2 id=\"whats-in-the-report\">What’s in the Report</h2> <ul> <li>Visible findings, photographed and located on a property sketch</li> <li>Moisture readings at each suspect area</li> <li>Identified or suspected moisture source(s)</li> <li>Recommendations: monitor, remediate at small scale, professional remediation, or source-of-water repair before any remediation</li> <li>Lab results (if air sampling was included), with plain-English interpretation</li> </ul> <h2 id=\"pioneer-valley-patterns\">Pioneer Valley Patterns</h2> <ul> <li><strong>Fieldstone-foundation basements</strong> — surface mold on stone, joists, and stored cardboard/textiles. Almost universal; addressed with dehumidification and source control.</li> <li><strong>Older mill-conversion condos</strong> — moisture migration through retrofitted exterior walls, particularly on north-facing units.</li> <li><strong>Crawlspaces with vented designs</strong> — moisture from ground combined with seasonal humid-air infiltration. Conditioned crawlspace conversion is increasingly the standard fix.</li> <li><strong>Attics with insufficient ventilation</strong> — moisture from kitchen/bath fans not vented to exterior, ice damming, or missing soffit ventilation.</li> <li><strong>Basement-level condo units</strong> — accumulation of basement humidity in finished space.</li> </ul> <h2 id=\"schedule\">Schedule</h2> <p><a href=\"/schedule/\">Schedule online</a>. Most mold inspections are added to a <a href=\"/services/buyer-home-inspection/\">buyer home inspection</a> when the home tour or disclosure surfaces a moisture history.</p>",
+      "aside": "<div class=\"rounded-lg border border-brand-200 bg-brand-50 p-6\"> <h2 class=\"!mt-0 text-lg font-bold text-brand-900\">At a Glance</h2> <ul class=\"mt-4 space-y-3\"> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Results</span> <span class=\"text-sm font-bold text-brand-900 text-right\">Visual report delivered promptly; lab results 5–7 business days</span> </li> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Inspector</span> <span class=\"text-sm font-bold text-brand-900\">Licensed Home Inspector</span> </li> <li class=\"flex justify-between items-center gap-4\"> <span class=\"text-sm text-brand-600 font-medium\">License</span> <span class=\"text-sm font-bold text-brand-900\">MA #587</span> </li> </ul> <div class=\"mt-6 flex flex-col gap-3\"> <a href=\"/schedule/\" class=\"btn-primary w-full text-center text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Schedule This Test</a> <a href=\"tel:+14135228004\" class=\"w-full text-center rounded-md border border-brand-300 px-4 py-2.5 text-xs sm:text-sm font-semibold uppercase tracking-wide text-brand-700 hover:border-accent-400 hover:text-accent-600 transition no-underline\">Call (413) 522-8004</a> </div> </div> <!-- Bundle nudge --> <div class=\"mt-4 rounded-lg border border-accent-200 bg-accent-50 p-5\"> <p class=\"text-sm font-semibold text-accent-700\">Bundle &amp; Save a Trip</p> <p class=\"text-xs text-accent-600 mt-1\">Add this test to a home inspection and coordinate everything in one visit. Call to confirm availability and bundle pricing.</p> </div>"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Other Testing Services",
+      "heading": "More Specialty Tests",
+      "subheading": "All Bundleable into One Visit",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "note": "Bundle with home inspection — package pricing",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Pair With a Core Inspection",
+      "heading": "Bundle This Test into",
+      "subheading": "a Complete Inspection",
+      "intro": "Specialty testing is most valuable when paired with a full visual inspection. Choose the right inspection type, then add this test to the same appointment.",
+      "bg": "white",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Your unit and the building — both inspected, both documented.",
+          "href": "/services/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Test",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "Do I need a mold inspection?",
+          "a": "Mold inspection isn't part of a standard home inspection. It's worth adding when (a) you can see visible suspect growth, (b) you're buying a property with a moisture history (basement flooding, roof leaks, unconditioned crawlspace), (c) you have known sensitivities, or (d) the property is a basement-level condo, mill conversion, or crawlspace property where moisture is endemic."
+        },
+        {
+          "q": "What's the difference between visual evaluation and air sampling?",
+          "a": "Visual evaluation identifies obvious growth, documents the extent, and — most importantly — finds the moisture source that's enabling it. That moisture source is what actually needs to be fixed. Air sampling sends spore counts to a certified lab for comparison against outdoor baseline; it tells you whether airborne concentrations are elevated. Air sampling without addressing the moisture source is generally a waste of money."
+        },
+        {
+          "q": "Can you remediate mold?",
+          "a": "No — we don't perform remediation, and that's a deliberate boundary. An independent inspection without a financial interest in the remediation is exactly what you want. We refer to qualified IICRC-certified remediators when needed; we don't take referral fees."
+        },
+        {
+          "q": "What's typical in the Pioneer Valley?",
+          "a": "Basement and crawlspace surface mold is extremely common in older Western Mass homes — fieldstone foundations, low-grade waterproofing, and seasonal humidity create perfect conditions. The good news is most of it is cosmetic surface growth that responds to humidity control (dehumidification, drainage, conditioned crawlspace) rather than full demolition-grade remediation."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Mold Inspection",
+      "subheading": "Bundle With Any Home Inspection",
+      "body": "Mold inspection is available across the Pioneer Valley — standalone or bundled into the same visit as a home inspection. MA License #587.",
+      "image": "specialty-mold-cta-damp-basement-window-well.webp",
+      "cta_label": "Schedule This Test",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "path": "/service-area/northampton/new-construction-inspection/",
+  "title": "New Construction Northampton MA",
+  "status": "publish",
+  "seo": {
+    "title": "New Construction Northampton MA | Ken Arnold Home Inspection",
+    "description": "New Construction Home Inspection in Northampton, Hampshire County, MA by Ken Arnold (MA Lic. #587). An independent inspection before your warranty closes. ",
+    "canonical": "https://kahomeinspectionsllc.com/services/new-construction-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Northampton, MA",
+          "url": "/service-area/northampton/"
+        },
+        {
+          "label": "New Construction Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Northampton, Hampshire County",
+      "heading": "New Construction Home Inspection in Northampton, MA",
+      "meta": "· ~3 hours on-site",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Northampton Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "New construction in Northampton is mostly infill and small subdivisions in Florence and the outskirts — true greenfield builds are rare here. We catch the usual framing, fire-blocking, and HVAC issues, plus site-specific concerns: foundation drainage on lots near Mill River tributaries, and grading on small infill lots squeezed between older homes where runoff has nowhere good to go.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing new construction home inspection services across the Pioneer Valley since 2004 — including hundreds of Northampton-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/services/new-construction-inspection/\">New Construction Home Inspection</a>. For broader context on Northampton's housing stock, see the <a href=\"/service-area/northampton/\">Northampton town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Isn't a new home already inspected by the town?",
+          "a": "Town inspectors check building-code compliance at specific milestones — they don't perform the kind of system-by-system evaluation a private home inspector does. A passed final inspection means the home meets minimum code; it doesn't mean every system was installed correctly or that every detail is going to age well."
+        },
+        {
+          "q": "What's the best time to inspect a new build?",
+          "a": "Three timing options. (1) A pre-drywall walkthrough — once framing, rough plumbing, electrical, and mechanicals are in but before insulation and drywall — lets you see things that will be hidden forever afterward. (2) A final-walk inspection just before closing catches finish-quality issues. (3) An 11-month inspection — just before the standard one-year builder warranty expires — surfaces anything that has emerged since move-in while the builder is still on the hook."
+        },
+        {
+          "q": "Will the builder push back on bringing in a private inspector?",
+          "a": "Most reputable builders welcome it — a clean third-party report is good for them too. If a builder is hostile to independent inspection, that's information worth having before closing. Ken can discuss how to approach builder coordination when you schedule."
+        },
+        {
+          "q": "Do you do all three phase inspections?",
+          "a": "Yes. Many buyers choose pre-drywall plus final-walk; others add the 11-month for full warranty coverage. Each inspection is priced per visit. Bundling two or three phases is available — call to discuss what makes sense for your timeline."
+        },
+        {
+          "q": "Is radon testing recommended on new construction?",
+          "a": "Yes — and doing it at new construction is actually the best time. Many new-construction basements in the Pioneer Valley test high. A mitigation system installed during construction is dramatically cheaper than a retrofit — and if you test before closing, you can require the builder to install it as a condition of purchase."
+        },
+        {
+          "q": "Should I add thermal imaging to a new construction inspection?",
+          "a": "Strongly recommended — particularly at the final-walk or 11-month phase. Modern envelopes depend on continuous insulation and air-sealing to perform, and thermal imaging is the only practical way to verify it. Missed insulation in a wall cavity, a poorly sealed window, a duct in unconditioned space — all show up immediately on infrared and all should be on the builder's punch list rather than yours. Pre-drywall scans can also confirm batt placement before drywall closes the wall."
+        },
+        {
+          "q": "What areas do you serve for new construction inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Deerfield, Northampton, Hadley, Amherst, Greenfield, Sunderland, Whately, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Northampton",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Northampton",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/northampton/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Northampton",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/northampton/pre-listing-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Northampton",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/northampton/condo-townhouse-inspection/"
+        },
+        {
+          "title": "Multi-Family Home Inspection in Northampton",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/service-area/northampton/multi-family-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Northampton",
+      "cards": [
+        {
+          "title": "Radon Testing in Northampton",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/northampton/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Northampton",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/northampton/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Northampton",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/northampton/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Northampton",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/northampton/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

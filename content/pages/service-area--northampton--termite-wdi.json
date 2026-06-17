@@ -1,0 +1,164 @@
+{
+  "path": "/service-area/northampton/termite-wdi/",
+  "title": "Termite Inspection Northampton",
+  "status": "publish",
+  "seo": {
+    "title": "Termite Inspection Northampton | Ken Arnold Home Inspection",
+    "description": "Termite and WDI Inspection in Northampton, Hampshire County, MA by Ken Arnold (MA Lic. #587). NPMA-33 wood-destroying insect inspection — required for most",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/termite-wdi/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Northampton, MA",
+          "url": "/service-area/northampton/"
+        },
+        {
+          "label": "Termite & WDI Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Northampton, Hampshire County",
+      "heading": "Termite & WDI Inspection in Northampton, MA",
+      "meta": "Standalone: $125 · As add-on: $95 with home inspection · NPMA-33 form delivered promptly",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Northampton Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Northampton's century-plus housing stock gives termites and powderpost beetles decades of access to original framing. Downtown Victorians regularly show old powderpost galleries in basement joists and sill rot at fieldstone foundations. Mill River-adjacent properties stay damp enough to keep subterranean termite pressure active. Florence ranches with mulched foundations and woodpiles get flagged for conducive conditions consistently.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing termite &amp; wdi inspection services across the Pioneer Valley since 2004 — including hundreds of Northampton-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/testing-and-specialty/termite-wdi/\">Termite &amp; WDI Inspection</a>. For broader context on Northampton's housing stock, see the <a href=\"/service-area/northampton/\">Northampton town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's WDI and how is it different from termite-only?",
+          "a": "WDI stands for Wood-Destroying Insect. The NPMA-33 form covers all wood-destroying insects relevant in our region: subterranean termites, carpenter ants, carpenter bees, and powderpost beetles. In the Pioneer Valley, carpenter ants are far more common findings than termites — but both are reported on the same form."
+        },
+        {
+          "q": "Is WDI inspection required for my mortgage?",
+          "a": "Most VA loans require it. FHA loans require it in many states (and most lenders ask for it in Massachusetts as a matter of policy). Conventional loans don't typically require it but it's a common buyer-requested contingency. Confirm with your loan officer."
+        },
+        {
+          "q": "What if active activity is found?",
+          "a": "Active activity gets disclosed on the NPMA-33 form. The remedy depends on the species and extent: localized carpenter ant treatment is usually under $500; full subterranean termite treatment in our region runs $1,200–$2,500 with annual monitoring. Buyer and seller typically negotiate treatment as part of the inspection contingency."
+        },
+        {
+          "q": "What about old, inactive damage?",
+          "a": "The form distinguishes 'evidence of past infestation' from 'evidence of active infestation.' Old galleries, frass, or exit holes without current insect activity are documented but generally don't trigger treatment requirements. Structural damage from old activity is a separate matter — that gets noted in the home inspection report and may need a structural assessment."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Northampton",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Northampton",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/northampton/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Northampton",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/northampton/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Northampton",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/northampton/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Northampton",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/northampton/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Northampton",
+      "cards": [
+        {
+          "title": "Radon Testing in Northampton",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/northampton/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Northampton",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/northampton/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Northampton",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/northampton/septic-inspection/"
+        },
+        {
+          "title": "Mold Inspection in Northampton",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/service-area/northampton/mold-inspection/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

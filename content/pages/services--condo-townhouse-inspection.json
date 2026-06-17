@@ -1,0 +1,292 @@
+{
+  "path": "/services/condo-townhouse-inspection/",
+  "title": "Condo & Townhouse Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Condo & Townhouse Inspection MA | Ken Arnold Home Inspection",
+    "description": "Buying a condo or townhouse in the Pioneer Valley? Get a full unit inspection plus the common-element review condo buyers usually skip. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/services/condo-townhouse-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services",
+          "url": "/services/"
+        },
+        {
+          "label": "Condo & Townhouse Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Condo & Townhouse Inspection in Massachusetts",
+      "subheading": "Your Unit and the Building — Both Inspected, Both Documented",
+      "image": "condo-townhouse-inspection-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Why It Matters",
+      "heading": "You're Not Just Buying a Unit",
+      "subheading": "You're Buying Into the Building",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Condo and townhouse buyers often assume the inspection is simpler — smaller scope, shorter time, fewer concerns. That assumption is exactly backwards. When you buy a condo, you're inheriting a proportional share of the building's common systems: the roof, the exterior envelope, the mechanicals, the parking structures. A failing roof in a five-unit complex is just as much your problem as the seller's. You need to know about it before closing."
+        },
+        {
+          "html": "Ken Arnold has inspected condos and townhouses across Western Massachusetts since 2004 — mill conversions, downtown buildings, suburban complexes, and stacked-duplex conversions throughout the Pioneer Valley. He evaluates both what you're buying (the unit) and what you're buying into (the building), and delivers a clear photo-documented report organized so you and your agent can act inside your due-diligence window. <a href=\"/testing-and-specialty/radon-testing/\" class=\"text-accent-600 font-medium underline\">Radon testing</a> and <a href=\"/testing-and-specialty/mold-inspection/\" class=\"text-accent-600 font-medium underline\">mold inspection</a> can be added to the same appointment."
+        }
+      ],
+      "image": "condo-townhouse-overview-shared-wall-detail.webp"
+    },
+    {
+      "type": "journey_cards",
+      "v": 1,
+      "eyebrow": "Your Condo Inspection, Step by Step",
+      "heading": "From Offer Acceptance",
+      "subheading": "To Closing Without Surprises",
+      "h2_mt": "mt-4",
+      "intro": "A condo or townhouse inspection with Ken Arnold covers two layers: what's inside your unit, and what's shared with the building. Here's what the process looks like.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Book Inside Your Due-Diligence Window",
+          "body": "Call or schedule online as soon as your offer is accepted. Ken schedules every appointment personally — you'll get a confirmed date, a realistic time estimate, and a direct number. Condo inspections typically run 1.5–2 hours on-site, depending on the unit size and building complexity."
+        },
+        {
+          "number": "02",
+          "title": "Unit Inspection + Common-Element Review",
+          "body": "Ken inspects the full unit interior — all systems, finishes, and fixtures — then evaluates accessible common areas: roof, exterior envelope, shared mechanicals, common stairs and entry, parking, and drainage. Mill conversions and historic buildings get additional attention on their shared envelope."
+        },
+        {
+          "number": "03",
+          "title": "Building Findings Briefing",
+          "body": "Before Ken leaves, he walks you through what he found in both the unit and the common areas — distinguishing items that are your direct responsibility from issues that belong to the association. He'll also discuss what to look for in the condo documents: reserve study, board minutes, and capital project history."
+        },
+        {
+          "number": "04",
+          "title": "Clear Report Organized by Scope",
+          "body": "Your report is organized by unit scope and building/common-element scope — each section fully photo-documented. You and your agent have clear, prioritized findings to bring into your due-diligence conversation before the window closes. Delivered promptly after the inspection."
+        }
+      ]
+    },
+    {
+      "type": "dark_card_grid",
+      "v": 1,
+      "eyebrow": "Inspection Services",
+      "heading": "Every Property Is Different.",
+      "subheading": "So Is Every Inspection.",
+      "h2_mt": "mt-4",
+      "compact": true,
+      "intro": "Ken Arnold Home Inspection LLC offers a full range of residential inspection services across Massachusetts — each scoped to the property type, your role in the transaction, and what's at stake.",
+      "cards": [
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"> <path d=\"M543.8 287.6c17 0 32-14 32-32.1c1-9-3-17-11-24L512 185V64c0-17.7-14.3-32-32-32H448c-17.7 0-32 14.3-32 32v36.7L309.5 7c-6-5-14-7-21-7s-15 1-22 8L10 231.5c-7 7-10 15-10 24c0 18 14 32.1 32 32.1h32v69.7c-.1 .9-.1 1.8-.1 2.8V472c0 22.1 17.9 40 40 40h16c1.2 0 2.4-.1 3.6-.2c1.5 .1 3 .2 4.5 .2H160h24c22.1 0 40-17.9 40-40V448 384c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v64 24c0 22.1 17.9 40 40 40h24 32.5c1.4 0 2.8 0 4.2-.1c1.1 .1 2.2 .1 3.3 .1h16c22.1 0 40-17.9 40-40V455.8c.3-2.6 .5-5.3 .5-8.1l-.7-160.2h32z\"></path> </svg>",
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "link_label": "Learn More",
+          "link_href": "/services/buyer-home-inspection/",
+          "link_aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 448 512\" fill=\"#f9ab3d\"> <path d=\"M0 80V229.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0L418.7 317.3c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7H48C21.5 32 0 53.5 0 80zm112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z\"></path> </svg>",
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "link_label": "Learn More",
+          "link_href": "/services/pre-listing-inspection/",
+          "link_aria": "Learn more about Pre-Listing Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M78.6 5C69.1-2.4 55.6-1.5 47 7L7 47c-8.5 8.5-9.4 22-2.1 31.6l80 104c4.5 5.9 11.6 9.4 19 9.4h54.1l109 109c-14.7 29-10 65.4 14.3 89.6l112 112c12.5 12.5 32.8 12.5 45.3 0l64-64c12.5-12.5 12.5-32.8 0-45.3l-112-112c-24.2-24.2-60.6-29-89.6-14.3l-109-109V104c0-7.5-3.5-14.5-9.4-19L78.6 5zM19.9 396.1C7.2 408.8 0 426.1 0 444.1C0 481.6 30.4 512 67.9 512c18 0 35.3-7.2 48-19.9L233.7 374.3c-7.8-20.9-9-43.6-3.6-65.1l-61.7-61.7L19.9 396.1zM512 144c0-10.5-1.1-20.7-3.2-30.5c-2.4-11.2-16.1-14.1-24.2-6l-63.9 63.9c-3 3-7.1 4.7-11.3 4.7H352c-8.8 0-16-7.2-16-16V102.6c0-4.2 1.7-8.3 4.7-11.3l63.9-63.9c8.1-8.1 5.2-21.8-6-24.2C388.7 1.1 378.5 0 368 0C288.5 0 224 64.5 224 144l0 .8 85.3 85.3c36-9.1 75.8 .5 104 28.7L429 274.5c49-22.8 83-72.8 83-130.5zM56 432a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z\"></path> </svg>",
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "link_label": "Learn More",
+          "link_href": "/services/new-construction-inspection/",
+          "link_aria": "Learn more about New Construction Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 384 512\" fill=\"#f9ab3d\"> <path d=\"M64 48c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16h80V400c0-26.5 21.5-48 48-48s48 21.5 48 48v64h80c8.8 0 16-7.2 16-16V64c0-8.8-7.2-16-16-16H64zM0 64C0 28.7 28.7 0 64 0H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm88 40c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V104zM232 88h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V104c0-8.8 7.2-16 16-16zM88 232c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V232zm144-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V232c0-8.8 7.2-16 16-16z\"></path> </svg>",
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "link_label": "Learn More",
+          "link_href": "/services/multi-family-inspection/",
+          "link_aria": "Learn more about Multi-Family Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.5 33.3-6.5s4.5-25.9-6.5-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z\"></path> </svg>",
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "link_label": "Learn More",
+          "link_href": "/services/annual-preventative-inspection/",
+          "link_aria": "Learn more about Annual & Preventative Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Your Inspector, Your Advocate",
+      "heading": "Two Layers of Inspection",
+      "subheading": "One Independent Inspector",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Most condo inspectors focus only on the unit interior. Ken Arnold evaluates both — because the association's systems are part of what you're buying. He has no relationship with sellers, listing agents, or association management. His job is to give you a complete picture of the unit and the building before you're legally committed to both."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Massachusetts License #587 — 22 years of condo and townhouse inspections"
+        },
+        {
+          "text": "Unit inspection + accessible common-element review — both documented"
+        },
+        {
+          "text": "Mill conversion and historic building experience across Western Massachusetts"
+        },
+        {
+          "text": "Guidance on condo documents: what to request, what to look for"
+        },
+        {
+          "text": "Photo report with unit scope and building scope organized separately"
+        }
+      ],
+      "cta_label": "About Ken Arnold",
+      "cta_href": "/about/",
+      "image": "condo-townhouse-trust-condo-association-budget.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Bundle & Save a Trip",
+      "heading": "Specialty Testing",
+      "subheading": "Added to the Same Visit",
+      "intro": "The most consequential risks — radon, water quality, wood-destroying insects, hidden moisture — aren't visible on a standard inspection. Add specialty testing to your appointment and address everything in one visit.",
+      "cols": "4",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "From Condo Buyers Who've Been There",
+      "heading": "What Clients Say",
+      "h2_mt": "mt-4",
+      "bg": "white",
+      "intro": "First-time condo buyers, investors, and their agents in Northampton, Holyoke, Easthampton, and across the Pioneer Valley.",
+      "items": [
+        {
+          "quote": "\"I almost skipped the inspection because it was a newer building. Ken found a chronic leak in the unit above mine that had been rotting the wall cavity for two years. The association had known about it. I negotiated a credit and got it repaired before moving in.\"",
+          "name": "Angela M.",
+          "role": "Condo Buyer, Northampton"
+        },
+        {
+          "quote": "\"We bought a unit in an Easthampton mill conversion. Ken's review of the shared systems — especially the roof and HVAC distribution — gave us a real picture of what the association was going to face in the next five years. We asked the right questions before closing.\"",
+          "name": "Tom & Priya S.",
+          "role": "Condo Buyers, Easthampton"
+        },
+        {
+          "quote": "\"Ken is the only inspector I recommend to my condo clients. He understands the unique dynamics of shared-system ownership and explains it clearly. His reports hold up.\"",
+          "name": "Carla D.",
+          "role": "Real Estate Agent, Northampton"
+        }
+      ],
+      "cta_label": "Read More Client Reviews",
+      "cta_href": "/reviews/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Inspection",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "What's different about a condo inspection?",
+          "a": "Two things. First, the unit inspection is similar to a single-family inspection but typically faster — there's no roof, no foundation, no exterior envelope under your direct ownership. Second, and more important: in a condo you're inheriting a share of the building's common systems (roof, exterior walls, mechanicals, parking), so understanding the building's overall condition matters as much as the unit. Ken documents both."
+        },
+        {
+          "q": "Should I inspect a condo at all?",
+          "a": "Yes. Buyers sometimes assume condos don't need inspection because the association maintains common areas. That's exactly backwards — you have less control over those systems, so you need more information about their condition before you buy in. The unit interior also has its own electrical, plumbing, HVAC, and finish issues that need evaluation."
+        },
+        {
+          "q": "What documents should I request from the association?",
+          "a": "Request the most recent reserve study, the past 24 months of board meeting minutes, capital project records for the last 3–5 years, the master insurance policy, and the budget. Patterns to watch: deferred capital projects, recent special assessments, low reserves relative to building age, or deferred roof or facade work. Ken will discuss what the findings suggest in relation to the documents."
+        },
+        {
+          "q": "Do you inspect mill conversion condos in Holyoke and Easthampton?",
+          "a": "Yes — these are some of the most interesting and complex inspections in the region. Mill conversions inherit massive shared envelopes (brick or stone walls, original windows, complex sawtooth or monitor roofs, central HVAC distribution) that are dramatically more important than the unit interior. Ken has inspected condos at Eastworks, multiple Holyoke canal-district conversions, and downtown Northampton mill buildings."
+        },
+        {
+          "q": "Is radon a concern in condo units?",
+          "a": "Yes — particularly in ground-floor and basement-level units. Radon can accumulate in lower-level units just as it does in single-family homes. Testing is recommended on any ground-floor or basement-level condo purchase, and is easily added to the same appointment."
+        },
+        {
+          "q": "What areas of Massachusetts do you serve for condo inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Northampton, Amherst, Holyoke, Easthampton, Greenfield, Hadley, Chicopee, Springfield, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Know the Unit and the Building Before You Close",
+      "subheading": "Schedule Your Condo Inspection Today",
+      "body": "Don't let the smaller scope fool you — a condo or townhouse inspection in Massachusetts is a two-layer evaluation. Ken Arnold inspects both the unit and the shared building systems, with clear photo-documented reporting across the Pioneer Valley.",
+      "image": "condo-townhouse-cta-attached-townhouse-exterior.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

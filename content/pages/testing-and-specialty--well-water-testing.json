@@ -1,0 +1,172 @@
+{
+  "path": "/testing-and-specialty/well-water-testing/",
+  "title": "Well Water Testing MA",
+  "status": "publish",
+  "seo": {
+    "title": "Well Water Testing MA | Ken Arnold Home Inspection",
+    "description": "Pre-purchase well water testing in the Pioneer Valley. Bacteria, nitrates, lead, arsenic, manganese, iron, and the full Title V suite. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/well-water-testing/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty",
+          "url": "/testing-and-specialty/"
+        },
+        {
+          "label": "Well Water Testing in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Well Water Testing in Massachusetts",
+      "subheading": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+      "image": "well-water-testing-massachusetts.webp",
+      "badges": [
+        {
+          "text": "Bundle with home inspection — package pricing"
+        },
+        {
+          "text": "5–10 business days from sample collection"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Schedule This Test",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_article",
+      "v": 1,
+      "col_ratio": "60fr_35fr",
+      "body": "<p>In the rural parts of the Pioneer Valley — Sunderland, Hadley, Whately, Leverett, the Franklin County hill towns — almost every property is on a private well. Unlike municipal water, private wells aren’t regulated or tested by anyone unless the homeowner pays for it. Pre-purchase testing is one of the most important checks a buyer can run.</p> <p>All well water testing services are performed by <strong>Ahearn Radon Testing</strong>, an experienced independent testing company serving Western Massachusetts. Ken Arnold Home Inspection partners with Ahearn Radon Testing to provide professional well water testing completed by a dedicated testing specialist.</p> <div class=\"not-prose mt-6 rounded-lg border border-brand-200 bg-brand-50 p-5\"> <p class=\"font-semibold text-brand-900 text-sm mb-3\">Ahearn Radon Testing</p> <ul class=\"space-y-1.5 text-sm text-brand-700\"> <li><a href=\"tel:+14135868730\" class=\"text-accent-600 hover:underline font-medium\">(413) 586-8730</a></li> <li><a href=\"mailto:KGAhearn@gmail.com\" class=\"text-accent-600 hover:underline\">KGAhearn@gmail.com</a></li> <li>6 Modena Circle, Westfield, MA 01085</li> </ul> </div> <h2 id=\"standard-pre-purchase-panel\">Standard Pre-Purchase Panel</h2> <p>The standard Massachusetts pre-purchase well water panel covers the contaminants most commonly required by lenders, real-estate contracts, and buyer due diligence:</p> <p><strong>Microbiological</strong></p> <ul> <li>Total coliform bacteria</li> <li>E. coli</li> </ul> <p><strong>Inorganic chemistry</strong></p> <ul> <li>Lead</li> <li>Arsenic (often required by Massachusetts FHA-equivalent loans)</li> <li>Nitrate and nitrite</li> <li>Iron, manganese</li> <li>Hardness, pH</li> <li>Sodium, chloride, sulfate</li> </ul> <p><strong>Physical</strong></p> <ul> <li>Color, odor, turbidity (descriptive)</li> </ul> <p>For specific geological zones (Mount Toby, parts of the Pelham Hills, Greenfield ledges), It's recommended to add <strong>uranium</strong> and <strong>radon-in-water</strong> to the standard panel.</p> <h2 id=\"western-mass-well-water-patterns\">Western Mass Well Water Patterns</h2> <p>Twenty-two years of testing in the Pioneer Valley produces a recurring set of findings:</p> <ul> <li><strong>Iron and manganese</strong> — almost universal. Levels above the Secondary MCL (0.3 mg/L iron, 0.05 mg/L manganese) cause staining and taste issues but are aesthetic, not health-driven; a basic media filter handles them.</li> <li><strong>Coliform bacteria</strong> — common, often related to well-cap or wellhead seal issues. Almost always solvable with chlorination + UV disinfection.</li> <li><strong>Arsenic</strong> — present at low levels across the region, sometimes elevated in specific geological pockets. Treatment via reverse osmosis or arsenic-specific media.</li> <li><strong>Sodium and chloride</strong> — elevated in homes near major roads where salt infiltration is occurring.</li> <li><strong>Hardness</strong> — common; aesthetic only.</li> <li><strong>Radon-in-water</strong> — under-tested. Becomes important when high levels combine with high indoor radon.</li> </ul> <h2 id=\"how-testing-works\">How Testing Works</h2> <ol> <li><strong>Sample collection.</strong> Ahearn Radon Testing collects samples on-site during the home inspection (or in a separate visit), following Massachusetts lab chain-of-custody protocols. Samples are kept on ice and delivered to the lab the same day.</li> <li><strong>Lab analysis</strong> at a Massachusetts state-certified laboratory. Standard panels take 5–10 business days.</li> <li><strong>Results report.</strong> You receive a formal lab report plus a plain-English summary showing which results are within MCLs, which are above, and what the practical implications are.</li> </ol> <h2 id=\"schedule\">Schedule</h2> <p>Most well water testing is bundled with a <a href=\"/services/buyer-home-inspection/\">buyer home inspection</a> or <a href=\"/testing-and-specialty/septic-inspection/\">septic inspection</a> — single visit, lower total cost. <a href=\"/schedule/\">Schedule online</a>.</p>",
+      "aside": "<div class=\"rounded-lg border border-brand-200 bg-brand-50 p-6\"> <h2 class=\"!mt-0 text-lg font-bold text-brand-900\">At a Glance</h2> <ul class=\"mt-4 space-y-3\"> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Results</span> <span class=\"text-sm font-bold text-brand-900 text-right\">5–10 business days from sample collection</span> </li> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Testing by</span> <span class=\"text-sm font-bold text-brand-900\">Ahearn Radon Testing</span> </li> <li class=\"flex justify-between items-center gap-4\"> <span class=\"text-sm text-brand-600 font-medium\">License</span> <span class=\"text-sm font-bold text-brand-900\">MA #587</span> </li> </ul> <div class=\"mt-6 flex flex-col gap-3\"> <a href=\"/schedule/\" class=\"btn-primary w-full text-center text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Schedule This Test</a> <a href=\"tel:+14135228004\" class=\"w-full text-center rounded-md border border-brand-300 px-4 py-2.5 text-xs sm:text-sm font-semibold uppercase tracking-wide text-brand-700 hover:border-accent-400 hover:text-accent-600 transition no-underline\">Call (413) 522-8004</a> </div> </div> <!-- Bundle nudge --> <div class=\"mt-4 rounded-lg border border-accent-200 bg-accent-50 p-5\"> <p class=\"text-sm font-semibold text-accent-700\">Bundle &amp; Save a Trip</p> <p class=\"text-xs text-accent-600 mt-1\">Add this test to a home inspection and coordinate everything in one visit. Call to confirm availability and bundle pricing.</p> </div>"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Other Testing Services",
+      "heading": "More Specialty Tests",
+      "subheading": "All Bundleable into One Visit",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Pair With a Core Inspection",
+      "heading": "Bundle This Test into",
+      "subheading": "a Complete Inspection",
+      "intro": "Specialty testing is most valuable when paired with a full visual inspection. Choose the right inspection type, then add this test to the same appointment.",
+      "bg": "white",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "Septic Inspection",
+          "body": "Pre-purchase septic evaluation coordinated with Title 5 inspectors.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic Inspection"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Test",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "What does the test cover?",
+          "a": "Standard Massachusetts pre-purchase panels cover: total coliform and E. coli bacteria, nitrate and nitrite, hardness, pH, iron, manganese, sodium, chloride, sulfate, and lead. Many lenders also require arsenic, uranium, and radon-in-water for properties in geologically active areas. Specialty panels are available for VOCs, pesticides, PFAS, and other contaminants of concern."
+        },
+        {
+          "q": "Why is well water testing different in Western Mass?",
+          "a": "The Pioneer Valley's geology — particularly the granite and pegmatite formations across Franklin County and parts of Hampshire County — produces elevated levels of naturally occurring contaminants. Iron and manganese are extremely common; arsenic occurs in pockets across the region; uranium and radon-in-water are documented in specific geological zones. A standard 'safe' result needs to be compared against the regional baseline, not just the federal MCLs."
+        },
+        {
+          "q": "Who collects the sample?",
+          "a": "Ahearn Radon Testing collects samples on-site during the home inspection (or in a separate visit), following the chain-of-custody protocols required by Massachusetts state-certified labs. Samples are delivered to the lab the same day."
+        },
+        {
+          "q": "What if results come back outside acceptable levels?",
+          "a": "Most contaminants have well-established treatment options: bacteria can be addressed with chlorination and UV disinfection; iron and manganese with media filters; arsenic with reverse osmosis or specific arsenic media; high sodium often points to road-salt infiltration that needs further investigation. We discuss results and refer you to qualified treatment installers."
+        },
+        {
+          "q": "Is well water testing required for FHA or VA loans?",
+          "a": "Yes — and the required panel is more comprehensive than a homeowner's basic test. Our pre-purchase well water panel meets or exceeds FHA, VA, and most conventional lender requirements. Confirm with your loan officer to make sure the right tests are ordered."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Well Water Testing",
+      "subheading": "Bundle With Any Home Inspection",
+      "body": "Well water testing is coordinated by Ken Arnold Home Inspection through our partnership with Ahearn Radon Testing, serving the Pioneer Valley — standalone or bundled into the same visit as a home inspection. MA License #587.",
+      "image": "specialty-well-water-cta-private-well-cap-rural.webp",
+      "cta_label": "Schedule This Test",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

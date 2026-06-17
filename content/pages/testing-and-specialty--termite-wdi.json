@@ -1,0 +1,166 @@
+{
+  "path": "/testing-and-specialty/termite-wdi/",
+  "title": "Termite & WDI Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Termite & WDI Inspection MA | Ken Arnold Home Inspection",
+    "description": "Pre-purchase termite &#38; wood-destroying insect (WDI) inspection in the Pioneer Valley. NPMA-33 form for FHA/VA loans. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/termite-wdi/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty",
+          "url": "/testing-and-specialty/"
+        },
+        {
+          "label": "Termite & WDI Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Termite & WDI Inspection in Massachusetts",
+      "subheading": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+      "image": "termite-wdi-inspection-massachusetts.webp",
+      "badges": [
+        {
+          "text": "NPMA-33 form delivered promptly"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Schedule This Test",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_article",
+      "v": 1,
+      "col_ratio": "60fr_35fr",
+      "body": "<p>A WDI (Wood-Destroying Insect) inspection — sometimes called a termite inspection — is required for most VA loans, many FHA loans, and a majority of investor and rural-loan products in Massachusetts. The output is a standardized <strong>NPMA-33 form</strong> that lenders, agents, and underwriters all recognize.</p> <p>In the Pioneer Valley, carpenter ants are by far the most common WDI finding, with carpenter bees a distant second and subterranean termites a third — though all three are established in our region and showing up more frequently as conditions warm.</p> <h2 id=\"whats-inspected\">What’s Inspected</h2> <p>The inspection covers all accessible structural wood and wood-adjacent areas for evidence of:</p> <ul> <li><strong>Subterranean termites</strong> — mud tubes on foundations, basement walls, sills; live insects; damaged wood with characteristic gallery patterns</li> <li><strong>Carpenter ants</strong> — frass piles, foraging activity, galleries in damp or moisture-damaged wood (sills, rim joists, window frames, deck ledgers)</li> <li><strong>Carpenter bees</strong> — bore holes in soft exterior wood (deck rails, trim, siding)</li> <li><strong>Powderpost beetles</strong> — exit holes, frass, active emergence in older softwood and hardwood structural members</li> <li><strong>Conducive conditions</strong> — wood-to-soil contact, moisture sources, missing flashing, improper grading, debris in crawlspaces</li> </ul> <h2 id=\"what-you-get\">What You Get</h2> <ul> <li><strong>NPMA-33 form</strong> — the standardized lender-accepted form, signed and dated</li> <li><strong>Photo documentation</strong> of any findings</li> <li><strong>Cross-reference to the home inspection report</strong> for any related structural concerns</li> </ul> <p>The form is delivered promptly after the inspection.</p> <h2 id=\"pioneer-valley-patterns\">Pioneer Valley Patterns</h2> <ul> <li><strong>Older properties</strong> with fieldstone foundations or sills in contact with grade are the highest-risk for both termites and carpenter ants</li> <li><strong>Decks and exterior trim</strong> in shaded, north-facing locations show consistent carpenter-bee activity</li> <li><strong>Powderpost beetle</strong> activity is most common in older homes with original heart-pine or hardwood structural members</li> <li><strong>Subterranean termite</strong> pressure has been increasing across Hampden County in the last decade — Holyoke, Chicopee, and Westfield see the most consistent findings</li> </ul> <p>Most inspections are bundled with the <a href=\"/services/buyer-home-inspection/\">buyer home inspection</a> or <a href=\"/services/multi-family-inspection/\">multi-family inspection</a> for efficiency. Standalone visits are available for refinances, walk-throughs, and seller pre-listing checks.</p> <h2 id=\"schedule\">Schedule</h2> <p><a href=\"/schedule/\">Schedule online</a> or call <a href=\"tel:+14135228004\">(413) 522-8004</a>.</p>",
+      "aside": "<div class=\"rounded-lg border border-brand-200 bg-brand-50 p-6\"> <h2 class=\"!mt-0 text-lg font-bold text-brand-900\">At a Glance</h2> <ul class=\"mt-4 space-y-3\"> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Results</span> <span class=\"text-sm font-bold text-brand-900 text-right\">NPMA-33 form delivered promptly</span> </li> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Inspector</span> <span class=\"text-sm font-bold text-brand-900\">Licensed Home Inspector</span> </li> <li class=\"flex justify-between items-center gap-4\"> <span class=\"text-sm text-brand-600 font-medium\">License</span> <span class=\"text-sm font-bold text-brand-900\">MA #587</span> </li> </ul> <div class=\"mt-6 flex flex-col gap-3\"> <a href=\"/schedule/\" class=\"btn-primary w-full text-center text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Schedule This Test</a> <a href=\"tel:+14135228004\" class=\"w-full text-center rounded-md border border-brand-300 px-4 py-2.5 text-xs sm:text-sm font-semibold uppercase tracking-wide text-brand-700 hover:border-accent-400 hover:text-accent-600 transition no-underline\">Call (413) 522-8004</a> </div> </div> <!-- Bundle nudge --> <div class=\"mt-4 rounded-lg border border-accent-200 bg-accent-50 p-5\"> <p class=\"text-sm font-semibold text-accent-700\">Bundle &amp; Save a Trip</p> <p class=\"text-xs text-accent-600 mt-1\">Add this test to a home inspection and coordinate everything in one visit. Call to confirm availability and bundle pricing.</p> </div>"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Other Testing Services",
+      "heading": "More Specialty Tests",
+      "subheading": "All Bundleable into One Visit",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "note": "Bundle with home inspection — package pricing",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Pair With a Core Inspection",
+      "heading": "Bundle This Test into",
+      "subheading": "a Complete Inspection",
+      "intro": "Specialty testing is most valuable when paired with a full visual inspection. Choose the right inspection type, then add this test to the same appointment.",
+      "bg": "white",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "Multi-Family Inspection",
+          "body": "Unit-by-unit inspection with shared building systems documented separately.",
+          "href": "/services/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Inspection"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Test",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "What's WDI and how is it different from termite-only?",
+          "a": "WDI stands for Wood-Destroying Insect. The NPMA-33 form covers all wood-destroying insects relevant in our region: subterranean termites, carpenter ants, carpenter bees, and powderpost beetles. In the Pioneer Valley, carpenter ants are far more common findings than termites — but both are reported on the same form."
+        },
+        {
+          "q": "Is WDI inspection required for my mortgage?",
+          "a": "Most VA loans require it. FHA loans require it in many states (and most lenders ask for it in Massachusetts as a matter of policy). Conventional loans don't typically require it but it's a common buyer-requested contingency. Confirm with your loan officer."
+        },
+        {
+          "q": "What if active activity is found?",
+          "a": "Active activity gets disclosed on the NPMA-33 form. The remedy depends on the species and extent: localized carpenter ant treatment is usually under $500; full subterranean termite treatment in our region runs $1,200–$2,500 with annual monitoring. Buyer and seller typically negotiate treatment as part of the inspection contingency."
+        },
+        {
+          "q": "What about old, inactive damage?",
+          "a": "The form distinguishes 'evidence of past infestation' from 'evidence of active infestation.' Old galleries, frass, or exit holes without current insect activity are documented but generally don't trigger treatment requirements. Structural damage from old activity is a separate matter — that gets noted in the home inspection report and may need a structural assessment."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Termite & WDI Inspection",
+      "subheading": "Bundle With Any Home Inspection",
+      "body": "Termite &amp; WDI inspection is available across the Pioneer Valley — standalone or bundled into the same visit as a home inspection. MA License #587.",
+      "image": "specialty-termite-cta-older-home-foundation.webp",
+      "cta_label": "Schedule This Test",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

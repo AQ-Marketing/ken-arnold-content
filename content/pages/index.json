@@ -1,0 +1,279 @@
+{
+  "path": "/",
+  "title": "Home",
+  "status": "publish",
+  "seo": {
+    "title": "Pioneer Valley Home Inspector | Ken Arnold Home Inspection",
+    "description": "Ken Arnold — independent, owner-operated home inspector serving the Pioneer Valley since 2004. MA Lic. #587, ASHI standards, fast digital reports.",
+    "canonical": "https://kahomeinspectionsllc.com/",
+    "ogImage": "https://ken-arnold-home-inspections.mystagingwebsite.com/wp-content/uploads/2026/06/home-hero-pioneer-valley-licensed-inspector.webp",
+    "services": [
+      {
+        "name": "Buyer Home Inspections",
+        "description": "The most thorough evaluation you can get before closing. Ken examines structure, roofing, electrical, plumbing, HVAC, insulation, and more — giving you full negotiating power.",
+        "url": "/services/buyer-home-inspection/",
+        "serviceType": "Buyer Home Inspection"
+      },
+      {
+        "name": "Seller & Pre-Listing Inspections",
+        "description": "Know what buyers will find before they do. A pre-listing inspection helps you fix issues early, price accurately, and avoid last-minute renegotiations that can kill a deal.",
+        "url": "/services/pre-listing-inspection/",
+        "serviceType": "Pre-Listing Home Inspection"
+      },
+      {
+        "name": "Multi-Family & Investment Properties",
+        "description": "Investors need inspections that account for rental wear, unit-by-unit systems, and code compliance. Ken inspects duplexes, triplexes, and larger multi-family buildings throughout the region.",
+        "url": "/services/multi-family-inspection/",
+        "serviceType": "Multi-Family Property Inspection"
+      },
+      {
+        "name": "Radon & Mold Testing",
+        "description": "Invisible hazards require specialized testing. Ken provides professional radon testing and mold inspections — often combined with your standard home inspection for efficiency.",
+        "url": "/testing-and-specialty/radon-testing/",
+        "serviceType": "Radon and Mold Testing"
+      },
+      {
+        "name": "Termite & WDI Inspections",
+        "description": "Wood-destroying insects cause silent, costly damage. A dedicated WDI inspection identifies active infestations and prior damage that standard inspections may not uncover.",
+        "url": "/testing-and-specialty/termite-wdi/",
+        "serviceType": "Termite and WDI Inspection"
+      },
+      {
+        "name": "Thermal Imaging & Specialized Services",
+        "description": "From thermal imaging to well water testing and septic evaluations, Ken offers the specialized services Massachusetts properties demand.",
+        "url": "/testing-and-specialty/thermal-imaging/",
+        "serviceType": "Thermal Imaging Inspection"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Home Inspection Services in Massachusetts",
+      "subheading": "Pioneer Valley's Trusted Inspector",
+      "intro": "Ken Arnold Home Inspection LLC delivers thorough, independent residential property inspections across the Pioneer Valley, Connecticut River Valley, and surrounding communities. With 22 years of licensed experience and comprehensive digital reports, you get the clarity you need to make confident decisions.",
+      "intro_max": 930,
+      "image": "home-hero-pioneer-valley-licensed-inspector.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why It Matters",
+      "heading": "Every Property Tells a Story",
+      "subheading": "A Licensed Home Inspector Reads It",
+      "paragraphs": [
+        {
+          "html": "Whether you're purchasing your first home in Amherst, preparing to list a property in Northampton, or evaluating a multi-family investment in Greenfield, a professional home inspection is your single best tool for understanding what you're working with. It's not about passing or failing — it's about knowing."
+        },
+        {
+          "html": "As an independent home inspector in Massachusetts (License #587), Ken Arnold works for you — not the seller, not the agent, and not the lender. That independence means your inspection report reflects exactly what was found, with annotated photos, plain-language explanations, and actionable recommendations. After 22 years of inspecting homes throughout the Pioneer Valley, there's very little that surprises Ken — and nothing that gets overlooked."
+        }
+      ],
+      "image": "home-overview-buyer-walkthrough-massachusetts.webp"
+    },
+    {
+      "type": "journey_cards",
+      "v": 1,
+      "eyebrow": "Your Inspection Journey",
+      "heading": "From Scheduling",
+      "subheading": "To Your Detailed Report",
+      "intro": "A home inspection with Ken Arnold in Pioneer Valley follows a straightforward, reliable process. Everything is planned, with no surprises or delays. Here is exactly what you can expect.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Schedule & Confirm",
+          "body": "Call or <a href=\"/schedule/\" class=\"text-accent-700 underline\">book online</a>. Ken personally handles every appointment — no dispatchers, no subcontractors. You'll get a confirmed date, a clear price, and a direct phone number for any questions before inspection day."
+        },
+        {
+          "number": "02",
+          "title": "On-Site Inspection Day",
+          "body": "Ken inspects the property systematically — roof to foundation, structure to systems. You're welcome to walk along and ask questions. A typical residential property inspection takes 2–3 hours depending on size and condition."
+        },
+        {
+          "number": "03",
+          "title": "Detailed Findings Review",
+          "body": "After the walkthrough, Ken reviews key findings with you on site — major concerns, maintenance items, and safety issues. You leave the inspection knowing the property's true condition before the written report even arrives."
+        },
+        {
+          "number": "04",
+          "title": "Detailed Digital Report",
+          "body": "Your comprehensive inspection report — complete with annotated photos, clear descriptions, and actionable recommendations — is delivered digitally and organized by safety priority, so you know exactly what you're working with."
+        }
+      ]
+    },
+    {
+      "type": "dark_card_grid",
+      "v": 1,
+      "eyebrow": "Comprehensive Home Inspection Services",
+      "heading": "Full-Scope Inspection Services",
+      "subheading": "for Every Situation",
+      "intro": "Every property and every client has different needs. Ken Arnold Home Inspection LLC offers a full range of residential and specialized inspection services across Massachusetts — all performed by one experienced, licensed inspector who knows the region's housing stock inside out.",
+      "cards": [
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"><path d=\"M543.8 287.6c17 0 32-14 32-32.1c1-9-3-17-11-24L512 185V64c0-17.7-14.3-32-32-32H448c-17.7 0-32 14.3-32 32v36.7L309.5 7c-6-5-14-7-21-7s-15 1-22 8L10 231.5c-7 7-10 15-10 24c0 18 14 32.1 32 32.1h32v69.7c-.1 .9-.1 1.8-.1 2.8V472c0 22.1 17.9 40 40 40h16c1.2 0 2.4-.1 3.6-.2c1.5 .1 3 .2 4.5 .2H160h24c22.1 0 40-17.9 40-40V448 384c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v64 24c0 22.1 17.9 40 40 40h24 32.5c1.4 0 2.8 0 4.2-.1c1.1 .1 2.2 .1 3.3 .1h16c22.1 0 40-17.9 40-40V455.8c.3-2.6 .5-5.3 .5-8.1l-.7-160.2h32z\"/></svg>",
+          "title": "Buyer Home Inspections",
+          "body": "The most thorough evaluation you can get before closing. Ken examines structure, roofing, electrical, plumbing, HVAC, insulation, and more — giving you full negotiating power.",
+          "link_label": "Learn More",
+          "link_href": "/services/buyer-home-inspection/",
+          "link_aria": "Learn more about Buyer Home Inspections"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 448 512\" fill=\"#f9ab3d\"><path d=\"M0 80V229.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0L418.7 317.3c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7H48C21.5 32 0 53.5 0 80zm112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64z\"/></svg>",
+          "title": "Seller & Pre-Listing Inspections",
+          "body": "Know what buyers will find before they do. A pre-listing inspection helps you fix issues early, price accurately, and avoid last-minute renegotiations that can kill a deal.",
+          "link_label": "Learn More",
+          "link_href": "/services/pre-listing-inspection/",
+          "link_aria": "Learn more about Seller & Pre-Listing Inspections"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 384 512\" fill=\"#f9ab3d\"><path d=\"M64 48c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16h80V400c0-26.5 21.5-48 48-48s48 21.5 48 48v64h80c8.8 0 16-7.2 16-16V64c0-8.8-7.2-16-16-16H64zM0 64C0 28.7 28.7 0 64 0H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm88 40c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V104zM232 88h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V104c0-8.8 7.2-16 16-16zM88 232c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V232zm144-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V232c0-8.8 7.2-16 16-16z\"/></svg>",
+          "title": "Multi-Family & Investment Properties",
+          "body": "Investors need inspections that account for rental wear, unit-by-unit systems, and code compliance. Ken inspects duplexes, triplexes, and larger multi-family buildings throughout the region.",
+          "link_label": "Learn More",
+          "link_href": "/services/multi-family-inspection/",
+          "link_aria": "Learn more about Multi-Family & Investment Properties"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"><path d=\"M173.2 0c-1.8 0-3.5 .7-4.8 2C138.5 32.3 120 74 120 120c0 26.2 6 50.9 16.6 73c-22 2.4-43.8 9.1-64.2 20.5C37.9 232.8 13.3 262.4 .4 296c-.7 1.7-.5 3.7 .5 5.2c2.2 3.7 7.4 4.3 10.6 1.3C64.2 254.3 158 245.1 205 324s-8.1 153.1-77.6 173.2c-4.2 1.2-6.3 5.9-4.1 9.6c1 1.6 2.6 2.7 4.5 3c36.5 5.9 75.2 .1 109.7-19.2c20.4-11.4 37.4-26.5 50.5-43.8c13.1 17.3 30.1 32.4 50.5 43.8c34.5 19.3 73.3 25.2 109.7 19.2c1.9-.3 3.5-1.4 4.5-3c2.2-3.7 .1-8.4-4.1-9.6C379.1 477.1 324 403 371 324s140.7-69.8 193.5-21.4c3.2 2.9 8.4 2.3 10.6-1.3c1-1.6 1.1-3.5 .5-5.2c-12.9-33.6-37.5-63.2-72.1-82.5c-20.4-11.4-42.2-18.1-64.2-20.5C450 170.9 456 146.2 456 120c0-46-18.5-87.7-48.4-118c-1.3-1.3-3-2-4.8-2c-5 0-8.4 5.2-6.7 9.9C421.7 80.5 385.6 176 288 176S154.3 80.5 179.9 9.9c1.7-4.7-1.6-9.9-6.7-9.9zM240 272a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zM181.7 417.6c6.3-11.8 9.8-25.1 8.6-39.8c-19.5-18-34-41.4-41.2-67.8c-12.5-8.1-26.2-11.8-40-12.4c-9-.4-18.1 .6-27.1 2.7c7.8 57.1 38.7 106.8 82.9 139.4c6.8-6.7 12.6-14.1 16.8-22.1zM288 64c-28.8 0-56.3 5.9-81.2 16.5c2 8.3 5 16.2 9 23.5c6.8 12.4 16.7 23.1 30.1 30.3c13.3-4.1 27.5-6.3 42.2-6.3s28.8 2.2 42.2 6.3c13.4-7.2 23.3-17.9 30.1-30.3c4-7.3 7-15.2 9-23.5C344.3 69.9 316.8 64 288 64zM426.9 310c-7.2 26.4-21.7 49.7-41.2 67.8c-1.2 14.7 2.2 28.1 8.6 39.8c4.3 8 10 15.4 16.8 22.1c44.3-32.6 75.2-82.3 82.9-139.4c-9-2.2-18.1-3.1-27.1-2.7c-13.8 .6-27.5 4.4-40 12.4z\"/></svg>",
+          "title": "Radon & Mold Testing",
+          "body": "Invisible hazards require specialized testing. Ken provides professional <a href=\"/testing-and-specialty/radon-testing/\" class=\"text-accent-600 underline font-medium\">radon testing</a> and <a href=\"/testing-and-specialty/mold-inspection/\" class=\"text-accent-600 underline font-medium\">mold inspections</a> — often combined with your standard home inspection for efficiency."
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"><path d=\"M256 0c53 0 96 43 96 96v3.6c0 15.7-12.7 28.4-28.4 28.4H188.4c-15.7 0-28.4-12.7-28.4-28.4V96c0-53 43-96 96-96zM41.4 105.4c12.5-12.5 32.8-12.5 45.3 0l64 64c.7 .7 1.3 1.4 1.9 2.1c14.2-7.3 30.4-11.4 47.5-11.4H312c17.1 0 33.2 4.1 47.5 11.4c.6-.7 1.2-1.4 1.9-2.1l64-64c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3l-64 64c-.7 .7-1.4 1.3-2.1 1.9c6.2 12 10.1 25.3 11.1 39.5H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H416c0 24.6-5.5 47.8-15.4 68.6c2.2 1.3 4.2 2.9 6 4.8l64 64c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0l-63.1-63.1c-24.5 21.8-55.8 36.2-90.3 39.6V240c0-8.8-7.2-16-16-16s-16 7.2-16 16V479.2c-34.5-3.4-65.8-17.8-90.3-39.6L86.6 502.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l64-64c1.9-1.9 3.9-3.4 6-4.8C101.5 367.8 96 344.6 96 320H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H96.3c1.1-14.1 5-27.5 11.1-39.5c-.7-.6-1.4-1.2-2.1-1.9l-64-64c-12.5-12.5-12.5-32.8 0-45.3z\"/></svg>",
+          "title": "Termite & WDI Inspections",
+          "body": "Wood-destroying insects cause silent, costly damage. A dedicated <a href=\"/testing-and-specialty/termite-wdi/\" class=\"text-accent-600 underline font-medium\">WDI inspection</a> identifies active infestations and prior damage that standard inspections may not uncover."
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 320 512\" fill=\"#f9ab3d\"><path d=\"M160 64c-26.5 0-48 21.5-48 48V276.5c0 17.3-7.1 31.9-15.3 42.5C86.2 332.6 80 349.5 80 368c0 44.2 35.8 80 80 80s80-35.8 80-80c0-18.5-6.2-35.4-16.7-48.9c-8.2-10.6-15.3-25.2-15.3-42.5V112c0-26.5-21.5-48-48-48zM48 112C48 50.2 98.1 0 160 0s112 50.1 112 112V276.5c0 .1 .1 .3 .2 .6c.2 .6 .8 1.6 1.7 2.8c18.9 24.4 30.1 55 30.1 88.1c0 79.5-64.5 144-144 144S16 447.5 16 368c0-33.2 11.2-63.8 30.1-88.1c.9-1.2 1.5-2.2 1.7-2.8c.1-.3 .2-.5 .2-.6V112zM208 368c0 26.5-21.5 48-48 48s-48-21.5-48-48c0-20.9 13.4-38.7 32-45.3V208c0-8.8 7.2-16 16-16s16 7.2 16 16V322.7c18.6 6.6 32 24.4 32 45.3z\"/></svg>",
+          "title": "Thermal Imaging & Specialized Services",
+          "body": "From <a href=\"/testing-and-specialty/thermal-imaging/\" class=\"text-accent-600 underline font-medium\">thermal imaging</a> to <a href=\"/testing-and-specialty/well-water-testing/\" class=\"text-accent-600 underline font-medium\">well water testing</a> and <a href=\"/testing-and-specialty/septic-inspection/\" class=\"text-accent-600 underline font-medium\">septic evaluations</a>, Ken offers the specialized services Massachusetts properties demand."
+        }
+      ]
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "An Independent Home Inspector",
+      "subheading": "Who Works for You",
+      "paragraphs": [
+        {
+          "html": "Large inspection companies rotate employees through your appointment. Ken Arnold personally conducts every inspection — the same licensed professional who answers your call is the one on your roof, in your crawl space, and writing your report. That consistency is rare, and it matters."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Massachusetts License #587 — 22 years active"
+        },
+        {
+          "text": "Fully independent — no franchise, no conflicts of interest"
+        },
+        {
+          "text": "Comprehensive digital inspection report with annotated photos"
+        },
+        {
+          "text": "Clients welcome on-site during the entire inspection"
+        },
+        {
+          "text": "Deep knowledge of New England housing stock"
+        }
+      ],
+      "cta_label": "About Ken Arnold",
+      "cta_href": "/about/",
+      "image": "home-trust-independent-massachusetts-inspector.webp"
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Client Experiences",
+      "heading": "What Homeowners and Agents Say",
+      "intro": "Real feedback from buyers, sellers, and real estate professionals who've trusted Ken with their inspections.",
+      "items": [
+        {
+          "quote": "\"Ken was incredibly thorough and patient with our questions. As first-time buyers, we had no idea what to look for — his report made everything clear and gave us real confidence in our purchase.\"",
+          "name": "Sarah M.",
+          "role": "First-Time Buyer, Amherst"
+        },
+        {
+          "quote": "\"I've worked with Ken on dozens of transactions over the years. His reports are consistently detailed, his communication with my clients is professional, and turnaround is fast. Highly recommend.\"",
+          "name": "David R.",
+          "role": "Real Estate Agent, Northampton"
+        },
+        {
+          "quote": "\"We used Ken for a pre-listing inspection and it saved our sale. He found a foundation issue we didn't know about — we fixed it before listing and avoided a $12,000 renegotiation. Worth every penny.\"",
+          "name": "Mark & Julie T.",
+          "role": "Home Sellers, Greenfield"
+        }
+      ],
+      "cta_label": "Read More Reviews",
+      "cta_href": "/reviews/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About Home Inspections",
+      "items": [
+        {
+          "q": "How long does a typical home inspection in Massachusetts take?",
+          "a": "Most residential property inspections take between 2 and 3 hours, depending on the home's size, age, and condition. Larger homes, older properties, and multi-family buildings may require additional time. Ken never rushes an inspection — thoroughness is the priority."
+        },
+        {
+          "q": "What does the home inspection report include?",
+          "a": "Your digital report covers every major system and component — structure, roof, electrical, plumbing, HVAC, insulation, windows, doors, and more. Each finding includes annotated photos, a clear description, and a recommendation organized by safety priority."
+        },
+        {
+          "q": "Can I attend the inspection in person?",
+          "a": "Absolutely — and Ken encourages it. Walking through the property together lets you see conditions firsthand, ask questions, and understand the home's maintenance needs. It's one of the most valuable parts of the inspection experience."
+        },
+        {
+          "q": "Do you offer radon testing and mold inspections alongside the standard inspection?",
+          "a": "Yes. <a href=\"/testing-and-specialty/radon-testing/\" class=\"text-accent-300 underline\">Radon testing</a>, <a href=\"/testing-and-specialty/mold-inspection/\" class=\"text-accent-300 underline\">mold inspections</a>, and other specialized services can be added to any standard home inspection. Bundling services saves time and ensures nothing falls through the cracks."
+        },
+        {
+          "q": "What areas of Massachusetts do you serve?",
+          "a": "Ken Arnold Home Inspection LLC is based in Deerfield and serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Amherst, Northampton, Greenfield, Hadley, Easthampton, Holyoke, Chicopee, and many more. Visit our <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area pages</a> for full details."
+        },
+        {
+          "q": "How quickly will I receive my inspection report?",
+          "a": "Ken delivers your photo-documented digital report promptly after the inspection — always well inside your due-diligence window. The report is organized by safety priority, with annotated photos and clear recommendations for every finding."
+        },
+        {
+          "q": "Is Ken Arnold an independent inspector, or part of a larger company?",
+          "a": "Ken is fully independent. He's not affiliated with any real estate agency, repair company, or franchise. That independence means your report has zero conflicts of interest — the findings reflect only what was observed, without outside pressure. The <a href=\"https://www.mass.gov/home-inspection-licensing\" target=\"_blank\" rel=\"noopener\" class=\"text-accent-300 underline\">Massachusetts Board of Registration of Home Inspectors</a> oversees all licensed inspectors in the state."
+        },
+        {
+          "q": "What does a home inspection cost in Massachusetts?",
+          "a": "Pricing depends on the property's size, age, and the services requested. Ken provides clear, upfront pricing with no hidden fees. Visit the <a href=\"/pricing/\" class=\"text-accent-300 underline\">pricing page</a> for current rates, or <a href=\"/schedule/\" class=\"text-accent-300 underline\">schedule online</a> to book your inspection."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Ready to Schedule",
+      "subheading": "Your Massachusetts Home Inspection?",
+      "body": "Whether you're buying, selling, or protecting your investment, Ken Arnold delivers the thorough, independent home inspection services Massachusetts homeowners trust. Call today or schedule online — comprehensive digital reports and no conflicts of interest.",
+      "image": "home-cta-pioneer-valley-colonial-autumn.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County & the Pioneer Valley"
+    }
+  ]
+}

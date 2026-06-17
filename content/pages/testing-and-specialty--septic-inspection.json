@@ -1,0 +1,166 @@
+{
+  "path": "/testing-and-specialty/septic-inspection/",
+  "title": "Septic Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Septic Inspection MA | Ken Arnold Home Inspection",
+    "description": "Pre-purchase septic system inspection in the Pioneer Valley. Title 5 referral coordination, dye testing, and capacity evaluation. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/septic-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty",
+          "url": "/testing-and-specialty/"
+        },
+        {
+          "label": "Septic System Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Septic System Inspection in Massachusetts",
+      "subheading": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+      "image": "septic-inspection-massachusetts.webp",
+      "badges": [
+        {
+          "text": "Visual report delivered promptly; Title 5 reports per state inspector schedule"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Schedule This Test",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_article",
+      "v": 1,
+      "col_ratio": "60fr_35fr",
+      "body": "<p>Most rural properties in the Pioneer Valley — and many on the outskirts of Northampton, Westfield, Easthampton, and the surrounding towns — are on private septic systems rather than municipal sewer. A failed system is one of the most expensive surprises a buyer can inherit; a pre-purchase evaluation is one of the cheapest forms of due diligence.</p> <p>The septic evaluation is a visual and operational check designed to surface obvious problems before you commit to the formal Massachusetts Title 5 inspection — and to flag the issues that the Title 5 inspector should be paying particular attention to.</p> <h2 id=\"what-the-evaluation-covers\">What the Evaluation Covers</h2> <ul> <li>Visible tank covers, manhole risers, and access points</li> <li>Distribution box if exposed</li> <li>Leach field area: vegetation patterns, ponding, depressions, frost lines, odor</li> <li>Soil conditions over the field</li> <li>Distance from wellhead, surface water, foundations, property lines</li> <li>Flow test using interior fixtures</li> <li>Visible records of pump-out history and service</li> <li>Age and type of system (conventional, presby, mound, innovative/alternative)</li> </ul> <p>The evaluation is documented with photographs and delivered promptly after the inspection.</p> <h2 id=\"title-5-coordination\">Title 5 Coordination</h2> <p>Massachusetts requires a formal <strong>Title 5 inspection</strong> at property transfer for almost all systems. The Title 5 must be performed by a state-certified inspector — not by Ken — and involves pumping the tank, opening the distribution box, conducting a more extensive flow test, and assessing soil and groundwater conditions.</p> <p>The Title 5 inspection can be coordinated alongside the home inspection visit so the property is evaluated in a single coordinated effort. Buyers benefit from this in two ways: only one site visit to schedule and attend, and the Title 5 inspector’s findings can be cross-referenced against the home inspection in real time.</p> <h2 id=\"what-we-see-in-the-pioneer-valley\">What We See in the Pioneer Valley</h2> <p>Recurring patterns:</p> <ul> <li><strong>Original 1950s–70s systems</strong> at or beyond design life. Most need replacement at transfer; budget accordingly.</li> <li><strong>Hadley and Sunderland river-bottomland properties</strong> — high water table issues, saturated leach fields in spring.</li> <li><strong>Hill town systems</strong> with limited soil depth and steep slopes — mound or alternative systems are common.</li> <li><strong>Rural conversions</strong> — systems sized for a smaller original house now serving expanded floor plans (a common Title 5 failure trigger).</li> <li><strong>Easements and setbacks</strong> — leach fields too close to wells, surface water, or property lines under modern Title 5 standards.</li> </ul> <h2 id=\"schedule\">Schedule</h2> <p>Most septic evaluations are booked alongside a <a href=\"/services/buyer-home-inspection/\">buyer home inspection</a> and <a href=\"/testing-and-specialty/well-water-testing/\">well water testing</a> — these three services together cover the most expensive systems on a rural Pioneer Valley property. <a href=\"/schedule/\">Schedule online</a>.</p>",
+      "aside": "<div class=\"rounded-lg border border-brand-200 bg-brand-50 p-6\"> <h2 class=\"!mt-0 text-lg font-bold text-brand-900\">At a Glance</h2> <ul class=\"mt-4 space-y-3\"> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Results</span> <span class=\"text-sm font-bold text-brand-900 text-right\">Visual report delivered promptly; Title 5 reports per state inspector schedule</span> </li> <li class=\"flex justify-between items-center gap-4 border-b border-brand-200 pb-3\"> <span class=\"text-sm text-brand-600 font-medium\">Inspector</span> <span class=\"text-sm font-bold text-brand-900\">Licensed Home Inspector</span> </li> <li class=\"flex justify-between items-center gap-4\"> <span class=\"text-sm text-brand-600 font-medium\">License</span> <span class=\"text-sm font-bold text-brand-900\">MA #587</span> </li> </ul> <div class=\"mt-6 flex flex-col gap-3\"> <a href=\"/schedule/\" class=\"btn-primary w-full text-center text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Schedule This Test</a> <a href=\"tel:+14135228004\" class=\"w-full text-center rounded-md border border-brand-300 px-4 py-2.5 text-xs sm:text-sm font-semibold uppercase tracking-wide text-brand-700 hover:border-accent-400 hover:text-accent-600 transition no-underline\">Call (413) 522-8004</a> </div> </div> <!-- Bundle nudge --> <div class=\"mt-4 rounded-lg border border-accent-200 bg-accent-50 p-5\"> <p class=\"text-sm font-semibold text-accent-700\">Bundle &amp; Save a Trip</p> <p class=\"text-xs text-accent-600 mt-1\">Add this test to a home inspection and coordinate everything in one visit. Call to confirm availability and bundle pricing.</p> </div>"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Other Testing Services",
+      "heading": "More Specialty Tests",
+      "subheading": "All Bundleable into One Visit",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "note": "Bundle with home inspection — package pricing",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Pair With a Core Inspection",
+      "heading": "Bundle This Test into",
+      "subheading": "a Complete Inspection",
+      "intro": "Specialty testing is most valuable when paired with a full visual inspection. Choose the right inspection type, then add this test to the same appointment.",
+      "bg": "white",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive well water lab analysis for rural Pioneer Valley properties.",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Test",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "What's the difference between this septic inspection and a Title 5 inspection?",
+          "a": "A Title 5 inspection is a state-regulated formal inspection required by Massachusetts when a property with a private septic system is sold. It must be performed by a state-certified Title 5 inspector, involves uncovering the tank, pumping it, and conducting a flow test. This septic evaluation is a visual and operational check that complements (not replaces) the Title 5 — useful for buyers who want a quick read before scheduling the formal inspection, or for properties where Title 5 isn't being triggered."
+        },
+        {
+          "q": "Is Title 5 always required when buying?",
+          "a": "Almost always for property transfers — but timing and exemptions exist. The Title 5 inspection must be completed within two years of the sale (or longer with pump-out documentation). We coordinate with state-certified Title 5 inspectors and can recommend whom to use; we don't perform Title 5 ourselves and we don't take referral fees."
+        },
+        {
+          "q": "What does the evaluation cover?",
+          "a": "Visible system components — tank covers/manholes, distribution box if exposed, leach field area, soil conditions over the field, signs of failure (ponding, lush vegetation, sewage smell), flush test from interior fixtures, and review of any available system records. We also evaluate the wellhead's distance from the leach field for code compliance."
+        },
+        {
+          "q": "Should I add septic to my home inspection?",
+          "a": "If the property has a septic system, yes — it's one of the more expensive systems on the property to repair or replace ($25,000–$45,000+ for a full Pioneer Valley system replacement). A pre-purchase visual evaluation is cheap insurance even before the formal Title 5."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Septic System Inspection",
+      "subheading": "Bundle With Any Home Inspection",
+      "body": "Septic system inspection is available across the Pioneer Valley — standalone or bundled into the same visit as a home inspection. MA License #587.",
+      "image": "specialty-septic-cta-rural-massachusetts-property.webp",
+      "cta_label": "Schedule This Test",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

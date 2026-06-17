@@ -1,0 +1,34 @@
+{
+  "path": "/terms/",
+  "title": "Terms & Conditions — Ken Arnold Home Inspection",
+  "status": "publish",
+  "seo": {
+    "title": "Terms & Conditions — Ken Arnold Home Inspection",
+    "description": "Terms governing use of the Ken Arnold Home Inspection website and the inspection services we provide. Last updated April 2026.",
+    "canonical": "https://kahomeinspectionsllc.com/terms/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Terms & Conditions"
+        }
+      ]
+    },
+    {
+      "type": "legal_doc",
+      "v": 1,
+      "heading": "Terms & Conditions",
+      "meta": "Last updated: April 27, 2026",
+      "body": "<p>\nThese Terms &amp; Conditions (\"Terms\") govern your use of the website operated by\n        Ken Arnold Home Inspection LLC at kahomeinspectionsllc.com and the materials\n        published on it. The terms of any actual home inspection service are set by a\n        separate written Pre-Inspection Agreement signed before the inspection begins.\n</p> <h2>Use of This Website</h2> <p>\nYou may use this website for lawful, non-commercial purposes. You may not copy,\n        reproduce, scrape, or redistribute substantial portions of the content without prior\n        written permission. All text, photographs, sample reports, and graphics are owned by\n        Ken Arnold Home Inspection LLC or used with permission.\n</p> <h2>Information Is Not Advice</h2> <p>\nArticles, FAQs, sample reports, and other educational content on this site are\n        provided for general information only. They are not professional advice for any\n        specific property and do not establish an inspector–client relationship. Conditions\n        in your home or in a property you are buying may differ from anything described here.\n        Schedule a licensed inspection for any decision involving an actual property.\n</p> <h2>Inspection Services Are Governed by a Separate Agreement</h2> <p>\nEvery inspection performed by Ken Arnold Home Inspection LLC is governed by a written\n        Pre-Inspection Agreement signed by the client before work begins. That agreement —\n        not this website — defines the scope of the inspection, the standards of practice\n        applied (ASHI), exclusions, limits of liability, and dispute-resolution terms. If you\n        have questions about the agreement, ask before you sign.\n</p> <h2>Massachusetts License</h2> <p>\nKen Arnold is a Massachusetts-licensed home inspector (License #587)\n        regulated by the Massachusetts Division of Professional Licensure. All inspections follow the Massachusetts\n        Board of Registration of Home Inspectors regulations and the ASHI Standards of\n        Practice.\n</p> <h2>No Warranty</h2> <p>\nThis website is provided \"as is\" without warranties of any kind, either express or\n        implied. We do not warrant that the site will be uninterrupted, error-free, or free\n        from viruses or other harmful components, and we do not warrant the accuracy or\n        completeness of any third-party content linked from the site.\n</p> <h2>Limitation of Liability</h2> <p>\nTo the fullest extent permitted by law, Ken Arnold Home Inspection LLC is not liable\n        for indirect, incidental, special, consequential, or punitive damages arising out of\n        your use of this website. Liability for any inspection service is governed by the\n        Pre-Inspection Agreement signed for that service.\n</p> <h2>Third-Party Links</h2> <p>\nThe site may link to third-party websites — for example, ASHI, the Massachusetts\n        Division of Professional Licensure, or service providers. We do not control those\n        sites and are not responsible for their content, terms, or privacy practices.\n</p> <h2>Governing Law</h2> <p>\nThese Terms are governed by the laws of the Commonwealth of Massachusetts, without\n        regard to conflict-of-laws principles. Any dispute arising out of your use of this\n        website will be resolved in the state or federal courts located in Hampshire or\n        Franklin County, Massachusetts.\n</p> <h2>Changes</h2> <p>\nWe may update these Terms at any time. The \"Last updated\" date at the top reflects\n        the most recent revision. Continued use of the site after changes are posted\n        constitutes acceptance of the updated Terms.\n</p> <h2>Contact</h2> <p>\nKen Arnold Home Inspection LLC<br> 35 Keets Rd, Deerfield, MA 01342<br>\nPhone: <a href=\"tel:+14135228004\">(413) 522-8004</a><br>\nEmail: <a href=\"mailto:ken@kahomeinspectionsllc.com\">ken@kahomeinspectionsllc.com</a> </p>"
+    }
+  ]
+}

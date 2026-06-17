@@ -1,0 +1,23 @@
+{
+  "path": "/blog/",
+  "title": "Home Inspection Blog MA",
+  "status": "publish",
+  "seo": {
+    "title": "Home Inspection Blog MA | Ken Arnold Home Inspection",
+    "description": "Articles on home inspection, radon, well water, septic, and the Pioneer Valley housing market — written by a 22-year Massachusetts inspector.",
+    "canonical": "https://kahomeinspectionsllc.com/blog/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "post_feed",
+      "v": 1,
+      "eyebrow": "Resources",
+      "heading": "Resources & Articles",
+      "subheading": "Field Notes from the Pioneer Valley",
+      "intro": "Field-tested guidance on home inspection, specialty testing, and the Pioneer Valley housing market — written by Ken Arnold, MA Lic. #587, with 22 years of inspecting homes across Western Massachusetts.",
+      "image": "blog-index-hero.webp",
+      "limit": 24
+    }
+  ]
+}

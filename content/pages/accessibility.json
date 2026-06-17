@@ -1,0 +1,34 @@
+{
+  "path": "/accessibility/",
+  "title": "Accessibility Statement — Ken Arnold Home Inspection",
+  "status": "publish",
+  "seo": {
+    "title": "Accessibility Statement — Ken Arnold Home Inspection",
+    "description": "Our commitment to making the Ken Arnold Home Inspection website accessible to all visitors. Last updated April 2026.",
+    "canonical": "https://kahomeinspectionsllc.com/accessibility/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Accessibility Statement"
+        }
+      ]
+    },
+    {
+      "type": "legal_doc",
+      "v": 1,
+      "heading": "Accessibility Statement",
+      "meta": "Last updated: April 27, 2026",
+      "body": "<h2>Our Commitment</h2> <p>\nKen Arnold Home Inspection LLC is committed to making this website accessible to\n        people of all abilities. We believe an inspector who serves the public should be\n        reachable by every member of the public — including people who use screen readers,\n        keyboard-only navigation, voice input, screen magnification, or other assistive\n        technologies.\n</p> <h2>Standards We Follow</h2> <p>\nWe aim to conform with the\n<a href=\"https://www.w3.org/TR/WCAG21/\" rel=\"noopener\">Web Content Accessibility Guidelines (WCAG) 2.1, Level AA</a>,\n        published by the World Wide Web Consortium. These guidelines explain how to make web\n        content more accessible for people with disabilities and more usable for everyone.\n</p> <h2>What We've Done</h2> <ul> <li>Semantic HTML structure with proper headings, landmarks, and lists.</li> <li>Color contrast that meets or exceeds WCAG AA ratios for body text and UI controls.</li> <li>Descriptive alternative text on meaningful images; decorative images marked appropriately.</li> <li>Keyboard navigation for all interactive elements, including the navigation menu.</li> <li>Focus indicators that remain visible while tabbing through the page.</li> <li>Form fields with associated labels and clear error messaging.</li> <li>Responsive layouts that work at 200% browser zoom and on mobile screen sizes.</li> <li>Plain-language writing in service descriptions, FAQs, and reports.</li> </ul> <h2>Known Issues</h2> <p>\nAccessibility is ongoing work. We test continuously and address issues as they are\n        identified. Embedded third-party content — such as scheduling widgets, video players,\n        or PDFs of historical sample reports — may not always fully conform to WCAG 2.1 AA.\n        If you encounter a barrier, please tell us so we can fix it.\n</p> <h2>Help Us Improve</h2> <p>\nIf you have difficulty using any part of this website, or if you would like\n        information from this site provided in a different format, please contact us. We\n        will respond promptly and work with you to provide the information you need.\n</p> <h2>Contact</h2> <p>\nKen Arnold Home Inspection LLC<br> 35 Keets Rd, Deerfield, MA 01342<br>\nPhone: <a href=\"tel:+14135228004\">(413) 522-8004</a><br>\nEmail: <a href=\"mailto:ken@kahomeinspectionsllc.com\">ken@kahomeinspectionsllc.com</a> </p> <p class=\"text-sm text-brand-500 mt-8\">\nWe are not affiliated with the WCAG working group or W3C. This statement reflects\n        our own good-faith effort to meet their published guidelines.\n</p>"
+    }
+  ]
+}

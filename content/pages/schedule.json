@@ -1,0 +1,82 @@
+{
+  "path": "/schedule/",
+  "title": "Schedule Your Inspection",
+  "status": "publish",
+  "seo": {
+    "title": "Schedule Your Inspection | Ken Arnold Home Inspection",
+    "description": "Schedule your home inspection online. Pioneer Valley MA. Ken Arnold — MA Lic. #587, 22 years. Buyer, pre-listing, new construction, and specialty testing.",
+    "canonical": "https://kahomeinspectionsllc.com/schedule/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide_index",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Schedule"
+        }
+      ]
+    },
+    {
+      "type": "media_hero",
+      "v": 1,
+      "image": "home-hero-pioneer-valley-licensed-inspector.webp",
+      "image_class": "absolute inset-0 w-full h-full object-cover",
+      "overlay_class": "overlay-hero",
+      "content_class": "relative container-edge container-edge--wide py-12 md:py-[72px] lg:py-[80px]",
+      "body": "<div class=\"flex flex-col gap-5 items-start max-w-2xl\"> <span class=\"inline-block uppercase rounded-full pill-eyebrow\"> MA License #587 · Est. 2004 </span> <h1 class=\"!mt-0 !mb-0 font-serif font-bold leading-[1.2] text-[22px] sm:text-[32px] lg:text-[38px]\"> <span class=\"block text-white\">Schedule Your Inspection</span> <span class=\"block mt-1 h1-sub\">Book Online or Request a Callback</span> </h1> <p class=\"text-on-dark\"> Use the calendar below to book your inspection or request a call from Ken. Every inspection is personally conducted by Ken Arnold — no dispatchers, no subcontractors. Prefer to call? Reach Ken directly at <a href=\"tel:+14135228004\" class=\"text-accent-500\">(413) 522-8004</a>. </p> </div>"
+    },
+    {
+      "type": "rich_section",
+      "v": 1,
+      "section_class": "bg-brand-50 py-12 md:py-16",
+      "body": "<div class=\"container-edge container-edge--wide\"> <div class=\"text-center mx-auto\" style=\"max-width:40rem;margin-bottom:2.5rem;\"> <span class=\"inline-block uppercase rounded-full pill-eyebrow\" style=\"margin-bottom:1rem;\">Book Online</span> <h2 class=\"!mt-0 font-serif font-bold\" style=\"color:#252a46;\">Pick a Date &amp; Time</h2> <p style=\"margin-top:0.75rem;color:#363e63;line-height:1.7;\">Choose any open slot below — inspections run Monday through Friday at 9:00&nbsp;AM and 1:00&nbsp;PM, and you'll get instant confirmation by email.</p> <div style=\"margin-top:1.25rem;font-size:0.78rem;font-weight:600;letter-spacing:0.05em;text-transform:uppercase;color:#c47f0a;\">MA License #587 · 22 Years Experience · Performed Personally by Ken</div> </div> <div class=\"booking-calendar mx-auto\" style=\"max-width:56rem;background:#ffffff;border:1px solid #e6e8f1;border-radius:1rem;box-shadow:0 18px 40px -20px rgba(37,42,70,0.35);padding:0.5rem;\"> <iframe src=\"https://link.aqm360.com/widget/bookings/scheduleanappointmentcallwithus-230ad544-8f6f-4125-9d14-f1b202f0becc-7fdb3832-39a9-4c80-a146-60233fb444a1-aaa07f1f-456b-4ccc-81e4-adb0ad437aa3-0b2d0529-cb48-461f-b8b5-712b398e91eb-fcbf65a8-70d2-4009-b786-ac4166822f0b-0f63997e-5577-46ae-9f21-00d7deb09698-e6c21248-3365-4355-9454-17fdbd70ec1e-8b95828a-650c-41a7-9b5b-453855dce734-8dda7b22-1142-4021-8dfc-111b3ef84155-f97c6afe-ae0a-48f4-a6cb-868f7ec9020c-5c4b1d30-8e32-4a3d-9142-617df2faa33d-15d6fb8b-f278-4503-98e4-f435ca7bb65e-1cb0ec42-d374-4a1a-b923-59c59dcc4791-c04f60e7-15a7-4cfc-a977-30d02f1c83fe-feaf4c84-b36d-497f-b405-f33cd6e86a47-723c0987-f3dd-44bb-9a3c-04fe8c5fbd6e\" class=\"embed-iframe\" style=\"min-height:600px;\" loading=\"lazy\" title=\"Schedule an Inspection\"></iframe> </div> </div>"
+    },
+    {
+      "type": "raw_html",
+      "v": 1,
+      "html": "<script src=\"https://link.aqm360.com/js/form_embed.js\"></script>"
+    },
+    {
+      "type": "feature_cards",
+      "v": 1,
+      "eyebrow": "Other Ways to Reach Ken",
+      "heading": "Prefer to Call or Email?",
+      "subheading": "Reach Ken Directly",
+      "section_class": "bg-white py-12 md:py-16",
+      "header_mb": "mb-10",
+      "eyebrow_class": "inline-block uppercase rounded-full mb-6 pill-eyebrow",
+      "h2_class": "!mt-0",
+      "grid_class": "grid sm:grid-cols-3 gap-6 max-w-3xl mx-auto",
+      "cards": [
+        {
+          "wrapper_class": "bg-brand-50 rounded-lg p-6 text-center",
+          "html": "<div class=\"w-12 h-12 rounded-full bg-accent-100 flex items-center justify-center mx-auto mb-4\"> <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#f9ab3d\" stroke-width=\"2\"><path d=\"M22 16.92v3a2 2 0 01-2.18 2 19.86 19.86 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.86 19.86 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z\"></path></svg> </div> <p class=\"text-xs uppercase tracking-wider text-accent-700 font-semibold\">Phone</p> <a href=\"tel:+14135228004\" class=\"block mt-2 text-xl font-serif font-bold text-brand-900 no-underline hover:text-accent-600\">(413) 522-8004</a> <p class=\"text-xs text-brand-500 mt-1\">Mon–Fri 7am–6pm, Sat 8am–4pm</p>"
+        },
+        {
+          "wrapper_class": "bg-brand-50 rounded-lg p-6 text-center",
+          "html": "<div class=\"w-12 h-12 rounded-full bg-accent-100 flex items-center justify-center mx-auto mb-4\"> <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#f9ab3d\" stroke-width=\"2\"><path d=\"M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z\"></path><polyline points=\"22,6 12,13 2,6\"></polyline></svg> </div> <p class=\"text-xs uppercase tracking-wider text-accent-700 font-semibold\">Email</p> <a href=\"mailto:ken@kahomeinspectionsllc.com\" class=\"block mt-2 text-sm font-semibold text-brand-900 no-underline hover:text-accent-600 break-words\">ken@kahomeinspectionsllc.com</a> <p class=\"text-xs text-brand-500 mt-1\">Response within one business day</p>"
+        },
+        {
+          "wrapper_class": "bg-brand-50 rounded-lg p-6 text-center",
+          "html": "<div class=\"w-12 h-12 rounded-full bg-accent-100 flex items-center justify-center mx-auto mb-4\"> <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#f9ab3d\" stroke-width=\"2\"><path d=\"M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z\"></path><circle cx=\"12\" cy=\"10\" r=\"3\"></circle></svg> </div> <p class=\"text-xs uppercase tracking-wider text-accent-700 font-semibold\">Office</p> <p class=\"mt-2 text-sm text-brand-700\">35 Keets Rd<br>Deerfield, MA 01342</p> <p class=\"text-xs text-brand-500 mt-1\">Serving the Pioneer Valley</p>"
+        }
+      ]
+    },
+    {
+      "type": "media_hero",
+      "v": 1,
+      "image": "home-cta-pioneer-valley-colonial-autumn.webp",
+      "image_class": "absolute inset-0 w-full h-full object-cover",
+      "overlay_class": "overlay-cta",
+      "content_class": "relative container-edge container-edge--wide py-16 md:py-20 text-center",
+      "body": "<h2 class=\"!mt-0 text-white max-w-3xl mx-auto\"> Questions Before You Book? <span class=\"block text-accent-400 mt-1\">Call Ken Directly</span> </h2> <p class=\"text-brand-100 mt-6 max-w-2xl mx-auto\"> Ken personally handles every scheduling call. Describe your property and what you need — he'll confirm availability, quote a price, and get you on the calendar. </p> <div class=\"flex flex-col sm:flex-row sm:flex-wrap justify-center gap-3 mt-8\"> <a href=\"tel:+14135228004\" class=\"cta-call-btn w-full sm:w-auto text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Call (413) 522-8004</a> <a href=\"/contact/\" class=\"btn-primary w-full sm:w-auto text-xs sm:text-sm uppercase tracking-wide sm:tracking-wider\">Send a Message</a> </div> <p class=\"text-xs text-brand-200 mt-8\"> Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley </p>"
+    }
+  ]
+}

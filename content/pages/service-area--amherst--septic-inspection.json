@@ -1,0 +1,164 @@
+{
+  "path": "/service-area/amherst/septic-inspection/",
+  "title": "Septic Inspection Amherst MA",
+  "status": "publish",
+  "seo": {
+    "title": "Septic Inspection Amherst MA | Ken Arnold Home Inspection",
+    "description": "Septic System Inspection in Amherst, Hampshire County, MA by Ken Arnold (MA Lic. #587). Pre-purchase septic system evaluation for rural Pioneer Valley prop",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/septic-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Amherst, MA",
+          "url": "/service-area/amherst/"
+        },
+        {
+          "label": "Septic System Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Amherst, Hampshire County",
+      "heading": "Septic System Inspection in Amherst, MA",
+      "meta": "Standalone: $175 (visual evaluation; pump-out & Title 5 separate) · As add-on: $125 with home inspection · Visual report delivered promptly; Title 5 reports per state inspector schedule",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Amherst Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Town sewer covers central Amherst, but North Amherst, Cushman, and the Pelham-side properties run private septic on variable soils. We do Title 5-style inspections — tank, baffles, D-box, field — and on older farmhouse lots we look for cesspools and pre-1978 undersized systems still in service. Failed Title 5s here can cost $25K+ to replace, so pre-purchase clarity matters.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing septic system inspection services across the Pioneer Valley since 2004 — including hundreds of Amherst-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/testing-and-specialty/septic-inspection/\">Septic System Inspection</a>. For broader context on Amherst's housing stock, see the <a href=\"/service-area/amherst/\">Amherst town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's the difference between Ken's septic inspection and a Title 5 inspection?",
+          "a": "A Title 5 inspection is a state-regulated formal inspection required by Massachusetts when a property with a private septic system is sold. It must be performed by a state-certified Title 5 inspector, involves uncovering the tank, pumping it, and conducting a flow test. Ken's septic evaluation is a visual and operational check that complements (not replaces) the Title 5 — useful for buyers who want a quick read before scheduling the formal inspection, or for properties where Title 5 isn't being triggered."
+        },
+        {
+          "q": "Is Title 5 always required when buying?",
+          "a": "Almost always for property transfers — but timing and exemptions exist. The Title 5 inspection must be completed within two years of the sale (or longer with pump-out documentation). Ken can coordinate with state-certified Title 5 inspectors and recommend whom to use; we don't perform Title 5 ourselves and we don't take referral fees."
+        },
+        {
+          "q": "What does Ken's evaluation cover?",
+          "a": "Visible system components — tank covers/manholes, distribution box if exposed, leach field area, soil conditions over the field, signs of failure (ponding, lush vegetation, sewage smell), flush test from interior fixtures, and review of any available system records. We also evaluate the wellhead's distance from the leach field for code compliance."
+        },
+        {
+          "q": "Should I add septic to my home inspection?",
+          "a": "If the property has a septic system, yes — it's one of the more expensive systems on the property to repair or replace ($25,000–$45,000+ for a full Pioneer Valley system replacement). A pre-purchase visual evaluation is cheap insurance even before the formal Title 5."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Amherst",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Amherst",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/amherst/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Amherst",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/amherst/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Amherst",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/amherst/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Amherst",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/amherst/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Amherst",
+      "cards": [
+        {
+          "title": "Radon Testing in Amherst",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/amherst/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Amherst",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/amherst/well-water-testing/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Amherst",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/amherst/termite-wdi/"
+        },
+        {
+          "title": "Mold Inspection in Amherst",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/service-area/amherst/mold-inspection/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

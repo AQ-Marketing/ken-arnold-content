@@ -1,0 +1,34 @@
+{
+  "path": "/privacy/",
+  "title": "Privacy Policy — Ken Arnold Home Inspection",
+  "status": "publish",
+  "seo": {
+    "title": "Privacy Policy — Ken Arnold Home Inspection",
+    "description": "How Ken Arnold Home Inspection LLC collects, uses, and protects information submitted through this website. Last updated April 2026.",
+    "canonical": "https://kahomeinspectionsllc.com/privacy/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Privacy Policy"
+        }
+      ]
+    },
+    {
+      "type": "legal_doc",
+      "v": 1,
+      "heading": "Privacy Policy",
+      "meta": "Last updated: April 27, 2026",
+      "body": "<p>\nKen Arnold Home Inspection LLC (\"we,\" \"us,\" \"our\") operates this website at\n        kahomeinspectionsllc.com. This Privacy Policy explains what information we collect\n        from visitors, how we use it, and the choices you have. Using this site or contacting\n        us through it constitutes acceptance of the terms below.\n</p> <h2>Information We Collect</h2> <p>\nWe collect information in two ways:\n</p> <ul> <li> <strong>Information you provide.</strong> When you submit our contact or scheduling\n          form, request a quote, or email us, we receive your name, phone number, email\n          address, property address, and any other details you choose to share. We use this\n          information solely to respond to your request and, if you become a client, to\n          deliver inspection services.\n</li> <li> <strong>Information collected automatically.</strong> Like most websites, ours logs\n          basic technical information — IP address, browser type, pages visited, referring\n          URL, and timestamps — for security and analytics. We may use cookies or similar\n          technologies for site functionality and to measure traffic.\n</li> </ul> <h2>How We Use Your Information</h2> <ul> <li>To respond to inquiries and schedule inspections.</li> <li>To deliver inspection reports and follow-up communications.</li> <li>To improve site performance and content.</li> <li>To comply with legal obligations and protect our rights.</li> </ul> <h2>How We Share Information</h2> <p>\nWe do not sell or rent your personal information. We share it only with:\n</p> <ul> <li>\nService providers we use to operate our business — for example, scheduling software,\n          report-delivery platforms, and email hosting — under standard confidentiality terms.\n</li> <li>\nAuthorities when required by law, subpoena, or to protect the safety of any person.\n</li> <li>\nWith your written consent — for example, sending a copy of your report directly to\n          your real-estate agent or attorney at your request.\n</li> </ul> <h2>Data Retention</h2> <p>\nInspection reports and related correspondence are retained for the period required by\n        Massachusetts professional licensing rules (currently three years from the inspection\n        date) and may be retained longer to satisfy legal, accounting, or insurance\n        obligations.\n</p> <h2>Cookies and Analytics</h2> <p>\nThis site may use first-party cookies for session and preference management, and\n        privacy-respecting analytics to understand aggregate visitor behavior. You can\n        configure your browser to refuse cookies; doing so may affect some site features.\n</p> <h2>Your Choices</h2> <ul> <li>You can request access to, correction of, or deletion of your personal information at any time.</li> <li>You can unsubscribe from any non-transactional email by replying or using the unsubscribe link.</li> <li>You can decline cookies via your browser settings.</li> </ul> <h2>Children</h2> <p>\nThis site is not directed to children under 13, and we do not knowingly collect\n        information from children. If you believe a child has provided information to us,\n        please contact us so we can remove it.\n</p> <h2>Security</h2> <p>\nWe use commercially reasonable safeguards to protect the information we hold. No\n        method of transmission or storage is perfectly secure, but we work to keep your data\n        protected.\n</p> <h2>Changes to This Policy</h2> <p>\nWe may update this policy from time to time. The \"Last updated\" date at the top\n        reflects the most recent revision. Material changes will be highlighted on this page.\n</p> <h2>Contact</h2> <p>\nQuestions about this policy or your information? Contact:\n</p> <p>\nKen Arnold Home Inspection LLC<br> 35 Keets Rd, Deerfield, MA 01342<br>\nPhone: <a href=\"tel:+14135228004\">(413) 522-8004</a><br>\nEmail: <a href=\"mailto:ken@kahomeinspectionsllc.com\">ken@kahomeinspectionsllc.com</a> </p>"
+    }
+  ]
+}

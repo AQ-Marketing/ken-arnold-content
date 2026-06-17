@@ -1,0 +1,47 @@
+{
+  "path": "/contact/",
+  "title": "Contact Ken Arnold Home Inspection — Pioneer Valley, MA",
+  "status": "publish",
+  "seo": {
+    "title": "Contact Ken Arnold Home Inspection — Pioneer Valley, MA",
+    "description": "Schedule a home inspection in the Pioneer Valley or Western Mass. Phone, email, and online scheduling. MA Lic. #587 — fast digital reports.",
+    "canonical": "https://kahomeinspectionsllc.com/contact/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Contact"
+        }
+      ]
+    },
+    {
+      "type": "media_hero",
+      "v": 1,
+      "image": "home-hero-pioneer-valley-licensed-inspector.webp",
+      "image_class": "absolute inset-0 w-full h-full object-cover",
+      "overlay_style": "background-color: rgba(38,43,71,0.9);",
+      "content_class": "relative container-edge container-edge--wide py-12 md:py-[72px] lg:py-[100px]",
+      "body": "<div class=\"flex flex-col gap-6 items-start\"> <span class=\"pill-eyebrow\">MA License #587 · Est. 2004</span> <h1 class=\"!mt-0 !mb-0 font-serif font-bold leading-[1.2] text-[22px] sm:text-[32px] lg:text-[42px]\"> <span class=\"block text-white\">Contact Ken Arnold Home Inspection</span> <span class=\"block mt-1\" style=\"color:#f9ab3d; font-size: 0.72em; font-weight: 500;\">Schedule Online or Reach Ken Directly</span> </h1> <p class=\"max-w-[860px]\" style=\"color: rgba(255,255,255,0.85); line-height: 1.7em;\">Schedule your Massachusetts home inspection online in under 2 minutes. All home inspections are personally performed by Ken Arnold and are scheduled Monday through Friday at 9:00 AM and 1:00 PM. For any specialty inspection services, please use our contact form to reach out for more information. Prefer to call? Contact Ken directly at <a href=\"tel:+14135228004\" style=\"color:#f9ab3d;\">(413) 522-8004</a>.</p> <div class=\"flex flex-col sm:flex-row gap-3 w-full sm:w-auto\"> <a href=\"/schedule/\" class=\"hero-btn hero-btn--primary\">Schedule Your Inspection</a> <a href=\"tel:+14135228004\" class=\"hero-btn hero-btn--secondary\">Call (413) 522-8004</a> </div> </div>"
+    },
+    {
+      "type": "rich_section",
+      "v": 1,
+      "section_class": "bg-white py-12 md:py-16 lg:py-20",
+      "body": "<div class=\"container-edge container-edge--wide\"> <div class=\"grid lg:grid-cols-3 gap-10\"> <section class=\"lg:col-span-2\"> <iframe src=\"https://link.aqm360.com/widget/form/QUhG7QzlHb7NEJX3rjBd\" style=\"width:100%;min-height:1453px;border:none;border-radius:3px\" id=\"inline-QUhG7QzlHb7NEJX3rjBd\" data-layout=\"{'id':'INLINE'}\" data-trigger-type=\"alwaysShow\" data-trigger-value=\"\" data-activation-type=\"alwaysActivated\" data-activation-value=\"\" data-deactivation-type=\"neverDeactivate\" data-deactivation-value=\"\" data-form-name=\"Contact Us\" data-height=\"1453\" data-layout-iframe-id=\"inline-QUhG7QzlHb7NEJX3rjBd\" data-form-id=\"QUhG7QzlHb7NEJX3rjBd\" title=\"Contact Us\"></iframe> </section> <aside> <div class=\"rounded-2xl bg-brand-700 text-white p-6\"> <h2 class=\"!mt-0 text-white text-xl\">Direct Contact</h2> <p class=\"mt-3 text-brand-50\"> <strong>Phone:</strong><br> <a href=\"tel:+14135228004\" class=\"text-white text-2xl font-serif\">(413) 522-8004</a> </p> <p class=\"mt-4 text-brand-50\"> <strong>Email:</strong><br> <a href=\"mailto:ken@kahomeinspectionsllc.com\" class=\"text-white\">ken@kahomeinspectionsllc.com</a> </p> <address class=\"not-italic mt-4 text-brand-50\"> <strong>Office:</strong><br> 35 Keets Rd<br> Deerfield, MA 01342 </address> <p class=\"mt-4 text-sm text-brand-100\">Hours: Mon–Fri 07:00–18:00 · Sat 08:00–16:00</p> </div> <div class=\"card mt-4\"> <p class=\"text-sm text-brand-700\">Ken Arnold Home Inspection LLC is a one-inspector firm — every inspection is performed personally by Ken. Independent, owner-operated, MA License #587.</p> </div> </aside> </div> </div>"
+    },
+    {
+      "type": "raw_html",
+      "v": 1,
+      "html": "<script src=\"https://link.aqm360.com/js/form_embed.js\"></script>"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "path": "/service-area/holyoke/",
+  "title": "Holyoke Home Inspector MA",
+  "status": "publish",
+  "seo": {
+    "title": "Holyoke Home Inspector MA | Ken Arnold Home Inspection",
+    "description": "Licensed home inspector serving Holyoke, Hampden County, MA. Holyoke is dense, vertical, and built on canals — three- and four-story tenements, brick m",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/holyoke/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Holyoke, MA"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Hampden County · MA License #587",
+      "heading": "Home Inspector in Holyoke, MA",
+      "subheading": "Holyoke is dense, vertical, and built on canals — three- and four-story tenements, brick mill conversions, and Victorian homes in the Highlands all need very different inspection approaches.",
+      "image": "town-holyoke-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule in Holyoke",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Local Knowledge",
+      "heading": "Inspecting in Holyoke",
+      "subheading": "What the Housing Stock Tells Us",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "Holyoke inspections divide cleanly between three property types. Mill-conversion lofts and condos in the canal district require thorough review of common building systems (you're inheriting shared envelopes, roofs, and mechanicals — get the condo docs before the inspection). Triple-deckers and tenements in Flats and South Holyoke have their own playbook: original knob-and-tube wiring, lead-based paint disclosures, fire-egress concerns, and aging cast-iron drain stacks are standard findings. The Highlands and Oakdale neighborhoods skew toward Victorian-era single-families with the issues you'd expect — slate or asphalt roofs near end-of-life, fieldstone foundations, original radiator heat. Holyoke also has one of the highest radon risk profiles in our service area; testing is strongly recommended on all transactions."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Mill-conversion condos"
+        },
+        {
+          "text": "Triple-deckers & tenements"
+        },
+        {
+          "text": "Highlands Victorians"
+        }
+      ],
+      "image": "town-holyoke-overview-canal-mill-conversion-building.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "dark",
+      "eyebrow": "Inspection Services",
+      "heading": "Inspection Services in Holyoke",
+      "subheading": "Full ASHI Scope. Fast Digital Report.",
+      "intro": "Every standard home inspection includes the full ASHI scope — roof, structure, exterior, electrical, plumbing, HVAC, insulation, interior, and built-in appliances — documented with photographs and delivered as a comprehensive digital report.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection in Holyoke"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/services/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection in Holyoke"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection in Holyoke"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/services/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection in Holyoke"
+        },
+        {
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/services/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Home Inspection in Holyoke"
+        },
+        {
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "href": "/services/annual-preventative-inspection/",
+          "aria": "Learn more about Annual & Preventative Home Inspection in Holyoke"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Specialty Testing",
+      "heading": "Specialty Testing in Holyoke",
+      "subheading": "Bundle Into the Same Visit",
+      "intro": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving a second appointment and a separate trip charge.",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing in Holyoke"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/testing-and-specialty/well-water-testing/",
+          "aria": "Learn more about Well Water Testing in Holyoke"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/testing-and-specialty/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection in Holyoke"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection in Holyoke"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/testing-and-specialty/mold-inspection/",
+          "aria": "Learn more about Mold Inspection in Holyoke"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection in Holyoke"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "in Holyoke",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. After 22 years of Holyoke-area work, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That recognition is what separates a useful inspection report from a checklist-driven one. Every inspection is performed personally by Ken (MA License #587) — never subcontracted, never rushed."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Every inspection personally performed by Ken — MA License #587"
+        },
+        {
+          "text": "No subcontractors, no staff inspectors, no franchise"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report delivered promptly"
+        },
+        {
+          "text": "22 years inspecting homes across Hampden County"
+        }
+      ],
+      "image": "town-holyoke-trust-tenement-stair-detail.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Your Holyoke Inspection",
+      "subheading": "Comprehensive Digital Report — Delivered Promptly",
+      "body": "Ken Arnold has been inspecting homes in Holyoke and the surrounding Pioneer Valley for over 22 years. Independent, owner-operated, MA License #587. Call today or schedule online.",
+      "image": "town-holyoke-cta-highlands-victorian-home.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Hampden County &amp; the Pioneer Valley"
+    }
+  ]
+}

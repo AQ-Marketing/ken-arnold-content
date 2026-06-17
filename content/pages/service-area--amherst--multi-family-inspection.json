@@ -1,0 +1,172 @@
+{
+  "path": "/service-area/amherst/multi-family-inspection/",
+  "title": "Multi-Family Amherst MA",
+  "status": "publish",
+  "seo": {
+    "title": "Multi-Family Amherst MA | Ken Arnold Home Inspection",
+    "description": "Multi-Family Home Inspection in Amherst, Hampshire County, MA by Ken Arnold (MA Lic. #587). Triple-deckers, two-families, and four-unit investment properti",
+    "canonical": "https://kahomeinspectionsllc.com/services/multi-family-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Amherst, MA",
+          "url": "/service-area/amherst/"
+        },
+        {
+          "label": "Multi-Family Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Amherst, Hampshire County",
+      "heading": "Multi-Family Home Inspection in Amherst, MA",
+      "meta": "· ~5 hours on-site",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Amherst Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Amherst's triple-deckers and converted houses near UMass and Amherst College are the bread-and-butter multi-family stock, and they're hard. Expect single 100-amp services feeding three units, shared boilers without unit-level controls, stacked porches with questionable ledger attachments, and fire-separation between units that doesn't meet current standards. We document each unit's systems and flag landlord-liability issues clearly.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing multi-family home inspection services across the Pioneer Valley since 2004 — including hundreds of Amherst-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/services/multi-family-inspection/\">Multi-Family Home Inspection</a>. For broader context on Amherst's housing stock, see the <a href=\"/service-area/amherst/\">Amherst town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "How long does a multi-family inspection take?",
+          "a": "Plan for 4–6 hours on-site for a typical Pioneer Valley triple-decker or four-unit. Each unit is inspected as a separate scope, plus the shared building systems. Larger or more deferred-maintenance properties take longer. Ken will give you a realistic time estimate when you book."
+        },
+        {
+          "q": "Do you need access to every unit?",
+          "a": "Yes — every unit must be accessible for a complete inspection. Tenanted units require coordination with the seller and 24–48 hours' notice to tenants under Massachusetts landlord-tenant rules. Book as soon as your offer is accepted to allow time to coordinate access."
+        },
+        {
+          "q": "What gets reported separately?",
+          "a": "Each unit gets its own section in the report — kitchen, bath(s), bedrooms, living areas, fixtures, finishes, in-unit electrical and plumbing, in-unit HVAC if separate. Shared systems (roof, exterior, foundation, common basement, shared mechanicals, fire egress, common stairs) are reported as a separate section. Findings are organized by unit so you can correlate condition with the rent roll."
+        },
+        {
+          "q": "Should I add specialty testing on a multi-family?",
+          "a": "Almost always yes. Termite and WDI inspection is required for many investor loans (FHA, VA). Radon testing in basement-level units is strongly recommended. For older Holyoke and Chicopee triple-deckers, an electrical service evaluation is worth adding — knob-and-tube remnants, undersized service, and Federal Pacific or Zinsco panels are common findings."
+        },
+        {
+          "q": "What are the most common findings on Pioneer Valley multi-families?",
+          "a": "Twenty-two years of multi-family inspections in this region produces a consistent list: original or undersized electrical service (60–100 amp feeding three units), cast-iron drain stacks nearing end of life, aging or failed roofing, fire-egress deficiencies, asbestos in pipe wrap or floor tile, knob-and-tube wiring remnants, and termite or moisture damage in framing."
+        },
+        {
+          "q": "What areas do you serve for multi-family inspections?",
+          "a": "Ken serves the Pioneer Valley and surrounding communities — including Holyoke, Chicopee, Springfield, Northampton, Amherst, Greenfield, Easthampton, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Amherst",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Amherst",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/amherst/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Amherst",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/amherst/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Amherst",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/amherst/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Amherst",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/amherst/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Amherst",
+      "cards": [
+        {
+          "title": "Radon Testing in Amherst",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/amherst/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Amherst",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/amherst/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Amherst",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/amherst/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Amherst",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/amherst/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

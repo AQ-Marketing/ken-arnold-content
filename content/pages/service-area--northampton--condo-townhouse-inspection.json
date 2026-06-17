@@ -1,0 +1,172 @@
+{
+  "path": "/service-area/northampton/condo-townhouse-inspection/",
+  "title": "Condo Inspection Northampton MA",
+  "status": "publish",
+  "seo": {
+    "title": "Condo Inspection Northampton MA | Ken Arnold Home Inspection",
+    "description": "Condo and Townhouse Inspection in Northampton, Hampshire County, MA by Ken Arnold (MA Lic. #587). Targeted inspection of your unit plus the shared-system r",
+    "canonical": "https://kahomeinspectionsllc.com/services/condo-townhouse-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Northampton, MA",
+          "url": "/service-area/northampton/"
+        },
+        {
+          "label": "Condo & Townhouse Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Northampton, Hampshire County",
+      "heading": "Condo & Townhouse Inspection in Northampton, MA",
+      "meta": "· ~2 hours on-site",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Northampton Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Northampton's condo market is dominated by downtown mill conversions (Cracker Factory, Roundhouse, Hampton Gardens area) and smaller Victorian-to-condo conversions. We inspect in-unit systems plus the building envelope you're partly buying: original mill roofs, masonry parapet condition, common HVAC, and HOA financials. Mill conversions look gorgeous and routinely have deferred capital problems.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing condo &amp; townhouse inspection services across the Pioneer Valley since 2004 — including hundreds of Northampton-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/services/condo-townhouse-inspection/\">Condo &amp; Townhouse Inspection</a>. For broader context on Northampton's housing stock, see the <a href=\"/service-area/northampton/\">Northampton town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What's different about a condo inspection?",
+          "a": "Two things. First, the unit inspection is similar to a single-family inspection but typically faster — there's no roof, no foundation, no exterior envelope under your direct ownership. Second, and more important: in a condo you're inheriting a share of the building's common systems (roof, exterior walls, mechanicals, parking), so understanding the building's overall condition matters as much as the unit. Ken documents both."
+        },
+        {
+          "q": "Should I inspect a condo at all?",
+          "a": "Yes. Buyers sometimes assume condos don't need inspection because the association maintains common areas. That's exactly backwards — you have less control over those systems, so you need more information about their condition before you buy in. The unit interior also has its own electrical, plumbing, HVAC, and finish issues that need evaluation."
+        },
+        {
+          "q": "What documents should I request from the association?",
+          "a": "Request the most recent reserve study, the past 24 months of board meeting minutes, capital project records for the last 3–5 years, the master insurance policy, and the budget. Patterns to watch: deferred capital projects, recent special assessments, low reserves relative to building age, or deferred roof or facade work. Ken will discuss what the findings suggest in relation to the documents."
+        },
+        {
+          "q": "Do you inspect mill conversion condos in Holyoke and Easthampton?",
+          "a": "Yes — these are some of the most interesting and complex inspections in the region. Mill conversions inherit massive shared envelopes (brick or stone walls, original windows, complex sawtooth or monitor roofs, central HVAC distribution) that are dramatically more important than the unit interior. Ken has inspected condos at Eastworks, multiple Holyoke canal-district conversions, and downtown Northampton mill buildings."
+        },
+        {
+          "q": "Is radon a concern in condo units?",
+          "a": "Yes — particularly in ground-floor and basement-level units. Radon can accumulate in lower-level units just as it does in single-family homes. Testing is recommended on any ground-floor or basement-level condo purchase, and is easily added to the same appointment."
+        },
+        {
+          "q": "What areas of Massachusetts do you serve for condo inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Northampton, Amherst, Holyoke, Easthampton, Greenfield, Hadley, Chicopee, Springfield, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Northampton",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Northampton",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/northampton/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Northampton",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/northampton/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Northampton",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/northampton/new-construction-inspection/"
+        },
+        {
+          "title": "Multi-Family Home Inspection in Northampton",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/service-area/northampton/multi-family-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Northampton",
+      "cards": [
+        {
+          "title": "Radon Testing in Northampton",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/northampton/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Northampton",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/northampton/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Northampton",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/northampton/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Northampton",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/northampton/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

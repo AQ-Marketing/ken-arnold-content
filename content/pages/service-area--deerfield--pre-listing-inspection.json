@@ -1,0 +1,172 @@
+{
+  "path": "/service-area/deerfield/pre-listing-inspection/",
+  "title": "Pre-Listing Deerfield MA",
+  "status": "publish",
+  "seo": {
+    "title": "Pre-Listing Deerfield MA | Ken Arnold Home Inspection",
+    "description": "Pre-Listing Home Inspection in Deerfield, Franklin County, MA by Ken Arnold (MA Lic. #587). Find out what a buyer",
+    "canonical": "https://kahomeinspectionsllc.com/services/pre-listing-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Deerfield, MA",
+          "url": "/service-area/deerfield/"
+        },
+        {
+          "label": "Pre-Listing Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Deerfield, Franklin County",
+      "heading": "Pre-Listing Home Inspection in Deerfield, MA",
+      "meta": "· ~3 hours on-site",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Deerfield Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Sellers in Old Deerfield benefit from getting ahead of the issues that scare buyers off historic stock: sill rot at fieldstone foundations, slate-roof slippage, and active knob-and-tube in plaster walls. South Deerfield pre-listings usually surface deferred-maintenance items on 1960s–90s systems, original windows, and aging septic D-boxes before they become negotiation leverage.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing pre-listing home inspection services across the Pioneer Valley since 2004 — including hundreds of Deerfield-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/services/pre-listing-inspection/\">Pre-Listing Home Inspection</a>. For broader context on Deerfield's housing stock, see the <a href=\"/service-area/deerfield/\">Deerfield town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "Why would a seller pay for an inspection?",
+          "a": "Three reasons. First, it lets you fix or disclose issues on your own timeline rather than under negotiation pressure. Second, it removes ammunition the buyer's inspector would otherwise use to ask for credits or price reductions. Third, in competitive markets, a clean pre-listing report can shorten time-on-market and reduce the chance of a deal falling through during due diligence."
+        },
+        {
+          "q": "Should I share the pre-listing report with buyers?",
+          "a": "That's a strategy decision to make with your listing agent. Some sellers attach the report — with any addressed items noted — directly to the listing as a transparency play; others keep it private and use the findings purely to guide pre-list repairs. Either approach can work. The inspection itself is the value regardless."
+        },
+        {
+          "q": "Will the buyer's inspector accept my report?",
+          "a": "No, and you shouldn't expect them to. The buyer is entitled to their own independent inspection, and most lenders and agents will require it. Your pre-listing report is for your benefit — to guide repairs and inform pricing. The buyer's inspector will do their own work."
+        },
+        {
+          "q": "How far in advance should I schedule?",
+          "a": "Three to six weeks before listing is the sweet spot. That gives you time to address findings and get any specialty work (radon mitigation, electrical updates, roof repair) completed before the home goes live. Booking two to three weeks out is workable; less than two weeks limits your ability to act on anything meaningful."
+        },
+        {
+          "q": "Should I add radon testing to a pre-listing inspection?",
+          "a": "In the Pioneer Valley, radon is common — and radon levels above 4 pCi/L will appear on a buyer's test and trigger a negotiation. Testing before listing gives you the option to install mitigation proactively, which you can then disclose as a completed improvement. That's a much better position than negotiating a credit under deadline pressure."
+        },
+        {
+          "q": "What areas of Massachusetts do you serve for pre-listing inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Northampton, Amherst, Greenfield, Deerfield, Hadley, Easthampton, Holyoke, Chicopee, Sunderland, Whately, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Deerfield",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Deerfield",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/deerfield/buyer-home-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Deerfield",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/deerfield/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Deerfield",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/deerfield/condo-townhouse-inspection/"
+        },
+        {
+          "title": "Multi-Family Home Inspection in Deerfield",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/service-area/deerfield/multi-family-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Deerfield",
+      "cards": [
+        {
+          "title": "Radon Testing in Deerfield",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/deerfield/radon-testing/"
+        },
+        {
+          "title": "Well Water Testing in Deerfield",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/deerfield/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Deerfield",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/deerfield/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Deerfield",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/deerfield/termite-wdi/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "path": "/service-area/deerfield/",
+  "title": "Deerfield Home Inspector MA",
+  "status": "publish",
+  "seo": {
+    "title": "Deerfield Home Inspector MA | Ken Arnold Home Inspection",
+    "description": "Licensed home inspector serving Deerfield, Franklin County, MA. Deerfield is Ken",
+    "canonical": "https://kahomeinspectionsllc.com/service-area/deerfield/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Deerfield, MA"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Franklin County · MA License #587",
+      "heading": "Home Inspector in Deerfield, MA",
+      "subheading": "Deerfield is Ken's home base — 35 Keets Rd is a five-minute drive from Old Deerfield's historic district.",
+      "image": "town-deerfield-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule in Deerfield",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Local Knowledge",
+      "heading": "Inspecting in Deerfield",
+      "subheading": "What the Housing Stock Tells Us",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "Old Deerfield is one of the most architecturally significant villages in New England — and inspecting these properties demands experience most inspectors don't have. Eighteenth-century post-and-beam framing, hand-hewn sills sitting on dry-laid fieldstone foundations, and original chestnut floorboards all behave differently than modern construction. South Deerfield's stock is a different story: mid-century ranches, raised ranches, and 1990s–2000s subdivisions where the issues we see most are aging asphalt roofing, rotted Masonite siding, and overloaded original electrical panels. Ken has inspected hundreds of homes across both villages and the surrounding rural roads — Stillwater, Mill Village, Pine Nook — and knows exactly which red flags matter for each construction era. Detailed digital reports are delivered promptly after every inspection."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Old Deerfield colonials"
+        },
+        {
+          "text": "South Deerfield ranches & subdivisions"
+        },
+        {
+          "text": "Rural well/septic properties"
+        }
+      ],
+      "image": "town-deerfield-overview-old-deerfield-village-detail.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "dark",
+      "eyebrow": "Inspection Services",
+      "heading": "Inspection Services in Deerfield",
+      "subheading": "Full ASHI Scope. Fast Digital Report.",
+      "intro": "Every standard home inspection includes the full ASHI scope — roof, structure, exterior, electrical, plumbing, HVAC, insulation, interior, and built-in appliances — documented with photographs and delivered as a comprehensive digital report.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/deerfield/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection in Deerfield"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/deerfield/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection in Deerfield"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/deerfield/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection in Deerfield"
+        },
+        {
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/deerfield/condo-townhouse-inspection/",
+          "aria": "Learn more about Condo & Townhouse Inspection in Deerfield"
+        },
+        {
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "href": "/service-area/deerfield/multi-family-inspection/",
+          "aria": "Learn more about Multi-Family Home Inspection in Deerfield"
+        },
+        {
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "href": "/service-area/deerfield/annual-preventative-inspection/",
+          "aria": "Learn more about Annual & Preventative Home Inspection in Deerfield"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Specialty Testing",
+      "heading": "Specialty Testing in Deerfield",
+      "subheading": "Bundle Into the Same Visit",
+      "intro": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving a second appointment and a separate trip charge.",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/service-area/deerfield/radon-testing/",
+          "aria": "Learn more about Radon Testing in Deerfield"
+        },
+        {
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/deerfield/well-water-testing/",
+          "aria": "Learn more about Well Water Testing in Deerfield"
+        },
+        {
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/deerfield/septic-inspection/",
+          "aria": "Learn more about Septic System Inspection in Deerfield"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/deerfield/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection in Deerfield"
+        },
+        {
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/service-area/deerfield/mold-inspection/",
+          "aria": "Learn more about Mold Inspection in Deerfield"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/service-area/deerfield/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection in Deerfield"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "The Ken Arnold Difference",
+      "heading": "Why Local Knowledge Matters",
+      "subheading": "in Deerfield",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Home inspection is a generalist's job, but housing stock isn't generic. After 22 years of Deerfield-area work, Ken has built a mental library of which construction eras and neighborhoods tend to surface which problems. That recognition is what separates a useful inspection report from a checklist-driven one. Every inspection is performed personally by Ken (MA License #587) — never subcontracted, never rushed."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Every inspection personally performed by Ken — MA License #587"
+        },
+        {
+          "text": "No subcontractors, no staff inspectors, no franchise"
+        },
+        {
+          "text": "Comprehensive photo-documented digital report delivered promptly"
+        },
+        {
+          "text": "22 years inspecting homes across Franklin County"
+        }
+      ],
+      "image": "town-deerfield-trust-fieldstone-foundation-sill.webp"
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Schedule Your Deerfield Inspection",
+      "subheading": "Comprehensive Digital Report — Delivered Promptly",
+      "body": "Ken Arnold has been inspecting homes in Deerfield and the surrounding Pioneer Valley for over 22 years. Independent, owner-operated, MA License #587. Call today or schedule online.",
+      "image": "town-deerfield-cta-south-deerfield-mid-century-ranch.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County &amp; the Pioneer Valley"
+    }
+  ]
+}

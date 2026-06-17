@@ -1,0 +1,168 @@
+{
+  "path": "/service-area/amherst/radon-testing/",
+  "title": "Radon Testing Amherst MA",
+  "status": "publish",
+  "seo": {
+    "title": "Radon Testing Amherst MA | Ken Arnold Home Inspection",
+    "description": "Radon Testing in Amherst, Hampshire County, MA by Ken Arnold (MA Lic. #587). 48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any hom",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/radon-testing/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "plain",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Service Area",
+          "url": "/service-area/"
+        },
+        {
+          "label": "Amherst, MA",
+          "url": "/service-area/amherst/"
+        },
+        {
+          "label": "Radon Testing"
+        }
+      ]
+    },
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Amherst, Hampshire County",
+      "heading": "Radon Testing in Amherst, MA",
+      "meta": "Standalone: $150 · As add-on: $125 with home inspection · Results within 48 hours of monitor pickup",
+      "open_article": true
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "What Amherst Buyers and Owners Need to Know",
+      "margin_top": "mt-8",
+      "blocks": [
+        {
+          "html": "Amherst straddles a moderate-to-high radon zone, and the Pelham Hills granite to the east drives some of the highest readings in Hampshire County. East Amherst basements regularly test above 4.0 pCi/L, and finished basement bedrooms common in 1970s splits make remediation non-negotiable. We run 48-hour continuous monitors and re-test after mitigation to confirm sub-slab depressurization is actually working.",
+          "variant": "lead"
+        },
+        {
+          "html": "Ken Arnold has been performing radon testing services across the Pioneer Valley since 2004 — including hundreds of Amherst-area properties. Every inspection is performed personally by Ken (MA License #587), follows ASHI standards, and is delivered as a comprehensive photo-documented digital report.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "v": 1,
+      "heading": "Service Overview",
+      "margin_top": "mt-10",
+      "blocks": [
+        {
+          "html": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "variant": "normal"
+        },
+        {
+          "html": "For full scope, methodology, and pricing details, see the canonical service page: <a href=\"/testing-and-specialty/radon-testing/\">Radon Testing</a>. For broader context on Amherst's housing stock, see the <a href=\"/service-area/amherst/\">Amherst town profile</a>.",
+          "variant": "normal"
+        }
+      ]
+    },
+    {
+      "type": "faq_dl",
+      "v": 1,
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What radon level is concerning in Massachusetts?",
+          "a": "The EPA action level is 4.0 pCi/L. The Massachusetts Department of Public Health recommends mitigation at 4.0 pCi/L or higher, and considering it between 2.0 and 4.0. Many Pioneer Valley homes test in the 4–10 range; test results above 10 pCi/L are not unusual in Greenfield, Holyoke, and the Mount Toby area of Sunderland."
+        },
+        {
+          "q": "How does the test work?",
+          "a": "We place a continuous-monitoring device on the lowest livable level of the home — typically the basement or first floor — for at least 48 hours under closed-house conditions (windows closed except for normal entry/exit). The monitor records hourly readings and provides a final average plus a graph of how levels varied over time."
+        },
+        {
+          "q": "What if my test comes back high?",
+          "a": "Mitigation is straightforward. Most Pioneer Valley homes can be mitigated for $1,200–$2,500 with a sub-slab depressurization system installed by a licensed mitigator. Post-mitigation re-testing typically brings levels well below 2.0 pCi/L. We can refer you to mitigation contractors if needed; we don't take referral fees."
+        },
+        {
+          "q": "Can I test the home myself?",
+          "a": "Short-term DIY canisters work for general awareness but they're not generally accepted in real-estate transactions. For a purchase, use a continuous-monitoring test performed by a licensed inspector — that's what almost every Massachusetts buyer's representative will accept."
+        },
+        {
+          "q": "Should I test a new construction home?",
+          "a": "Absolutely. New construction in the Pioneer Valley regularly tests above the EPA action level despite tighter envelopes — modern homes are simply more airtight, which means lower air-exchange rates and higher indoor radon concentration. Mitigation is dramatically cheaper if installed during construction; testing before closing is critical."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-12 max-w-4xl mx-auto",
+      "heading": "Other Inspection Services in Amherst",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection in Amherst",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/service-area/amherst/buyer-home-inspection/"
+        },
+        {
+          "title": "Pre-Listing Home Inspection in Amherst",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/service-area/amherst/pre-listing-inspection/"
+        },
+        {
+          "title": "New Construction Home Inspection in Amherst",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/service-area/amherst/new-construction-inspection/"
+        },
+        {
+          "title": "Condo & Townhouse Inspection in Amherst",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "href": "/service-area/amherst/condo-townhouse-inspection/"
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "bare",
+      "wrapper_class": "mt-10 max-w-4xl mx-auto",
+      "heading": "Specialty Testing in Amherst",
+      "cards": [
+        {
+          "title": "Well Water Testing in Amherst",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "href": "/service-area/amherst/well-water-testing/"
+        },
+        {
+          "title": "Septic System Inspection in Amherst",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "href": "/service-area/amherst/septic-inspection/"
+        },
+        {
+          "title": "Termite & WDI Inspection in Amherst",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/service-area/amherst/termite-wdi/"
+        },
+        {
+          "title": "Mold Inspection in Amherst",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "href": "/service-area/amherst/mold-inspection/"
+        }
+      ],
+      "close_article": true
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to schedule your inspection?",
+      "body": "Comprehensive digital reports. MA License #587. 2004-present, owner-operated."
+    }
+  ]
+}

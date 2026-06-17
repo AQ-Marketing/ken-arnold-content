@@ -1,0 +1,292 @@
+{
+  "path": "/services/pre-listing-inspection/",
+  "title": "Pre-Listing Home Inspection MA",
+  "status": "publish",
+  "seo": {
+    "title": "Pre-Listing Home Inspection MA | Ken Arnold Home Inspection",
+    "description": "Sellers: find issues before they surface in negotiation. Pre-listing inspection in the Pioneer Valley by Ken Arnold (MA Lic. #587). Fast digital report.",
+    "canonical": "https://kahomeinspectionsllc.com/services/pre-listing-inspection/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services",
+          "url": "/services/"
+        },
+        {
+          "label": "Pre-Listing Home Inspection in Massachusetts"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Pre-Listing Home Inspection in Massachusetts",
+      "subheading": "See What the Buyer's Inspector Will Find — Before They Do",
+      "image": "pre-listing-home-inspection-massachusetts.webp",
+      "ctas": [
+        {
+          "label": "Schedule Your Inspection",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Why It Matters",
+      "heading": "What Buyers Will Find",
+      "subheading": "Is Better Known by You First",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "In a competitive Pioneer Valley market, deals still fall apart during inspection contingency — and they fall apart on surprises. A pre-listing inspection gives you the same findings a buyer's inspector will deliver, weeks before you list. That window is the difference between fixing things on your own terms and negotiating under pressure."
+        },
+        {
+          "html": "Ken Arnold has conducted pre-listing inspections across the Pioneer Valley since 2004. As an independent inspector (MA License #587), he works for you — not the buyer, not the transaction. His pre-listing reports follow ASHI Standards of Practice and are delivered promptly, with findings framed around a seller's decision: what to fix, what to disclose, and what's cosmetic noise the buyer's inspector will note but buyers won't walk over. Many sellers add <a href=\"/testing-and-specialty/radon-testing/\" class=\"text-accent-600 font-medium underline\">radon testing</a> or a <a href=\"/testing-and-specialty/termite-wdi/\" class=\"text-accent-600 font-medium underline\">termite and WDI inspection</a> to get ahead of the most common buyer requests before they become leverage."
+        }
+      ],
+      "image": "pre-listing-overview-seller-document-prep.webp"
+    },
+    {
+      "type": "journey_cards",
+      "v": 1,
+      "eyebrow": "Your Pre-Listing Inspection, Step by Step",
+      "heading": "Before the Sign Goes Up",
+      "subheading": "You Control the Findings",
+      "h2_mt": "mt-4",
+      "intro": "A pre-listing inspection with Ken Arnold is built around one goal: getting you to listing day with no surprises waiting in the wings. Here's how it works.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Schedule 3–6 Weeks Before Listing",
+          "body": "The ideal window is three to six weeks before you go live — enough time to address findings and complete any specialty work (radon mitigation, electrical, roofing) before buyers see the home. Ken handles every appointment personally and can typically schedule within a week."
+        },
+        {
+          "number": "02",
+          "title": "Full Scope Inspection of the Property",
+          "body": "Ken inspects every accessible system and component: roof, structure, electrical, plumbing, HVAC, exterior, attic, basement, and interior. You're welcome to walk through the property with him — sellers who attend often leave with a clearer picture of what to prioritize."
+        },
+        {
+          "number": "03",
+          "title": "Pre-Delivery Findings Briefing",
+          "body": "Before Ken leaves the property, he'll walk you through the key findings — distinguishing safety items from deferred maintenance from cosmetic issues. You'll understand what's likely to appear on a buyer's report and what a buyer's inspector is likely to flag as high-priority."
+        },
+        {
+          "number": "04",
+          "title": "Detailed Digital Report",
+          "body": "Your photo-documented report — organized by system, typically 40–80 pages — is delivered promptly so you and your agent can review it and make repair decisions before the home goes on the market. No scrambling during contingency."
+        }
+      ]
+    },
+    {
+      "type": "dark_card_grid",
+      "v": 1,
+      "eyebrow": "Inspection Services",
+      "heading": "Every Property Is Different.",
+      "subheading": "So Is Every Inspection.",
+      "h2_mt": "mt-4",
+      "compact": true,
+      "intro": "Ken Arnold Home Inspection LLC offers a full range of residential inspection services across Massachusetts — each scoped to the property type, your role in the transaction, and what's at stake.",
+      "cards": [
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"> <path d=\"M543.8 287.6c17 0 32-14 32-32.1c1-9-3-17-11-24L512 185V64c0-17.7-14.3-32-32-32H448c-17.7 0-32 14.3-32 32v36.7L309.5 7c-6-5-14-7-21-7s-15 1-22 8L10 231.5c-7 7-10 15-10 24c0 18 14 32.1 32 32.1h32v69.7c-.1 .9-.1 1.8-.1 2.8V472c0 22.1 17.9 40 40 40h16c1.2 0 2.4-.1 3.6-.2c1.5 .1 3 .2 4.5 .2H160h24c22.1 0 40-17.9 40-40V448 384c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v64 24c0 22.1 17.9 40 40 40h24 32.5c1.4 0 2.8 0 4.2-.1c1.1 .1 2.2 .1 3.3 .1h16c22.1 0 40-17.9 40-40V455.8c.3-2.6 .5-5.3 .5-8.1l-.7-160.2h32z\"></path> </svg>",
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "link_label": "Learn More",
+          "link_href": "/services/buyer-home-inspection/",
+          "link_aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M78.6 5C69.1-2.4 55.6-1.5 47 7L7 47c-8.5 8.5-9.4 22-2.1 31.6l80 104c4.5 5.9 11.6 9.4 19 9.4h54.1l109 109c-14.7 29-10 65.4 14.3 89.6l112 112c12.5 12.5 32.8 12.5 45.3 0l64-64c12.5-12.5 12.5-32.8 0-45.3l-112-112c-24.2-24.2-60.6-29-89.6-14.3l-109-109V104c0-7.5-3.5-14.5-9.4-19L78.6 5zM19.9 396.1C7.2 408.8 0 426.1 0 444.1C0 481.6 30.4 512 67.9 512c18 0 35.3-7.2 48-19.9L233.7 374.3c-7.8-20.9-9-43.6-3.6-65.1l-61.7-61.7L19.9 396.1zM512 144c0-10.5-1.1-20.7-3.2-30.5c-2.4-11.2-16.1-14.1-24.2-6l-63.9 63.9c-3 3-7.1 4.7-11.3 4.7H352c-8.8 0-16-7.2-16-16V102.6c0-4.2 1.7-8.3 4.7-11.3l63.9-63.9c8.1-8.1 5.2-21.8-6-24.2C388.7 1.1 378.5 0 368 0C288.5 0 224 64.5 224 144l0 .8 85.3 85.3c36-9.1 75.8 .5 104 28.7L429 274.5c49-22.8 83-72.8 83-130.5zM56 432a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z\"></path> </svg>",
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "link_label": "Learn More",
+          "link_href": "/services/new-construction-inspection/",
+          "link_aria": "Learn more about New Construction Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M0 32C0 14.3 14.3 0 32 0H480c17.7 0 32 14.3 32 32s-14.3 32-32 32V448c17.7 0 32 14.3 32 32s-14.3 32-32 32H304V464c0-26.5-21.5-48-48-48s-48 21.5-48 48v48H32c-17.7 0-32-14.3-32-32s14.3-32 32-32V64C14.3 64 0 49.7 0 32zm96 80v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H112c-8.8 0-16 7.2-16 16zm144-16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H240zm112 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V112c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16zM112 240c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H112zm128 0c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H240zm144 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V256c0-8.8-7.2-16-16-16H368c-8.8 0-16 7.2-16 16z\"></path> </svg>",
+          "title": "Condo & Townhouse Inspection",
+          "body": "Targeted inspection of your unit plus the shared-system review most condo buyers don't get — common to mill conversions, downtown buildings, and townhouse complexes across Western Mass.",
+          "link_label": "Learn More",
+          "link_href": "/services/condo-townhouse-inspection/",
+          "link_aria": "Learn more about Condo & Townhouse Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 384 512\" fill=\"#f9ab3d\"> <path d=\"M64 48c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16h80V400c0-26.5 21.5-48 48-48s48 21.5 48 48v64h80c8.8 0 16-7.2 16-16V64c0-8.8-7.2-16-16-16H64zM0 64C0 28.7 28.7 0 64 0H320c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V64zm88 40c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V104zM232 88h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V104c0-8.8 7.2-16 16-16zM88 232c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H104c-8.8 0-16-7.2-16-16V232zm144-16h48c8.8 0 16 7.2 16 16v48c0 8.8-7.2 16-16 16H232c-8.8 0-16-7.2-16-16V232c0-8.8 7.2-16 16-16z\"></path> </svg>",
+          "title": "Multi-Family Home Inspection",
+          "body": "Triple-deckers, two-families, and four-unit investment properties — each unit and shared system documented separately for buyers and investors.",
+          "link_label": "Learn More",
+          "link_href": "/services/multi-family-inspection/",
+          "link_aria": "Learn more about Multi-Family Home Inspection"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M256 0a256 256 0 1 1 0 512A256 256 0 1 1 256 0zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.5 33.3-6.5s4.5-25.9-6.5-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z\"></path> </svg>",
+          "title": "Annual & Preventative Home Inspection",
+          "body": "Full-scope inspection for current owners — oriented to maintenance planning, not closing pressure. Worth doing every 3–5 years on older Pioneer Valley homes.",
+          "link_label": "Learn More",
+          "link_href": "/services/annual-preventative-inspection/",
+          "link_aria": "Learn more about Annual & Preventative Home Inspection"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Your Inspector, Your Advocate",
+      "heading": "A Report That Works",
+      "subheading": "For the Seller's Strategy",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "A pre-listing inspection is only useful if the inspector tells you the truth about the property — not what you want to hear, and not a whitewash you'd be embarrassed to show a buyer. Ken Arnold has no relationship with buyers, buyer's agents, or repair contractors. His only obligation is an accurate assessment of the property's condition, framed around your decision as a seller."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Massachusetts License #587 — 22 years of pre-listing inspections across the Pioneer Valley"
+        },
+        {
+          "text": "Same scope as a buyer's inspection — you see exactly what they will see"
+        },
+        {
+          "text": "Findings framed for a seller: what to fix, what to disclose, what's cosmetic"
+        },
+        {
+          "text": "No conflicts of interest — Ken doesn't do repair work or contractor referrals"
+        },
+        {
+          "text": "Photo report in your hands before the listing goes live"
+        }
+      ],
+      "cta_label": "About Ken Arnold",
+      "cta_href": "/about/",
+      "image": "pre-listing-trust-staging-walk-through.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Bundle & Save a Trip",
+      "heading": "Specialty Testing",
+      "subheading": "Added to the Same Visit",
+      "intro": "The most consequential risks — radon, water quality, wood-destroying insects, hidden moisture — aren't visible on a standard inspection. Add specialty testing to your appointment and address everything in one visit.",
+      "cols": "4",
+      "cards": [
+        {
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "href": "/testing-and-specialty/radon-testing/",
+          "aria": "Learn more about Radon Testing"
+        },
+        {
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "href": "/testing-and-specialty/thermal-imaging/",
+          "aria": "Learn more about Thermal Imaging Inspection"
+        },
+        {
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "href": "/testing-and-specialty/termite-wdi/",
+          "aria": "Learn more about Termite & WDI Inspection"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "From Sellers Who've Been There",
+      "heading": "What Clients Say",
+      "h2_mt": "mt-4",
+      "bg": "white",
+      "intro": "Sellers in Northampton, Amherst, Greenfield, and across the Pioneer Valley — here's what they say about the pre-listing process with Ken.",
+      "items": [
+        {
+          "quote": "\"We found a slow leak under the master bath that had been sitting for years. Got it repaired for $600 before listing. The buyer's inspector found it anyway — but we had documentation that it was already addressed. No negotiation drama.\"",
+          "name": "Patricia H.",
+          "role": "Home Seller, Northampton"
+        },
+        {
+          "quote": "\"Ken's pre-listing report gave us the confidence to price the house $15,000 higher than we would have otherwise. We knew the condition and could defend it. Sold in 11 days.\"",
+          "name": "Robert & Diane F.",
+          "role": "Home Sellers, Amherst"
+        },
+        {
+          "quote": "\"I always recommend Ken for pre-listing inspections. My sellers go into the transaction informed, and that almost always makes for a smoother close on both sides.\"",
+          "name": "Michelle T.",
+          "role": "Real Estate Agent, Northampton"
+        }
+      ],
+      "cta_label": "Read More Client Reviews",
+      "cta_href": "/reviews/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Got Questions? Get Answers.",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About This Inspection",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "Why would a seller pay for an inspection?",
+          "a": "Three reasons. First, it lets you fix or disclose issues on your own timeline rather than under negotiation pressure. Second, it removes ammunition the buyer's inspector would otherwise use to ask for credits or price reductions. Third, in competitive markets, a clean pre-listing report can shorten time-on-market and reduce the chance of a deal falling through during due diligence."
+        },
+        {
+          "q": "Should I share the pre-listing report with buyers?",
+          "a": "That's a strategy decision to make with your listing agent. Some sellers attach the report — with any addressed items noted — directly to the listing as a transparency play; others keep it private and use the findings purely to guide pre-list repairs. Either approach can work. The inspection itself is the value regardless."
+        },
+        {
+          "q": "Will the buyer's inspector accept my report?",
+          "a": "No, and you shouldn't expect them to. The buyer is entitled to their own independent inspection, and most lenders and agents will require it. Your pre-listing report is for your benefit — to guide repairs and inform pricing. The buyer's inspector will do their own work."
+        },
+        {
+          "q": "How far in advance should I schedule?",
+          "a": "Three to six weeks before listing is the sweet spot. That gives you time to address findings and get any specialty work (radon mitigation, electrical updates, roof repair) completed before the home goes live. Booking two to three weeks out is workable; less than two weeks limits your ability to act on anything meaningful."
+        },
+        {
+          "q": "Should I add radon testing to a pre-listing inspection?",
+          "a": "In the Pioneer Valley, radon is common — and radon levels above 4 pCi/L will appear on a buyer's test and trigger a negotiation. Testing before listing gives you the option to install mitigation proactively, which you can then disclose as a completed improvement. That's a much better position than negotiating a credit under deadline pressure."
+        },
+        {
+          "q": "What areas of Massachusetts do you serve for pre-listing inspections?",
+          "a": "Ken serves the Pioneer Valley, Connecticut River Valley, and surrounding communities — including Northampton, Amherst, Greenfield, Deerfield, Hadley, Easthampton, Holyoke, Chicopee, Sunderland, Whately, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "List with Confidence. Not Crossed Fingers.",
+      "subheading": "Schedule Your Pre-Listing Inspection Today",
+      "body": "Don't let a buyer's inspector dictate your negotiation. Ken Arnold delivers pre-listing inspections across the Pioneer Valley — giving Massachusetts sellers the same findings a buyer would see, before the listing goes live, with clear photo-documented reports and no conflicts of interest.",
+      "image": "pre-listing-cta-massachusetts-house-for-sale.webp",
+      "cta_label": "Schedule Your Inspection",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}

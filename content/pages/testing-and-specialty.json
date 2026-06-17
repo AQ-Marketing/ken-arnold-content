@@ -1,0 +1,245 @@
+{
+  "path": "/testing-and-specialty/",
+  "title": "Specialty Testing MA",
+  "status": "publish",
+  "seo": {
+    "title": "Specialty Testing MA | Ken Arnold Home Inspection",
+    "description": "Radon testing, well water, termite WDI, mold, thermal imaging, and septic inspections across the Pioneer Valley. Bundle with any home inspection. MA Lic. #587.",
+    "canonical": "https://kahomeinspectionsllc.com/testing-and-specialty/",
+    "ogImage": "https://kahomeinspectionsllc.com/og-default.jpg"
+  },
+  "sections": [
+    {
+      "type": "breadcrumb",
+      "v": 1,
+      "variant": "wide_index",
+      "items": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Testing & Specialty"
+        }
+      ]
+    },
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "MA License #587 · Est. 2004",
+      "heading": "Specialty Testing & Inspections",
+      "subheading": "The Risks a Standard Inspection Can't See",
+      "sub_style": "text-accent-500",
+      "intro": "Radon, water quality, wood-destroying insects, hidden moisture, and septic conditions aren't visible on a standard walk-through. Six specialty testing services are available — each independently valuable, all bundleable into a single inspection visit.",
+      "image": "specialty-index-hero-massachusetts-specialty-testing-equipment.webp",
+      "ctas": [
+        {
+          "label": "Schedule Testing",
+          "href": "/schedule/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (413) 522-8004",
+          "href": "tel:+14135228004",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Beyond the Visual Inspection",
+      "heading": "What the Standard Inspection",
+      "subheading": "Doesn't Tell You",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "A standard home inspection evaluates visible, accessible systems and components. It can't detect radioactive gas seeping through the foundation, contaminants dissolved in well water, termite colonies inside wall framing, hidden moisture behind finished surfaces, or a failing septic leach field. These aren't edge cases — they're routine findings across Pioneer Valley properties."
+        },
+        {
+          "html": "Specialty testing addresses what a visual inspection can't. Each service is independently licensed, independently priced, and independently valuable. Most bundle into the same appointment as a <a href=\"/services/buyer-home-inspection/\" class=\"text-accent-600 font-medium underline\">buyer home inspection</a> — one coordinated visit, complete picture, no second trip to the property."
+        }
+      ],
+      "image": "specialty-index-overview-basement-testing-context.webp"
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "Specialty Testing Services",
+      "heading": "Six Tests.",
+      "subheading": "All Bundleable Into One Visit.",
+      "intro": "Every specialty test can be scheduled standalone or added to any inspection appointment. Bundle two or more and save a trip to the property.",
+      "cards": [
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24l0 112c0 13.3-10.7 24-24 24s-24-10.7-24-24l0-112c0-13.3 10.7-24 24-24zm32 224a32 32 0 1 1 -64 0 32 32 0 1 1 64 0z\"></path> </svg>",
+          "title": "Radon Testing",
+          "body": "48-hour continuous-monitor radon testing in the Pioneer Valley. Add to any home inspection or schedule standalone.",
+          "price_primary": "$150 standalone",
+          "price_secondary": "$125 with home inspection",
+          "link_label": "Full Details",
+          "link_href": "/testing-and-specialty/radon-testing/"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"> <path d=\"M269.5 69.6c-12.4-9.3-29.5-9.3-41.9 0L12.5 234.3C1.4 242.6-2.7 257.2 2 269.9 6.8 282.6 19 291 32.5 291H64v189c0 17.7 14.3 32 32 32l128 0c17.7 0 32-14.3 32-32l0-128 56 0 0 128c0 17.7 14.3 32 32 32l128 0c17.7 0 32-14.3 32-32V291h31.5c13.5 0 25.7-8.4 30.5-21.1s.6-27.3-11.4-35.6L269.5 69.6zM288 256a32 32 0 1 1 0-64 32 32 0 1 1 0 64z\"></path> </svg>",
+          "title": "Well Water Testing",
+          "body": "Comprehensive pre-purchase well water testing for rural Pioneer Valley properties. Lab analysis through state-certified labs, results in 5–10 business days.",
+          "price_primary": "$225–$425 standalone",
+          "price_secondary": "Bundle with home inspection — package pricing",
+          "link_label": "Full Details",
+          "link_href": "/testing-and-specialty/well-water-testing/"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 640 512\" fill=\"#f9ab3d\"> <path d=\"M32 32C14.3 32 0 46.3 0 64S14.3 96 32 96l576 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L32 32zM64 128l0 192c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-192L64 128zM256 256a64 64 0 1 1 128 0 64 64 0 1 1 -128 0zM96 448l448 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L96 512c-17.7 0-32-14.3-32-32s14.3-32 32-32z\"></path> </svg>",
+          "title": "Septic System Inspection",
+          "body": "Pre-purchase septic system evaluation for rural Pioneer Valley properties. Coordinated with Massachusetts Title 5 inspectors when transfer requires it.",
+          "price_primary": "$175 (visual evaluation; pump-out & Title 5 separate) standalone",
+          "price_secondary": "$125 with home inspection",
+          "link_label": "Full Details",
+          "link_href": "/testing-and-specialty/septic-inspection/"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" fill=\"#f9ab3d\"> <path d=\"M226.5 92.9c14.3 42.9-.3 86.2-32.6 96.8s-70.1-15.6-84.4-58.5s.3-86.2 32.6-96.8s70.1 15.6 84.4 58.5zM100.4 198.6c18.9 32.4 14.3 70.1-10.2 84.1s-59.7-.9-78.5-33.3S-2.7 179.3 21.8 165.3s59.7 .9 78.5 33.3zM69.2 401.2C121.6 259.9 214.7 224 256 224s134.4 35.9 186.8 177.2c3.6 9.7 5.2 20.1 5.2 30.5v1.6c0 25.8-20.9 46.7-46.7 46.7c-11.5 0-22.9-4.2-31.8-11.8l-8.4-7.3c-12.4-10.8-30.9-10.8-43.3 0l-8.4 7.3c-8.9 7.6-20.3 11.8-31.8 11.8s-22.9-4.2-31.8-11.8l-8.4-7.3c-12.4-10.8-30.9-10.8-43.3 0l-8.4 7.3C179.1 467.8 167.7 472 156.2 472c-25.8 0-46.7-20.9-46.7-46.7v-1.6c0-10.4 1.6-20.8 5.2-30.5c.8-2.2 1.6-4.4 2.4-6.6c2.4 1.6 5.2 3.2 8 4.8c19.4 11.1 42.6 16.8 65.8 20c-13.5-14.4-31.1-28.7-53.4-43.3l-2.1-1.4c-17.6-11.5-41.6-7-52.8 9.3l0 0 0 0c-11.2 16.3-6.8 38.5 9.5 49.5l4.9 3.2z\"></path> </svg>",
+          "title": "Termite & WDI Inspection",
+          "body": "NPMA-33 wood-destroying insect inspection — required for most VA, FHA, and many investor loans. Carpenter ant, carpenter bee, and powderpost beetle evaluation included.",
+          "price_primary": "$125 standalone",
+          "price_secondary": "$95 with home inspection",
+          "link_label": "Full Details",
+          "link_href": "/testing-and-specialty/termite-wdi/"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 576 512\" fill=\"#f9ab3d\"> <path d=\"M288 0C129 0 0 129 0 288s129 224 288 224s288-100.3 288-224S447 0 288 0zM94.7 198.3c9.3-5.3 21.2-2.2 26.6 7.2c12 20.9 29.5 38.5 50.5 50.5c9.4 5.4 12.5 17.3 7.1 26.7s-17.3 12.5-26.7 7.1c-27.8-16-51.4-39.5-67.5-68.9c-5.3-9.3-2.2-21.2 7.2-26.6zM288 384c-52.9 0-96-43.1-96-96s43.1-96 96-96s96 43.1 96 96s-43.1 96-96 96zm128-195.5c-16.1 29.4-39.7 52.9-67.5 68.9c-9.4 5.4-21.3 2.3-26.7-7.1s-2.3-21.3 7.1-26.7c21-12 38.5-29.6 50.5-50.5c5.4-9.4 17.3-12.5 26.6-7.2s12.5 17.3 7.2 26.6z\"></path> </svg>",
+          "title": "Mold Inspection",
+          "body": "Visual mold evaluation with moisture-source identification, optional air sampling. Common in older Pioneer Valley basements and mill-conversion units.",
+          "price_primary": "$225 (visual) / $375 with air sampling standalone",
+          "price_secondary": "$175 visual / $325 with sampling — bundled",
+          "link_label": "Full Details",
+          "link_href": "/testing-and-specialty/mold-inspection/"
+        },
+        {
+          "icon_svg": "<svg width=\"22\" height=\"22\" viewBox=\"0 0 640 512\" fill=\"#f9ab3d\"> <path d=\"M576 0c35.3 0 64 28.7 64 64l0 384c0 35.3-28.7 64-64 64l-512 0C28.7 512 0 483.3 0 448L0 64C0 28.7 28.7 0 64 0l512 0zM64 96l0 320 512 0 0-320L64 96zm64 48c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16l0 32c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-32zm144-16l32 0c8.8 0 16 7.2 16 16l0 32c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-32c0-8.8 7.2-16 16-16zm112 16c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16l0 32c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-32zM128 272c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16l0 32c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-32zm144-16l32 0c8.8 0 16 7.2 16 16l0 32c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-32c0-8.8 7.2-16 16-16zm112 16c0-8.8 7.2-16 16-16l32 0c8.8 0 16 7.2 16 16l0 32c0 8.8-7.2 16-16 16l-32 0c-8.8 0-16-7.2-16-16l0-32z\"></path> </svg>",
+          "title": "Thermal Imaging Inspection",
+          "body": "Infrared scanning surfaces issues invisible to the naked eye — water intrusion, missing insulation, electrical hot spots, and HVAC performance problems.",
+          "price_primary": "$150 standalone scan standalone",
+          "price_secondary": "$95 with home inspection",
+          "link_label": "Full Details",
+          "link_href": "/testing-and-specialty/thermal-imaging/"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "One Visit. Complete Picture.",
+      "heading": "Bundle Specialty Testing",
+      "subheading": "Into Any Inspection",
+      "image_side": "left",
+      "col_ratio": "45fr_55fr",
+      "align": "center",
+      "paragraphs": [
+        {
+          "html": "Most specialty services are added to the same appointment as a home inspection — radon monitors are placed during the visit and picked up 48 hours later, water samples are collected on-site, and WDI inspections add 30–45 minutes to on-site time. Bundling keeps property access to one coordinated window and reduces total cost."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Radon testing — monitor placed and retrieved; results within 48 hours"
+        },
+        {
+          "text": "Termite & WDI — 30–45 min add-on; NPMA-33 form delivered promptly"
+        },
+        {
+          "text": "Thermal imaging — standard add-on on most inspections"
+        },
+        {
+          "text": "Mold — visual evaluation + moisture mapping bundled with home inspection"
+        },
+        {
+          "text": "Well water & septic — samples collected on-site during inspection visit"
+        },
+        {
+          "text": "MA License #587 — all testing personally performed by Ken Arnold"
+        }
+      ],
+      "image": "specialty-index-trust-laboratory-water-sample-bottles.webp"
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Core Inspection Services",
+      "heading": "Specialty Testing Starts with",
+      "subheading": "the Right Core Inspection",
+      "intro": "Every specialty test adds the most value when paired with a thorough visual inspection. Choose the right inspection type for your situation — then add the testing your property actually needs.",
+      "cards": [
+        {
+          "title": "Buyer Home Inspection",
+          "body": "A thorough, independent inspection of every major system before you close — 22 years of Pioneer Valley experience documented in a detailed photo report.",
+          "href": "/services/buyer-home-inspection/",
+          "aria": "Learn more about Buyer Home Inspection"
+        },
+        {
+          "title": "Pre-Listing Home Inspection",
+          "body": "Find out what a buyer's inspector will find — before you list. Get ahead of objections, price the home accurately, and shorten your time on market.",
+          "href": "/services/pre-listing-inspection/",
+          "aria": "Learn more about Pre-Listing Home Inspection"
+        },
+        {
+          "title": "New Construction Home Inspection",
+          "body": "An independent inspection before your warranty closes. Phase, pre-drywall, or final-walk inspections — finding what the builder's punch list misses.",
+          "href": "/services/new-construction-inspection/",
+          "aria": "Learn more about New Construction Home Inspection"
+        }
+      ],
+      "cta_label": "View All Inspection Services",
+      "cta_href": "/services/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Common Questions",
+      "heading": "Frequently Asked Questions",
+      "subheading": "About Specialty Testing",
+      "h2_mt": "mt-4",
+      "items": [
+        {
+          "q": "Which specialty tests are most commonly bundled with a home inspection?",
+          "a": "Radon testing is the most common add-on in the Pioneer Valley — the region tests high and the EPA action level is 4.0 pCi/L. <a href=\"/testing-and-specialty/radon-testing/\" class=\"text-accent-300 underline\">Radon testing</a> and <a href=\"/testing-and-specialty/termite-wdi/\" class=\"text-accent-300 underline\">termite and WDI inspection</a> together cover the two most common lender-required tests. <a href=\"/testing-and-specialty/thermal-imaging/\" class=\"text-accent-300 underline\">Thermal imaging</a> is included on most inspections at a bundled rate. For rural properties, <a href=\"/testing-and-specialty/well-water-testing/\" class=\"text-accent-300 underline\">well water testing</a> and <a href=\"/testing-and-specialty/septic-inspection/\" class=\"text-accent-300 underline\">septic evaluation</a> are both strongly recommended."
+        },
+        {
+          "q": "Can I bundle multiple specialty tests into the same appointment?",
+          "a": "Yes — bundling is almost always the right approach. Most specialty tests are added to a home inspection visit, saving a separate trip to the property and reducing total cost. Describe what you're buying when you schedule and we will recommend the right combination."
+        },
+        {
+          "q": "Is radon common in the Pioneer Valley?",
+          "a": "Yes. The Pioneer Valley and surrounding Franklin and Hampshire County communities have documented elevated radon levels across much of the region. Geologic factors — granite bedrock, glacial soils, and Connecticut River Valley geology — contribute to above-average radon concentrations. Testing before closing is the only way to know what you're buying."
+        },
+        {
+          "q": "Do I need a termite inspection if the house looks fine?",
+          "a": "Termite and WDI damage is often invisible from the exterior. Carpenter ants — by far the most common wood-destroying insect in the Pioneer Valley — typically infest wall cavities and structural framing behind finished surfaces. An NPMA-33 form from a licensed inspector is required for most VA loans and commonly requested on FHA and investor loans."
+        },
+        {
+          "q": "Is well water testing required when buying a property with a private well?",
+          "a": "It is required for FHA and VA loans and strongly recommended for all purchases. The Pioneer Valley's geology — particularly in Franklin County and parts of Hampshire County — produces naturally elevated iron, manganese, and in some zones, arsenic and uranium. Our pre-purchase panel covers the full lender suite plus regional-specific contaminants."
+        },
+        {
+          "q": "What areas do you serve for specialty testing?",
+          "a": "We perform specialty testing throughout the Pioneer Valley and surrounding communities — including Amherst, Northampton, Greenfield, Deerfield, Hadley, Easthampton, Holyoke, Sunderland, and more. See the <a href=\"/service-area/\" class=\"text-accent-300 underline\">service area page</a> for the full list."
+        }
+      ],
+      "schema": true
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "heading": "Know What You're Buying.",
+      "subheading": "Test Before You Close.",
+      "body": "Radon, water quality, termites, mold, and septic conditions are all invisible on a standard inspection — and all routine findings across the Pioneer Valley. Specialty testing is available throughout Western Massachusetts, bundled into a single visit or scheduled standalone.",
+      "image": "specialty-index-cta-rural-pioneer-valley-property.webp",
+      "cta_label": "Schedule Testing",
+      "cta_href": "/schedule/",
+      "footnote": "Licensed Home Inspector MA #587 · 35 Keets Rd, Deerfield, MA 01342 · Serving Franklin County, Hampshire County &amp; the Pioneer Valley"
+    }
+  ]
+}
