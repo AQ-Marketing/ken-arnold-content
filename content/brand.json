@@ -83,19 +83,19 @@
   "megamenu": {
     "services": {
       "base": "/services/",
-      "heading": "Services",
+      "heading": "Inspection Services",
       "viewAllHref": "/services/",
       "promo": {
         "eyebrow": "Ready to schedule?",
-        "text": "Book your home inspection online in minutes, or call and we'll find a time that works."
+        "text": "22 years of Pioneer Valley experience. Fast photo-documented digital reports."
       },
       "items": [
-        { "slug": "buyer-home-inspection", "label": "Buyer Home Inspection" },
-        { "slug": "pre-listing-inspection", "label": "Pre-Listing Inspection" },
-        { "slug": "new-construction-inspection", "label": "New Construction Inspection" },
-        { "slug": "condo-townhouse-inspection", "label": "Condo & Townhouse Inspection" },
-        { "slug": "multi-family-inspection", "label": "Multi-Family Inspection" },
-        { "slug": "annual-preventative-inspection", "label": "Annual & Preventative Inspection" }
+        { "slug": "buyer-home-inspection", "label": "Buyer Home Inspection", "tagline": "For homebuyers", "icon": "<path d=\"M3 12l9-9 9 9\"/><path d=\"M5 10v10h14V10\"/><path d=\"M9 20v-6h6v6\"/>" },
+        { "slug": "pre-listing-inspection", "label": "Pre-Listing Inspection", "tagline": "Sell with confidence", "icon": "<path d=\"M9 11l3 3 8-8\"/><path d=\"M20 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11\"/>" },
+        { "slug": "new-construction-inspection", "label": "New Construction Inspection", "tagline": "Before warranty closes", "icon": "<path d=\"M2 20h20\"/><path d=\"M5 20V8l7-5 7 5v12\"/><path d=\"M10 20v-6h4v6\"/>" },
+        { "slug": "condo-townhouse-inspection", "label": "Condo & Townhouse Inspection", "tagline": "Unit + common review", "icon": "<rect x=\"3\" y=\"3\" width=\"8\" height=\"8\"/><rect x=\"13\" y=\"3\" width=\"8\" height=\"8\"/><rect x=\"3\" y=\"13\" width=\"8\" height=\"8\"/><rect x=\"13\" y=\"13\" width=\"8\" height=\"8\"/>" },
+        { "slug": "multi-family-inspection", "label": "Multi-Family Inspection", "tagline": "Investors & landlords", "icon": "<path d=\"M3 21V8l6-5 6 5v13\"/><path d=\"M15 21V11l6-3v13\"/><path d=\"M3 21h18\"/>" },
+        { "slug": "annual-preventative-inspection", "label": "Annual & Preventative Inspection", "tagline": "Catch issues early", "icon": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/>" }
       ]
     },
     "specialty": {
@@ -104,15 +104,15 @@
       "viewAllHref": "/testing-and-specialty/",
       "promo": {
         "eyebrow": "Bundle & save",
-        "text": "Add specialty testing to any inspection and bundle it into a single visit."
+        "text": "Most specialty tests can be added to a buyer or pre-listing inspection in the same visit — saving you a second appointment."
       },
       "items": [
-        { "slug": "radon-testing", "label": "Radon Testing" },
-        { "slug": "well-water-testing", "label": "Well Water Testing" },
-        { "slug": "septic-inspection", "label": "Septic Inspection" },
-        { "slug": "termite-wdi", "label": "Termite & WDI" },
-        { "slug": "mold-inspection", "label": "Mold Inspection" },
-        { "slug": "thermal-imaging", "label": "Thermal Imaging" }
+        { "slug": "radon-testing", "label": "Radon Testing", "tagline": "48-hour monitor", "icon": "<circle cx=\"12\" cy=\"12\" r=\"3\"/><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 3v3M12 18v3M3 12h3M18 12h3\"/>" },
+        { "slug": "well-water-testing", "label": "Well Water Testing", "tagline": "Lab-certified analysis", "icon": "<path d=\"M12 2s7 8 7 13a7 7 0 01-14 0c0-5 7-13 7-13z\"/>" },
+        { "slug": "septic-inspection", "label": "Septic Inspection", "tagline": "Title 5 coordination", "icon": "<rect x=\"3\" y=\"9\" width=\"18\" height=\"11\" rx=\"2\"/><path d=\"M7 9V6a5 5 0 0110 0v3\"/>" },
+        { "slug": "termite-wdi", "label": "Termite & WDI", "tagline": "NPMA-33 for FHA/VA", "icon": "<path d=\"M12 3v18M5 8l7-5 7 5M5 16l7 5 7-5M3 12h18\"/>" },
+        { "slug": "mold-inspection", "label": "Mold Inspection", "tagline": "Visual + air sampling", "icon": "<circle cx=\"7\" cy=\"9\" r=\"3\"/><circle cx=\"17\" cy=\"11\" r=\"3\"/><circle cx=\"11\" cy=\"17\" r=\"3\"/>" },
+        { "slug": "thermal-imaging", "label": "Thermal Imaging", "tagline": "Hidden moisture & leaks", "icon": "<path d=\"M14 14.76V3.5a2.5 2.5 0 00-5 0v11.26a4 4 0 105 0z\"/>" }
       ]
     },
     "areas": {
@@ -121,7 +121,7 @@
       "viewAllHref": "/service-area/",
       "promo": {
         "eyebrow": "Don't see your town?",
-        "text": "We cover the Pioneer Valley and the surrounding towns — call and we'll let you know."
+        "text": "Inspections are regularly performed across Franklin, Hampshire, and Hampden counties. If you're unsure whether your town is covered, just call or reach out online."
       }
     }
   },
